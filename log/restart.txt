@@ -2581,3 +2581,787 @@ process name: appBox5	restart count: 32	start time: 2023.12.11 14:29:00.422 	rea
 process name: appBox4	restart count: 36	start time: 2023.12.11 14:29:00.686 	reason: EXIT(2)
 process name: appBox1	restart count: 37	start time: 2023.12.11 14:29:02.347 	reason: SIGNAL(5).Trace/BPT trap: 5
 process name: appBox2	restart count: 37	start time: 2023.12.11 14:29:02.358 	reason: EXIT(3)
+process name: appBox1	restart count: 0	start time: 2023.12.15 13:51:16.796 	reason: Init.
+process name: appBox2	restart count: 0	start time: 2023.12.15 13:51:16.815 	reason: Init.
+process name: appBox3	restart count: 0	start time: 2023.12.15 13:51:16.820 	reason: Init.
+process name: appBox4	restart count: 0	start time: 2023.12.15 13:51:16.824 	reason: Init.
+process name: appBox5	restart count: 0	start time: 2023.12.15 13:51:16.829 	reason: Init.
+process name: appBox6	restart count: 0	start time: 2023.12.15 13:51:16.833 	reason: Init.
+process name: appBox7	restart count: 0	start time: 2023.12.15 13:51:16.836 	reason: Init.
+process name: appBox8	restart count: 0	start time: 2023.12.15 13:51:16.839 	reason: Init.
+process name: appBox9	restart count: 0	start time: 2023.12.15 13:51:16.842 	reason: Init.
+process name: appBox1	restart count: 1	start time: 2023.12.15 13:51:19.059 	reason: SIGNAL(1).Hangup: 1
+process name: appBox7	restart count: 1	start time: 2023.12.15 13:51:19.396 	reason: EXIT(0)
+process name: appBox6	restart count: 1	start time: 2023.12.15 13:51:21.175 	reason: EXIT(1)
+process name: appBox5	restart count: 1	start time: 2023.12.15 13:51:22.950 	reason: EXIT(2)
+process name: appBox5	restart count: 2	start time: 2023.12.15 13:51:23.964 	reason: EXIT(0)
+process name: appBox6	restart count: 2	start time: 2023.12.15 13:51:24.187 	reason: EXIT(1)
+process name: appBox7	restart count: 2	start time: 2023.12.15 13:51:24.410 	reason: EXIT(2)
+process name: appBox4	restart count: 1	start time: 2023.12.15 13:51:24.723 	reason: EXIT(3)
+process name: appBox1	restart count: 2	start time: 2023.12.15 13:51:26.069 	reason: EXIT(3)
+process name: appBox3	restart count: 1	start time: 2023.12.15 13:51:26.506 	reason: EXIT(4)
+process name: appBox9	restart count: 1	start time: 2023.12.15 13:51:26.838 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox1	restart count: 3	start time: 2023.12.15 13:51:28.081 	reason: SIGNAL(1).Hangup: 1
+process name: appBox2	restart count: 1	start time: 2023.12.15 13:51:28.286 	reason: EXIT(5)
+process name: appBox8	restart count: 1	start time: 2023.12.15 13:51:28.617 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox4	restart count: 2	start time: 2023.12.15 13:51:28.735 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox8	restart count: 2	start time: 2023.12.15 13:51:29.631 	reason: EXIT(0)
+process name: appBox7	restart count: 3	start time: 2023.12.15 13:51:30.426 	reason: SIGNAL(3).Quit: 3
+process name: appBox2	restart count: 2	start time: 2023.12.15 13:51:31.301 	reason: EXIT(1)
+process name: appBox6	restart count: 3	start time: 2023.12.15 13:51:32.197 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox1	restart count: 4	start time: 2023.12.15 13:51:33.094 	reason: EXIT(2)
+process name: appBox5	restart count: 3	start time: 2023.12.15 13:51:33.976 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox6	restart count: 4	start time: 2023.12.15 13:51:34.211 	reason: SIGNAL(1).Hangup: 1
+process name: appBox2	restart count: 3	start time: 2023.12.15 13:51:35.313 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox9	restart count: 2	start time: 2023.12.15 13:51:35.851 	reason: EXIT(4)
+process name: appBox7	restart count: 4	start time: 2023.12.15 13:51:36.440 	reason: SIGNAL(3).Quit: 3
+process name: appBox7	restart count: 5	start time: 2023.12.15 13:51:37.453 	reason: EXIT(0)
+process name: appBox3	restart count: 2	start time: 2023.12.15 13:51:37.518 	reason: EXIT(5)
+process name: appBox8	restart count: 3	start time: 2023.12.15 13:51:37.638 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox4	restart count: 3	start time: 2023.12.15 13:51:38.747 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox9	restart count: 3	start time: 2023.12.15 13:51:38.863 	reason: EXIT(1)
+process name: appBox2	restart count: 4	start time: 2023.12.15 13:51:40.328 	reason: EXIT(2)
+process name: appBox9	restart count: 4	start time: 2023.12.15 13:51:40.873 	reason: SIGNAL(1).Hangup: 1
+process name: appBox6	restart count: 5	start time: 2023.12.15 13:51:41.221 	reason: EXIT(3)
+process name: appBox4	restart count: 4	start time: 2023.12.15 13:51:42.763 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox5	restart count: 4	start time: 2023.12.15 13:51:42.988 	reason: EXIT(4)
+process name: appBox8	restart count: 4	start time: 2023.12.15 13:51:43.651 	reason: SIGNAL(3).Quit: 3
+process name: appBox1	restart count: 5	start time: 2023.12.15 13:51:44.107 	reason: EXIT(5)
+process name: appBox8	restart count: 5	start time: 2023.12.15 13:51:44.663 	reason: EXIT(0)
+process name: appBox3	restart count: 3	start time: 2023.12.15 13:51:45.533 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox5	restart count: 5	start time: 2023.12.15 13:51:46.003 	reason: EXIT(1)
+process name: appBox7	restart count: 6	start time: 2023.12.15 13:51:47.465 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox4	restart count: 5	start time: 2023.12.15 13:51:47.776 	reason: EXIT(2)
+process name: appBox5	restart count: 6	start time: 2023.12.15 13:51:48.019 	reason: SIGNAL(1).Hangup: 1
+process name: appBox6	restart count: 6	start time: 2023.12.15 13:51:48.231 	reason: EXIT(3)
+process name: appBox3	restart count: 4	start time: 2023.12.15 13:51:49.546 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox9	restart count: 5	start time: 2023.12.15 13:51:49.885 	reason: EXIT(4)
+process name: appBox9	restart count: 6	start time: 2023.12.15 13:51:50.897 	reason: EXIT(0)
+process name: appBox2	restart count: 5	start time: 2023.12.15 13:51:51.339 	reason: EXIT(5)
+process name: appBox3	restart count: 5	start time: 2023.12.15 13:51:52.560 	reason: EXIT(1)
+process name: appBox8	restart count: 6	start time: 2023.12.15 13:51:52.675 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox6	restart count: 7	start time: 2023.12.15 13:51:53.241 	reason: EXIT(2)
+process name: appBox1	restart count: 6	start time: 2023.12.15 13:51:54.116 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox5	restart count: 7	start time: 2023.12.15 13:51:55.031 	reason: EXIT(3)
+process name: appBox6	restart count: 8	start time: 2023.12.15 13:51:55.250 	reason: SIGNAL(1).Hangup: 1
+process name: appBox8	restart count: 7	start time: 2023.12.15 13:51:56.689 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox4	restart count: 6	start time: 2023.12.15 13:51:56.791 	reason: EXIT(4)
+process name: appBox7	restart count: 7	start time: 2023.12.15 13:51:58.479 	reason: EXIT(5)
+process name: appBox3	restart count: 6	start time: 2023.12.15 13:51:58.573 	reason: SIGNAL(3).Quit: 3
+process name: appBox2	restart count: 6	start time: 2023.12.15 13:51:59.352 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox3	restart count: 7	start time: 2023.12.15 13:52:00.588 	reason: SIGNAL(1).Hangup: 1
+process name: appBox9	restart count: 7	start time: 2023.12.15 13:52:00.913 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox6	restart count: 9	start time: 2023.12.15 13:52:02.263 	reason: EXIT(3)
+process name: appBox7	restart count: 8	start time: 2023.12.15 13:52:02.492 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox4	restart count: 7	start time: 2023.12.15 13:52:02.804 	reason: SIGNAL(3).Quit: 3
+process name: appBox7	restart count: 9	start time: 2023.12.15 13:52:03.509 	reason: EXIT(0)
+process name: appBox5	restart count: 8	start time: 2023.12.15 13:52:04.038 	reason: EXIT(4)
+process name: appBox8	restart count: 8	start time: 2023.12.15 13:52:04.699 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox1	restart count: 7	start time: 2023.12.15 13:52:05.128 	reason: EXIT(5)
+process name: appBox6	restart count: 10	start time: 2023.12.15 13:52:05.277 	reason: EXIT(1)
+process name: appBox1	restart count: 8	start time: 2023.12.15 13:52:07.135 	reason: SIGNAL(1).Hangup: 1
+process name: appBox9	restart count: 8	start time: 2023.12.15 13:52:07.927 	reason: EXIT(3)
+process name: appBox8	restart count: 9	start time: 2023.12.15 13:52:08.711 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox3	restart count: 8	start time: 2023.12.15 13:52:09.599 	reason: EXIT(4)
+process name: appBox5	restart count: 9	start time: 2023.12.15 13:52:10.050 	reason: SIGNAL(3).Quit: 3
+process name: appBox2	restart count: 7	start time: 2023.12.15 13:52:10.364 	reason: EXIT(5)
+process name: appBox7	restart count: 10	start time: 2023.12.15 13:52:11.520 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox3	restart count: 9	start time: 2023.12.15 13:52:11.611 	reason: SIGNAL(1).Hangup: 1
+process name: appBox8	restart count: 10	start time: 2023.12.15 13:52:12.722 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox4	restart count: 8	start time: 2023.12.15 13:52:12.813 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox8	restart count: 11	start time: 2023.12.15 13:52:13.734 	reason: EXIT(0)
+process name: appBox9	restart count: 9	start time: 2023.12.15 13:52:13.936 	reason: SIGNAL(3).Quit: 3
+process name: appBox1	restart count: 0	start time: 2023.12.15 13:53:33.979 	reason: Init.
+process name: appBox2	restart count: 0	start time: 2023.12.15 13:53:33.997 	reason: Init.
+process name: appBox3	restart count: 0	start time: 2023.12.15 13:53:34.002 	reason: Init.
+process name: appBox4	restart count: 0	start time: 2023.12.15 13:53:34.007 	reason: Init.
+process name: appBox5	restart count: 0	start time: 2023.12.15 13:53:34.010 	reason: Init.
+process name: appBox6	restart count: 0	start time: 2023.12.15 13:53:34.014 	reason: Init.
+process name: appBox7	restart count: 0	start time: 2023.12.15 13:53:34.017 	reason: Init.
+process name: appBox8	restart count: 0	start time: 2023.12.15 13:53:34.021 	reason: Init.
+process name: appBox9	restart count: 0	start time: 2023.12.15 13:53:34.024 	reason: Init.
+process name: appBox1	restart count: 1	start time: 2023.12.15 13:53:35.011 	reason: EXIT(0)
+process name: appBox6	restart count: 1	start time: 2023.12.15 13:53:36.028 	reason: SIGNAL(1).Hangup: 1
+process name: appBox1	restart count: 2	start time: 2023.12.15 13:53:37.024 	reason: SIGNAL(1).Hangup: 1
+process name: appBox5	restart count: 1	start time: 2023.12.15 13:53:38.022 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox4	restart count: 1	start time: 2023.12.15 13:53:40.022 	reason: SIGNAL(3).Quit: 3
+process name: appBox5	restart count: 2	start time: 2023.12.15 13:53:40.034 	reason: SIGNAL(1).Hangup: 1
+process name: appBox9	restart count: 1	start time: 2023.12.15 13:53:41.035 	reason: EXIT(3)
+process name: appBox1	restart count: 3	start time: 2023.12.15 13:53:41.046 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox3	restart count: 1	start time: 2023.12.15 13:53:42.016 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox6	restart count: 2	start time: 2023.12.15 13:53:42.037 	reason: SIGNAL(3).Quit: 3
+process name: appBox8	restart count: 1	start time: 2023.12.15 13:53:43.030 	reason: EXIT(4)
+process name: appBox2	restart count: 1	start time: 2023.12.15 13:53:44.009 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox3	restart count: 2	start time: 2023.12.15 13:53:44.027 	reason: SIGNAL(1).Hangup: 1
+process name: appBox7	restart count: 1	start time: 2023.12.15 13:53:45.028 	reason: EXIT(5)
+process name: appBox1	restart count: 4	start time: 2023.12.15 13:53:45.054 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox1	restart count: 5	start time: 2023.12.15 13:53:46.066 	reason: EXIT(0)
+process name: appBox9	restart count: 2	start time: 2023.12.15 13:53:47.049 	reason: SIGNAL(3).Quit: 3
+process name: appBox7	restart count: 2	start time: 2023.12.15 13:53:48.041 	reason: EXIT(1)
+process name: appBox5	restart count: 3	start time: 2023.12.15 13:53:48.052 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox3	restart count: 3	start time: 2023.12.15 13:53:49.037 	reason: EXIT(2)
+process name: appBox4	restart count: 2	start time: 2023.12.15 13:53:50.033 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	restart count: 2	start time: 2023.12.15 13:53:51.022 	reason: EXIT(3)
+process name: appBox3	restart count: 4	start time: 2023.12.15 13:53:51.043 	reason: SIGNAL(1).Hangup: 1
+process name: appBox8	restart count: 2	start time: 2023.12.15 13:53:52.040 	reason: EXIT(4)
+process name: appBox5	restart count: 4	start time: 2023.12.15 13:53:52.061 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox6	restart count: 3	start time: 2023.12.15 13:53:53.049 	reason: EXIT(5)
+process name: appBox7	restart count: 3	start time: 2023.12.15 13:53:54.056 	reason: SIGNAL(3).Quit: 3
+process name: appBox6	restart count: 4	start time: 2023.12.15 13:53:54.070 	reason: EXIT(0)
+process name: appBox9	restart count: 3	start time: 2023.12.15 13:53:55.059 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox5	restart count: 5	start time: 2023.12.15 13:53:55.070 	reason: EXIT(1)
+process name: appBox1	restart count: 6	start time: 2023.12.15 13:53:56.079 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox8	restart count: 3	start time: 2023.12.15 13:53:57.053 	reason: EXIT(2)
+process name: appBox3	restart count: 5	start time: 2023.12.15 13:53:58.054 	reason: EXIT(3)
+process name: appBox1	restart count: 7	start time: 2023.12.15 13:53:58.094 	reason: SIGNAL(1).Hangup: 1
+process name: appBox5	restart count: 6	start time: 2023.12.15 13:53:59.082 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox2	restart count: 3	start time: 2023.12.15 13:54:00.036 	reason: EXIT(4)
+process name: appBox4	restart count: 3	start time: 2023.12.15 13:54:01.046 	reason: EXIT(5)
+process name: appBox9	restart count: 4	start time: 2023.12.15 13:54:01.070 	reason: SIGNAL(3).Quit: 3
+process name: appBox4	restart count: 4	start time: 2023.12.15 13:54:02.061 	reason: EXIT(0)
+process name: appBox6	restart count: 5	start time: 2023.12.15 13:54:02.079 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox2	restart count: 4	start time: 2023.12.15 13:54:03.049 	reason: EXIT(1)
+process name: appBox7	restart count: 4	start time: 2023.12.15 13:54:04.072 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox5	restart count: 7	start time: 2023.12.15 13:54:04.093 	reason: EXIT(2)
+process name: appBox1	restart count: 8	start time: 2023.12.15 13:54:05.108 	reason: EXIT(3)
+process name: appBox2	restart count: 5	start time: 2023.12.15 13:54:06.062 	reason: EXIT(1)
+process name: appBox3	restart count: 6	start time: 2023.12.15 13:54:07.070 	reason: EXIT(4)
+process name: appBox6	restart count: 6	start time: 2023.12.15 13:54:07.088 	reason: EXIT(2)
+process name: appBox8	restart count: 4	start time: 2023.12.15 13:54:08.061 	reason: EXIT(5)
+process name: appBox4	restart count: 5	start time: 2023.12.15 13:54:09.074 	reason: EXIT(3)
+process name: appBox3	restart count: 7	start time: 2023.12.15 13:54:09.085 	reason: SIGNAL(1).Hangup: 1
+process name: appBox2	restart count: 6	start time: 2023.12.15 13:54:10.072 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox9	restart count: 5	start time: 2023.12.15 13:54:11.084 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	restart count: 9	start time: 2023.12.15 13:54:11.124 	reason: SIGNAL(3).Quit: 3
+process name: appBox9	restart count: 6	start time: 2023.12.15 13:54:12.104 	reason: EXIT(0)
+process name: appBox5	restart count: 8	start time: 2023.12.15 13:54:12.122 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox2	restart count: 7	start time: 2023.12.15 13:54:13.083 	reason: EXIT(1)
+process name: appBox7	restart count: 5	start time: 2023.12.15 13:54:14.084 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox3	restart count: 8	start time: 2023.12.15 13:54:14.103 	reason: EXIT(2)
+process name: appBox4	restart count: 6	start time: 2023.12.15 13:54:16.085 	reason: EXIT(3)
+process name: appBox7	restart count: 6	start time: 2023.12.15 13:54:16.100 	reason: SIGNAL(1).Hangup: 1
+process name: appBox8	restart count: 5	start time: 2023.12.15 13:54:17.076 	reason: EXIT(4)
+process name: appBox2	restart count: 8	start time: 2023.12.15 13:54:17.095 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox6	restart count: 7	start time: 2023.12.15 13:54:18.100 	reason: EXIT(5)
+process name: appBox5	restart count: 9	start time: 2023.12.15 13:54:18.135 	reason: SIGNAL(3).Quit: 3
+process name: appBox2	restart count: 9	start time: 2023.12.15 13:54:19.108 	reason: SIGNAL(1).Hangup: 1
+process name: appBox9	restart count: 7	start time: 2023.12.15 13:54:20.118 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox8	restart count: 6	start time: 2023.12.15 13:54:21.091 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox1	restart count: 10	start time: 2023.12.15 13:54:21.137 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox7	restart count: 7	start time: 2023.12.15 13:54:22.112 	reason: SIGNAL(3).Quit: 3
+process name: appBox7	restart count: 8	start time: 2023.12.15 13:54:23.124 	reason: EXIT(0)
+process name: appBox4	restart count: 7	start time: 2023.12.15 13:54:24.100 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox3	restart count: 9	start time: 2023.12.15 13:54:25.116 	reason: EXIT(5)
+process name: appBox9	restart count: 8	start time: 2023.12.15 13:54:25.136 	reason: EXIT(2)
+process name: appBox2	restart count: 10	start time: 2023.12.15 13:54:26.125 	reason: EXIT(3)
+process name: appBox5	restart count: 10	start time: 2023.12.15 13:54:27.150 	reason: EXIT(4)
+process name: appBox2	restart count: 11	start time: 2023.12.15 13:54:28.135 	reason: SIGNAL(1).Hangup: 1
+process name: appBox6	restart count: 8	start time: 2023.12.15 13:54:29.111 	reason: EXIT(5)
+process name: appBox9	restart count: 9	start time: 2023.12.15 13:54:29.150 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox1	restart count: 11	start time: 2023.12.15 13:54:30.149 	reason: EXIT(4)
+process name: appBox3	restart count: 10	start time: 2023.12.15 13:54:31.134 	reason: SIGNAL(3).Quit: 3
+process name: appBox8	restart count: 7	start time: 2023.12.15 13:54:32.106 	reason: EXIT(5)
+process name: appBox4	restart count: 8	start time: 2023.12.15 13:54:32.123 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox3	restart count: 11	start time: 2023.12.15 13:54:32.143 	reason: EXIT(0)
+process name: appBox7	restart count: 9	start time: 2023.12.15 13:54:33.136 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	restart count: 12	start time: 2023.12.15 13:54:33.158 	reason: EXIT(1)
+process name: appBox9	restart count: 10	start time: 2023.12.15 13:54:34.162 	reason: EXIT(2)
+process name: appBox1	restart count: 13	start time: 2023.12.15 13:54:35.171 	reason: SIGNAL(1).Hangup: 1
+process name: appBox6	restart count: 9	start time: 2023.12.15 13:54:36.128 	reason: EXIT(3)
+process name: appBox7	restart count: 10	start time: 2023.12.15 13:54:37.149 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox2	restart count: 12	start time: 2023.12.15 13:54:37.167 	reason: EXIT(4)
+process name: appBox3	restart count: 12	start time: 2023.12.15 13:54:38.158 	reason: SIGNAL(3).Quit: 3
+process name: appBox5	restart count: 11	start time: 2023.12.15 13:54:38.178 	reason: EXIT(5)
+process name: appBox3	restart count: 13	start time: 2023.12.15 13:54:39.173 	reason: EXIT(0)
+process name: appBox4	restart count: 9	start time: 2023.12.15 13:54:40.143 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox2	restart count: 13	start time: 2023.12.15 13:54:40.177 	reason: EXIT(1)
+process name: appBox8	restart count: 8	start time: 2023.12.15 13:54:42.123 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox7	restart count: 11	start time: 2023.12.15 13:54:42.165 	reason: EXIT(2)
+process name: appBox8	restart count: 9	start time: 2023.12.15 13:54:43.139 	reason: EXIT(0)
+process name: appBox6	restart count: 10	start time: 2023.12.15 13:54:43.154 	reason: EXIT(3)
+process name: appBox1	restart count: 14	start time: 2023.12.15 13:54:44.186 	reason: EXIT(4)
+process name: appBox2	restart count: 14	start time: 2023.12.15 13:54:44.200 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox9	restart count: 11	start time: 2023.12.15 13:54:45.175 	reason: EXIT(5)
+process name: appBox4	restart count: 10	start time: 2023.12.15 13:54:46.155 	reason: SIGNAL(3).Quit: 3
+process name: appBox2	restart count: 15	start time: 2023.12.15 13:54:46.211 	reason: SIGNAL(1).Hangup: 1
+process name: appBox3	restart count: 14	start time: 2023.12.15 13:54:47.190 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox5	restart count: 12	start time: 2023.12.15 13:54:48.189 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	restart count: 15	start time: 2023.12.15 13:54:48.199 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox6	restart count: 11	start time: 2023.12.15 13:54:49.165 	reason: SIGNAL(3).Quit: 3
+process name: appBox5	restart count: 13	start time: 2023.12.15 13:54:49.197 	reason: EXIT(0)
+process name: appBox8	restart count: 10	start time: 2023.12.15 13:54:51.154 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox3	restart count: 15	start time: 2023.12.15 13:54:51.202 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox7	restart count: 12	start time: 2023.12.15 13:54:52.174 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	restart count: 16	start time: 2023.12.15 13:54:52.221 	reason: SIGNAL(3).Quit: 3
+process name: appBox3	restart count: 16	start time: 2023.12.15 13:54:53.213 	reason: SIGNAL(1).Hangup: 1
+process name: appBox4	restart count: 11	start time: 2023.12.15 13:54:54.168 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox8	restart count: 11	start time: 2023.12.15 13:54:55.168 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox9	restart count: 12	start time: 2023.12.15 13:54:55.189 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox5	restart count: 14	start time: 2023.12.15 13:54:55.206 	reason: SIGNAL(3).Quit: 3
+process name: appBox9	restart count: 13	start time: 2023.12.15 13:54:56.203 	reason: EXIT(0)
+process name: appBox6	restart count: 12	start time: 2023.12.15 13:54:57.174 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox8	restart count: 12	start time: 2023.12.15 13:54:58.182 	reason: EXIT(1)
+process name: appBox1	restart count: 16	start time: 2023.12.15 13:54:58.208 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox4	restart count: 12	start time: 2023.12.15 13:54:59.181 	reason: EXIT(2)
+process name: appBox1	restart count: 17	start time: 2023.12.15 13:54:59.223 	reason: EXIT(0)
+process name: appBox3	restart count: 17	start time: 2023.12.15 13:55:00.219 	reason: EXIT(3)
+process name: appBox1	restart count: 18	start time: 2023.12.15 13:55:00.231 	reason: EXIT(0)
+process name: appBox8	restart count: 13	start time: 2023.12.15 13:55:01.196 	reason: EXIT(1)
+process name: appBox2	restart count: 17	start time: 2023.12.15 13:55:01.231 	reason: EXIT(4)
+process name: appBox6	restart count: 13	start time: 2023.12.15 13:55:02.187 	reason: EXIT(2)
+process name: appBox4	restart count: 13	start time: 2023.12.15 13:55:02.198 	reason: EXIT(1)
+process name: appBox7	restart count: 13	start time: 2023.12.15 13:55:03.195 	reason: EXIT(5)
+process name: appBox6	restart count: 14	start time: 2023.12.15 13:55:04.195 	reason: SIGNAL(1).Hangup: 1
+process name: appBox9	restart count: 14	start time: 2023.12.15 13:55:04.214 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox5	restart count: 15	start time: 2023.12.15 13:55:05.220 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	restart count: 18	start time: 2023.12.15 13:55:05.238 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox2	restart count: 19	start time: 2023.12.15 13:55:06.248 	reason: EXIT(0)
+process name: appBox8	restart count: 14	start time: 2023.12.15 13:55:07.208 	reason: SIGNAL(3).Quit: 3
+process name: appBox8	restart count: 15	start time: 2023.12.15 13:55:08.217 	reason: EXIT(0)
+process name: appBox5	restart count: 16	start time: 2023.12.15 13:55:08.227 	reason: EXIT(1)
+process name: appBox1	restart count: 19	start time: 2023.12.15 13:55:08.239 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox9	restart count: 15	start time: 2023.12.15 13:55:09.225 	reason: EXIT(2)
+process name: appBox3	restart count: 18	start time: 2023.12.15 13:55:10.234 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox6	restart count: 15	start time: 2023.12.15 13:55:11.211 	reason: EXIT(3)
+process name: appBox3	restart count: 19	start time: 2023.12.15 13:55:11.244 	reason: EXIT(0)
+process name: appBox7	restart count: 14	start time: 2023.12.15 13:55:12.210 	reason: EXIT(4)
+process name: appBox9	restart count: 16	start time: 2023.12.15 13:55:12.237 	reason: EXIT(1)
+process name: appBox4	restart count: 14	start time: 2023.12.15 13:55:13.210 	reason: EXIT(5)
+process name: appBox2	restart count: 20	start time: 2023.12.15 13:55:13.259 	reason: EXIT(3)
+process name: appBox1	restart count: 20	start time: 2023.12.15 13:55:14.250 	reason: SIGNAL(3).Quit: 3
+process name: appBox4	restart count: 15	start time: 2023.12.15 13:55:15.224 	reason: SIGNAL(1).Hangup: 1
+process name: appBox5	restart count: 17	start time: 2023.12.15 13:55:16.236 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox9	restart count: 17	start time: 2023.12.15 13:55:16.247 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox7	restart count: 15	start time: 2023.12.15 13:55:18.230 	reason: SIGNAL(3).Quit: 3
+process name: appBox8	restart count: 16	start time: 2023.12.15 13:55:18.246 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox9	restart count: 18	start time: 2023.12.15 13:55:18.256 	reason: SIGNAL(1).Hangup: 1
+process name: appBox3	restart count: 20	start time: 2023.12.15 13:55:19.254 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox5	restart count: 18	start time: 2023.12.15 13:55:20.245 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox6	restart count: 16	start time: 2023.12.15 13:55:21.229 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox4	restart count: 16	start time: 2023.12.15 13:55:21.242 	reason: SIGNAL(3).Quit: 3
+process name: appBox1	restart count: 21	start time: 2023.12.15 13:55:22.262 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox5	restart count: 19	start time: 2023.12.15 13:55:23.258 	reason: EXIT(1)
+process name: appBox2	restart count: 21	start time: 2023.12.15 13:55:23.270 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox3	restart count: 21	start time: 2023.12.15 13:55:24.265 	reason: EXIT(2)
+process name: appBox9	restart count: 19	start time: 2023.12.15 13:55:25.264 	reason: EXIT(3)
+process name: appBox8	restart count: 17	start time: 2023.12.15 13:55:27.259 	reason: EXIT(4)
+process name: appBox4	restart count: 17	start time: 2023.12.15 13:55:28.255 	reason: EXIT(3)
+process name: appBox8	restart count: 18	start time: 2023.12.15 13:55:28.272 	reason: EXIT(0)
+process name: appBox9	restart count: 20	start time: 2023.12.15 13:55:28.276 	reason: EXIT(1)
+process name: appBox7	restart count: 16	start time: 2023.12.15 13:55:29.243 	reason: EXIT(5)
+process name: appBox3	restart count: 22	start time: 2023.12.15 13:55:29.273 	reason: EXIT(2)
+process name: appBox6	restart count: 17	start time: 2023.12.15 13:55:30.240 	reason: EXIT(4)
+process name: appBox2	restart count: 22	start time: 2023.12.15 13:55:30.278 	reason: EXIT(3)
+process name: appBox5	restart count: 20	start time: 2023.12.15 13:55:32.270 	reason: EXIT(4)
+process name: appBox9	restart count: 21	start time: 2023.12.15 13:55:32.286 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox1	restart count: 22	start time: 2023.12.15 13:55:33.269 	reason: EXIT(5)
+process name: appBox9	restart count: 22	start time: 2023.12.15 13:55:33.294 	reason: EXIT(0)
+process name: appBox8	restart count: 19	start time: 2023.12.15 13:55:34.281 	reason: SIGNAL(3).Quit: 3
+process name: appBox5	restart count: 21	start time: 2023.12.15 13:55:35.287 	reason: EXIT(1)
+process name: appBox2	restart count: 23	start time: 2023.12.15 13:55:35.298 	reason: EXIT(2)
+process name: appBox9	restart count: 23	start time: 2023.12.15 13:55:35.305 	reason: SIGNAL(1).Hangup: 1
+process name: appBox4	restart count: 18	start time: 2023.12.15 13:55:36.267 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox6	restart count: 18	start time: 2023.12.15 13:55:37.250 	reason: EXIT(3)
+process name: appBox1	restart count: 23	start time: 2023.12.15 13:55:37.277 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox3	restart count: 23	start time: 2023.12.15 13:55:38.285 	reason: EXIT(4)
+process name: appBox4	restart count: 19	start time: 2023.12.15 13:55:39.281 	reason: EXIT(1)
+process name: appBox7	restart count: 17	start time: 2023.12.15 13:55:40.253 	reason: EXIT(5)
+process name: appBox4	restart count: 20	start time: 2023.12.15 13:55:40.290 	reason: EXIT(0)
+process name: appBox9	restart count: 24	start time: 2023.12.15 13:55:40.314 	reason: EXIT(2)
+process name: appBox3	restart count: 24	start time: 2023.12.15 13:55:41.294 	reason: EXIT(1)
+process name: appBox2	restart count: 24	start time: 2023.12.15 13:55:42.309 	reason: EXIT(3)
+process name: appBox1	restart count: 24	start time: 2023.12.15 13:55:44.283 	reason: EXIT(3)
+process name: appBox5	restart count: 22	start time: 2023.12.15 13:55:44.293 	reason: EXIT(4)
+process name: appBox2	restart count: 25	start time: 2023.12.15 13:55:44.319 	reason: SIGNAL(1).Hangup: 1
+process name: appBox8	restart count: 20	start time: 2023.12.15 13:55:45.291 	reason: EXIT(5)
+process name: appBox3	restart count: 25	start time: 2023.12.15 13:55:45.303 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox6	restart count: 19	start time: 2023.12.15 13:55:46.258 	reason: EXIT(4)
+process name: appBox9	restart count: 25	start time: 2023.12.15 13:55:46.322 	reason: SIGNAL(3).Quit: 3
+process name: appBox3	restart count: 26	start time: 2023.12.15 13:55:47.309 	reason: SIGNAL(1).Hangup: 1
+process name: appBox4	restart count: 21	start time: 2023.12.15 13:55:48.302 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox8	restart count: 21	start time: 2023.12.15 13:55:49.301 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox2	restart count: 26	start time: 2023.12.15 13:55:49.328 	reason: EXIT(2)
+process name: appBox7	restart count: 18	start time: 2023.12.15 13:55:50.261 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox8	restart count: 22	start time: 2023.12.15 13:55:50.311 	reason: EXIT(0)
+process name: appBox5	restart count: 23	start time: 2023.12.15 13:55:51.303 	reason: EXIT(3)
+process name: appBox4	restart count: 22	start time: 2023.12.15 13:55:51.314 	reason: EXIT(1)
+process name: appBox4	restart count: 23	start time: 2023.12.15 13:55:52.324 	reason: EXIT(0)
+process name: appBox1	restart count: 25	start time: 2023.12.15 13:55:53.289 	reason: EXIT(4)
+process name: appBox5	restart count: 24	start time: 2023.12.15 13:55:54.313 	reason: EXIT(1)
+process name: appBox3	restart count: 27	start time: 2023.12.15 13:55:54.322 	reason: EXIT(3)
+process name: appBox9	restart count: 26	start time: 2023.12.15 13:55:55.334 	reason: EXIT(4)
+process name: appBox8	restart count: 23	start time: 2023.12.15 13:55:56.323 	reason: SIGNAL(3).Quit: 3
+process name: appBox9	restart count: 27	start time: 2023.12.15 13:55:56.345 	reason: EXIT(0)
+process name: appBox6	restart count: 20	start time: 2023.12.15 13:55:57.266 	reason: EXIT(5)
+process name: appBox3	restart count: 28	start time: 2023.12.15 13:55:57.333 	reason: EXIT(1)
+process name: appBox7	restart count: 19	start time: 2023.12.15 13:55:58.276 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox5	restart count: 25	start time: 2023.12.15 13:55:59.323 	reason: EXIT(2)
+process name: appBox2	restart count: 27	start time: 2023.12.15 13:55:59.337 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	restart count: 26	start time: 2023.12.15 13:56:00.297 	reason: EXIT(3)
+process name: appBox3	restart count: 29	start time: 2023.12.15 13:56:00.345 	reason: EXIT(1)
+process name: appBox4	restart count: 24	start time: 2023.12.15 13:56:02.334 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox6	restart count: 21	start time: 2023.12.15 13:56:03.281 	reason: SIGNAL(3).Quit: 3
+process name: appBox3	restart count: 30	start time: 2023.12.15 13:56:03.355 	reason: EXIT(1)
+process name: appBox9	restart count: 28	start time: 2023.12.15 13:56:04.357 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox1	restart count: 27	start time: 2023.12.15 13:56:05.306 	reason: EXIT(2)
+process name: appBox8	restart count: 24	start time: 2023.12.15 13:56:06.331 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	restart count: 28	start time: 2023.12.15 13:56:06.345 	reason: EXIT(3)
+process name: appBox8	restart count: 25	start time: 2023.12.15 13:56:07.343 	reason: EXIT(0)
+process name: appBox1	restart count: 28	start time: 2023.12.15 13:56:08.317 	reason: EXIT(1)
+process name: appBox5	restart count: 26	start time: 2023.12.15 13:56:08.338 	reason: EXIT(4)
+process name: appBox7	restart count: 20	start time: 2023.12.15 13:56:09.291 	reason: EXIT(5)
+process name: appBox9	restart count: 29	start time: 2023.12.15 13:56:09.369 	reason: EXIT(2)
+process name: appBox3	restart count: 31	start time: 2023.12.15 13:56:10.366 	reason: EXIT(3)
+process name: appBox7	restart count: 21	start time: 2023.12.15 13:56:11.299 	reason: SIGNAL(1).Hangup: 1
+process name: appBox6	restart count: 22	start time: 2023.12.15 13:56:12.294 	reason: EXIT(4)
+process name: appBox5	restart count: 27	start time: 2023.12.15 13:56:12.350 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox4	restart count: 25	start time: 2023.12.15 13:56:13.349 	reason: EXIT(5)
+process name: appBox5	restart count: 28	start time: 2023.12.15 13:56:13.368 	reason: EXIT(0)
+process name: appBox1	restart count: 29	start time: 2023.12.15 13:56:14.329 	reason: SIGNAL(3).Quit: 3
+process name: appBox6	restart count: 23	start time: 2023.12.15 13:56:15.308 	reason: EXIT(1)
+process name: appBox8	restart count: 26	start time: 2023.12.15 13:56:15.357 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox7	restart count: 22	start time: 2023.12.15 13:56:16.312 	reason: EXIT(2)
+process name: appBox2	restart count: 29	start time: 2023.12.15 13:56:16.352 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox8	restart count: 27	start time: 2023.12.15 13:56:17.375 	reason: SIGNAL(1).Hangup: 1
+process name: appBox3	restart count: 32	start time: 2023.12.15 13:56:17.391 	reason: EXIT(3)
+process name: appBox6	restart count: 24	start time: 2023.12.15 13:56:19.323 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox1	restart count: 30	start time: 2023.12.15 13:56:20.344 	reason: SIGNAL(3).Quit: 3
+process name: appBox9	restart count: 30	start time: 2023.12.15 13:56:20.378 	reason: EXIT(5)
+process name: appBox1	restart count: 31	start time: 2023.12.15 13:56:21.353 	reason: EXIT(0)
+process name: appBox5	restart count: 29	start time: 2023.12.15 13:56:21.378 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox6	restart count: 25	start time: 2023.12.15 13:56:22.336 	reason: EXIT(1)
+process name: appBox3	restart count: 33	start time: 2023.12.15 13:56:22.404 	reason: EXIT(2)
+process name: appBox4	restart count: 26	start time: 2023.12.15 13:56:23.363 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox5	restart count: 30	start time: 2023.12.15 13:56:23.386 	reason: SIGNAL(1).Hangup: 1
+process name: appBox8	restart count: 28	start time: 2023.12.15 13:56:24.387 	reason: EXIT(3)
+process name: appBox2	restart count: 30	start time: 2023.12.15 13:56:25.362 	reason: EXIT(4)
+process name: appBox1	restart count: 32	start time: 2023.12.15 13:56:26.366 	reason: EXIT(2)
+process name: appBox7	restart count: 23	start time: 2023.12.15 13:56:27.331 	reason: EXIT(5)
+process name: appBox3	restart count: 34	start time: 2023.12.15 13:56:27.411 	reason: EXIT(2)
+process name: appBox7	restart count: 24	start time: 2023.12.15 13:56:28.348 	reason: EXIT(0)
+process name: appBox6	restart count: 26	start time: 2023.12.15 13:56:29.349 	reason: EXIT(3)
+process name: appBox1	restart count: 33	start time: 2023.12.15 13:56:29.375 	reason: EXIT(1)
+process name: appBox2	restart count: 31	start time: 2023.12.15 13:56:30.369 	reason: EXIT(2)
+process name: appBox9	restart count: 31	start time: 2023.12.15 13:56:30.386 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	restart count: 32	start time: 2023.12.15 13:56:31.380 	reason: EXIT(0)
+process name: appBox8	restart count: 29	start time: 2023.12.15 13:56:31.398 	reason: EXIT(3)
+process name: appBox1	restart count: 34	start time: 2023.12.15 13:56:32.389 	reason: EXIT(1)
+process name: appBox5	restart count: 31	start time: 2023.12.15 13:56:32.410 	reason: EXIT(4)
+process name: appBox6	restart count: 27	start time: 2023.12.15 13:56:34.362 	reason: EXIT(2)
+process name: appBox4	restart count: 27	start time: 2023.12.15 13:56:34.377 	reason: EXIT(5)
+process name: appBox5	restart count: 32	start time: 2023.12.15 13:56:34.422 	reason: SIGNAL(1).Hangup: 1
+process name: appBox7	restart count: 25	start time: 2023.12.15 13:56:35.358 	reason: EXIT(3)
+process name: appBox1	restart count: 35	start time: 2023.12.15 13:56:36.404 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox8	restart count: 30	start time: 2023.12.15 13:56:37.410 	reason: SIGNAL(3).Quit: 3
+process name: appBox3	restart count: 35	start time: 2023.12.15 13:56:37.425 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox8	restart count: 31	start time: 2023.12.15 13:56:38.420 	reason: EXIT(0)
+process name: appBox2	restart count: 33	start time: 2023.12.15 13:56:39.393 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox1	restart count: 36	start time: 2023.12.15 13:56:39.412 	reason: EXIT(1)
+process name: appBox7	restart count: 26	start time: 2023.12.15 13:56:40.373 	reason: EXIT(2)
+process name: appBox9	restart count: 32	start time: 2023.12.15 13:56:40.392 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox5	restart count: 33	start time: 2023.12.15 13:56:41.431 	reason: EXIT(3)
+process name: appBox7	restart count: 27	start time: 2023.12.15 13:56:42.387 	reason: SIGNAL(1).Hangup: 1
+process name: appBox4	restart count: 28	start time: 2023.12.15 13:56:43.387 	reason: EXIT(4)
+process name: appBox1	restart count: 37	start time: 2023.12.15 13:56:43.420 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox6	restart count: 28	start time: 2023.12.15 13:56:45.375 	reason: EXIT(5)
+process name: appBox2	restart count: 34	start time: 2023.12.15 13:56:45.403 	reason: SIGNAL(3).Quit: 3
+process name: appBox6	restart count: 29	start time: 2023.12.15 13:56:46.387 	reason: EXIT(0)
+process name: appBox1	restart count: 38	start time: 2023.12.15 13:56:46.432 	reason: EXIT(1)
+process name: appBox8	restart count: 32	start time: 2023.12.15 13:56:46.455 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox3	restart count: 36	start time: 2023.12.15 13:56:47.439 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox4	restart count: 29	start time: 2023.12.15 13:56:48.398 	reason: EXIT(2)
+process name: appBox7	restart count: 28	start time: 2023.12.15 13:56:49.401 	reason: EXIT(3)
+process name: appBox3	restart count: 37	start time: 2023.12.15 13:56:49.450 	reason: SIGNAL(1).Hangup: 1
+process name: appBox5	restart count: 34	start time: 2023.12.15 13:56:50.442 	reason: EXIT(4)
+process name: appBox8	restart count: 33	start time: 2023.12.15 13:56:50.463 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox9	restart count: 33	start time: 2023.12.15 13:56:51.404 	reason: EXIT(5)
+process name: appBox9	restart count: 34	start time: 2023.12.15 13:56:52.424 	reason: EXIT(0)
+process name: appBox1	restart count: 39	start time: 2023.12.15 13:56:52.449 	reason: SIGNAL(3).Quit: 3
+process name: appBox8	restart count: 34	start time: 2023.12.15 13:56:53.475 	reason: EXIT(1)
+process name: appBox6	restart count: 30	start time: 2023.12.15 13:56:54.396 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox2	restart count: 35	start time: 2023.12.15 13:56:55.415 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox5	restart count: 35	start time: 2023.12.15 13:56:55.455 	reason: EXIT(2)
+process name: appBox3	restart count: 38	start time: 2023.12.15 13:56:56.465 	reason: EXIT(3)
+process name: appBox2	restart count: 36	start time: 2023.12.15 13:56:57.424 	reason: SIGNAL(1).Hangup: 1
+process name: appBox6	restart count: 31	start time: 2023.12.15 13:56:58.411 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox7	restart count: 29	start time: 2023.12.15 13:56:58.426 	reason: EXIT(4)
+process name: appBox4	restart count: 30	start time: 2023.12.15 13:56:59.414 	reason: EXIT(5)
+process name: appBox8	restart count: 35	start time: 2023.12.15 13:56:59.490 	reason: SIGNAL(3).Quit: 3
+process name: appBox7	restart count: 30	start time: 2023.12.15 13:57:00.437 	reason: SIGNAL(1).Hangup: 1
+process name: appBox1	restart count: 40	start time: 2023.12.15 13:57:00.457 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox6	restart count: 32	start time: 2023.12.15 13:57:02.428 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox9	restart count: 35	start time: 2023.12.15 13:57:02.445 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	restart count: 37	start time: 2023.12.15 13:57:03.439 	reason: SIGNAL(3).Quit: 3
+process name: appBox9	restart count: 36	start time: 2023.12.15 13:57:03.455 	reason: EXIT(0)
+process name: appBox6	restart count: 33	start time: 2023.12.15 13:57:05.440 	reason: EXIT(1)
+process name: appBox1	restart count: 41	start time: 2023.12.15 13:57:05.468 	reason: EXIT(2)
+process name: appBox3	restart count: 39	start time: 2023.12.15 13:57:05.482 	reason: EXIT(4)
+process name: appBox5	restart count: 36	start time: 2023.12.15 13:57:06.470 	reason: EXIT(5)
+process name: appBox7	restart count: 31	start time: 2023.12.15 13:57:07.446 	reason: EXIT(3)
+process name: appBox3	restart count: 40	start time: 2023.12.15 13:57:07.491 	reason: SIGNAL(1).Hangup: 1
+process name: appBox8	restart count: 36	start time: 2023.12.15 13:57:08.506 	reason: EXIT(4)
+process name: appBox1	restart count: 42	start time: 2023.12.15 13:57:09.478 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox4	restart count: 31	start time: 2023.12.15 13:57:10.430 	reason: EXIT(5)
+process name: appBox4	restart count: 32	start time: 2023.12.15 13:57:11.448 	reason: EXIT(0)
+process name: appBox6	restart count: 34	start time: 2023.12.15 13:57:11.461 	reason: SIGNAL(3).Quit: 3
+process name: appBox9	restart count: 37	start time: 2023.12.15 13:57:11.471 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox1	restart count: 43	start time: 2023.12.15 13:57:12.484 	reason: EXIT(1)
+process name: appBox2	restart count: 38	start time: 2023.12.15 13:57:13.452 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox8	restart count: 37	start time: 2023.12.15 13:57:13.516 	reason: EXIT(2)
+process name: appBox3	restart count: 41	start time: 2023.12.15 13:57:14.506 	reason: EXIT(3)
+process name: appBox2	restart count: 39	start time: 2023.12.15 13:57:15.465 	reason: SIGNAL(1).Hangup: 1
+process name: appBox7	restart count: 32	start time: 2023.12.15 13:57:16.463 	reason: EXIT(4)
+process name: appBox1	restart count: 44	start time: 2023.12.15 13:57:16.497 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox9	restart count: 38	start time: 2023.12.15 13:57:17.480 	reason: SIGNAL(3).Quit: 3
+process name: appBox5	restart count: 37	start time: 2023.12.15 13:57:17.498 	reason: EXIT(5)
+process name: appBox9	restart count: 39	start time: 2023.12.15 13:57:18.497 	reason: EXIT(0)
+process name: appBox6	restart count: 35	start time: 2023.12.15 13:57:19.474 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox1	restart count: 45	start time: 2023.12.15 13:57:19.518 	reason: EXIT(1)
+process name: appBox4	restart count: 33	start time: 2023.12.15 13:57:21.462 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox7	restart count: 33	start time: 2023.12.15 13:57:21.473 	reason: EXIT(2)
+process name: appBox2	restart count: 40	start time: 2023.12.15 13:57:22.478 	reason: EXIT(3)
+process name: appBox2	restart count: 41	start time: 2023.12.15 13:57:23.492 	reason: EXIT(0)
+process name: appBox3	restart count: 42	start time: 2023.12.15 13:57:23.518 	reason: EXIT(4)
+process name: appBox1	restart count: 46	start time: 2023.12.15 13:57:23.530 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox7	restart count: 34	start time: 2023.12.15 13:57:24.488 	reason: EXIT(1)
+process name: appBox8	restart count: 38	start time: 2023.12.15 13:57:24.528 	reason: EXIT(5)
+process name: appBox6	restart count: 36	start time: 2023.12.15 13:57:25.486 	reason: SIGNAL(3).Quit: 3
+process name: appBox4	restart count: 34	start time: 2023.12.15 13:57:26.472 	reason: EXIT(2)
+process name: appBox9	restart count: 40	start time: 2023.12.15 13:57:26.510 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox8	restart count: 39	start time: 2023.12.15 13:57:26.544 	reason: SIGNAL(1).Hangup: 1
+process name: appBox5	restart count: 38	start time: 2023.12.15 13:57:27.513 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox7	restart count: 35	start time: 2023.12.15 13:57:28.503 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox7	restart count: 36	start time: 2023.12.15 13:57:29.514 	reason: EXIT(0)
+process name: appBox1	restart count: 47	start time: 2023.12.15 13:57:29.541 	reason: SIGNAL(3).Quit: 3
+process name: appBox5	restart count: 39	start time: 2023.12.15 13:57:30.524 	reason: EXIT(1)
+process name: appBox3	restart count: 43	start time: 2023.12.15 13:57:31.529 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox8	restart count: 40	start time: 2023.12.15 13:57:31.561 	reason: EXIT(2)
+process name: appBox2	restart count: 42	start time: 2023.12.15 13:57:33.506 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox9	restart count: 41	start time: 2023.12.15 13:57:33.521 	reason: EXIT(3)
+process name: appBox8	restart count: 41	start time: 2023.12.15 13:57:33.576 	reason: SIGNAL(1).Hangup: 1
+process name: appBox4	restart count: 35	start time: 2023.12.15 13:57:35.487 	reason: EXIT(4)
+process name: appBox3	restart count: 44	start time: 2023.12.15 13:57:35.543 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox6	restart count: 37	start time: 2023.12.15 13:57:36.500 	reason: EXIT(5)
+process name: appBox5	restart count: 40	start time: 2023.12.15 13:57:36.538 	reason: SIGNAL(3).Quit: 3
+process name: appBox6	restart count: 38	start time: 2023.12.15 13:57:37.514 	reason: EXIT(0)
+process name: appBox1	restart count: 48	start time: 2023.12.15 13:57:37.552 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox3	restart count: 45	start time: 2023.12.15 13:57:38.556 	reason: EXIT(1)
+process name: appBox7	restart count: 37	start time: 2023.12.15 13:57:39.528 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox4	restart count: 36	start time: 2023.12.15 13:57:40.501 	reason: EXIT(2)
+process name: appBox8	restart count: 42	start time: 2023.12.15 13:57:40.589 	reason: EXIT(3)
+process name: appBox7	restart count: 38	start time: 2023.12.15 13:57:41.540 	reason: SIGNAL(1).Hangup: 1
+process name: appBox9	restart count: 42	start time: 2023.12.15 13:57:42.531 	reason: EXIT(4)
+process name: appBox3	restart count: 46	start time: 2023.12.15 13:57:42.574 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox1	restart count: 49	start time: 2023.12.15 13:57:43.566 	reason: SIGNAL(3).Quit: 3
+process name: appBox2	restart count: 43	start time: 2023.12.15 13:57:44.520 	reason: EXIT(5)
+process name: appBox1	restart count: 50	start time: 2023.12.15 13:57:44.584 	reason: EXIT(0)
+process name: appBox6	restart count: 39	start time: 2023.12.15 13:57:45.524 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox3	restart count: 47	start time: 2023.12.15 13:57:45.584 	reason: EXIT(1)
+process name: appBox5	restart count: 41	start time: 2023.12.15 13:57:46.550 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox9	restart count: 43	start time: 2023.12.15 13:57:47.544 	reason: EXIT(2)
+process name: appBox5	restart count: 42	start time: 2023.12.15 13:57:47.561 	reason: EXIT(0)
+process name: appBox7	restart count: 39	start time: 2023.12.15 13:57:48.553 	reason: EXIT(3)
+process name: appBox3	restart count: 48	start time: 2023.12.15 13:57:48.596 	reason: EXIT(1)
+process name: appBox8	restart count: 43	start time: 2023.12.15 13:57:49.601 	reason: EXIT(4)
+process name: appBox6	restart count: 40	start time: 2023.12.15 13:57:50.540 	reason: EXIT(2)
+process name: appBox4	restart count: 37	start time: 2023.12.15 13:57:51.516 	reason: EXIT(5)
+process name: appBox1	restart count: 51	start time: 2023.12.15 13:57:51.597 	reason: EXIT(3)
+process name: appBox8	restart count: 44	start time: 2023.12.15 13:57:51.611 	reason: SIGNAL(1).Hangup: 1
+process name: appBox3	restart count: 49	start time: 2023.12.15 13:57:52.610 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox2	restart count: 44	start time: 2023.12.15 13:57:53.537 	reason: EXIT(4)
+process name: appBox2	restart count: 45	start time: 2023.12.15 13:57:54.550 	reason: EXIT(0)
+process name: appBox7	restart count: 40	start time: 2023.12.15 13:57:54.565 	reason: SIGNAL(3).Quit: 3
+process name: appBox5	restart count: 43	start time: 2023.12.15 13:57:55.570 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox3	restart count: 50	start time: 2023.12.15 13:57:55.621 	reason: EXIT(1)
+process name: appBox8	restart count: 45	start time: 2023.12.15 13:57:56.625 	reason: EXIT(2)
+process name: appBox9	restart count: 44	start time: 2023.12.15 13:57:57.561 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	restart count: 52	start time: 2023.12.15 13:57:58.608 	reason: EXIT(3)
+process name: appBox8	restart count: 46	start time: 2023.12.15 13:57:58.636 	reason: SIGNAL(1).Hangup: 1
+process name: appBox3	restart count: 51	start time: 2023.12.15 13:57:59.634 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox4	restart count: 38	start time: 2023.12.15 13:58:00.529 	reason: EXIT(4)
+process name: appBox6	restart count: 41	start time: 2023.12.15 13:58:01.550 	reason: EXIT(5)
+process name: appBox5	restart count: 44	start time: 2023.12.15 13:58:01.583 	reason: SIGNAL(3).Quit: 3
+process name: appBox6	restart count: 42	start time: 2023.12.15 13:58:02.561 	reason: EXIT(0)
+process name: appBox7	restart count: 41	start time: 2023.12.15 13:58:02.578 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox4	restart count: 39	start time: 2023.12.15 13:58:03.541 	reason: EXIT(1)
+process name: appBox2	restart count: 46	start time: 2023.12.15 13:58:04.564 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox3	restart count: 52	start time: 2023.12.15 13:58:04.648 	reason: EXIT(2)
+process name: appBox8	restart count: 47	start time: 2023.12.15 13:58:05.649 	reason: EXIT(3)
+process name: appBox2	restart count: 47	start time: 2023.12.15 13:58:06.573 	reason: SIGNAL(1).Hangup: 1
+process name: appBox4	restart count: 40	start time: 2023.12.15 13:58:07.561 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox1	restart count: 53	start time: 2023.12.15 13:58:07.620 	reason: EXIT(4)
+process name: appBox9	restart count: 45	start time: 2023.12.15 13:58:08.581 	reason: EXIT(5)
+process name: appBox7	restart count: 42	start time: 2023.12.15 13:58:08.598 	reason: SIGNAL(3).Quit: 3
+process name: appBox9	restart count: 46	start time: 2023.12.15 13:58:09.592 	reason: EXIT(0)
+process name: appBox6	restart count: 43	start time: 2023.12.15 13:58:10.570 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox1	restart count: 54	start time: 2023.12.15 13:58:10.632 	reason: EXIT(1)
+process name: appBox5	restart count: 45	start time: 2023.12.15 13:58:11.596 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox4	restart count: 41	start time: 2023.12.15 13:58:12.576 	reason: EXIT(2)
+process name: appBox2	restart count: 48	start time: 2023.12.15 13:58:13.586 	reason: EXIT(3)
+process name: appBox5	restart count: 46	start time: 2023.12.15 13:58:13.612 	reason: SIGNAL(1).Hangup: 1
+process name: appBox1	restart count: 55	start time: 2023.12.15 13:58:14.647 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox8	restart count: 48	start time: 2023.12.15 13:58:14.663 	reason: EXIT(4)
+process name: appBox3	restart count: 53	start time: 2023.12.15 13:58:15.663 	reason: EXIT(5)
+process name: appBox6	restart count: 44	start time: 2023.12.15 13:58:16.580 	reason: SIGNAL(3).Quit: 3
+process name: appBox3	restart count: 54	start time: 2023.12.15 13:58:16.674 	reason: EXIT(0)
+process name: appBox9	restart count: 47	start time: 2023.12.15 13:58:17.605 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox8	restart count: 49	start time: 2023.12.15 13:58:17.672 	reason: EXIT(1)
+process name: appBox7	restart count: 43	start time: 2023.12.15 13:58:18.610 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	restart count: 56	start time: 2023.12.15 13:58:19.659 	reason: EXIT(2)
+process name: appBox7	restart count: 44	start time: 2023.12.15 13:58:20.621 	reason: SIGNAL(1).Hangup: 1
+process name: appBox5	restart count: 47	start time: 2023.12.15 13:58:20.635 	reason: EXIT(3)
+process name: appBox8	restart count: 50	start time: 2023.12.15 13:58:21.683 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox2	restart count: 49	start time: 2023.12.15 13:58:22.597 	reason: EXIT(4)
+process name: appBox4	restart count: 42	start time: 2023.12.15 13:58:23.590 	reason: EXIT(5)
+process name: appBox9	restart count: 48	start time: 2023.12.15 13:58:23.616 	reason: SIGNAL(3).Quit: 3
+process name: appBox3	restart count: 55	start time: 2023.12.15 13:58:24.688 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox9	restart count: 49	start time: 2023.12.15 13:58:25.625 	reason: SIGNAL(1).Hangup: 1
+process name: appBox6	restart count: 45	start time: 2023.12.15 13:58:26.592 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox4	restart count: 43	start time: 2023.12.15 13:58:27.607 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox5	restart count: 48	start time: 2023.12.15 13:58:27.646 	reason: EXIT(3)
+process name: appBox2	restart count: 50	start time: 2023.12.15 13:58:28.610 	reason: SIGNAL(3).Quit: 3
+process name: appBox2	restart count: 51	start time: 2023.12.15 13:58:29.624 	reason: EXIT(0)
+process name: appBox7	restart count: 45	start time: 2023.12.15 13:58:29.646 	reason: EXIT(4)
+process name: appBox8	restart count: 51	start time: 2023.12.15 13:58:29.696 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox5	restart count: 49	start time: 2023.12.15 13:58:30.661 	reason: EXIT(1)
+process name: appBox1	restart count: 57	start time: 2023.12.15 13:58:30.672 	reason: EXIT(5)
+process name: appBox5	restart count: 50	start time: 2023.12.15 13:58:31.673 	reason: EXIT(0)
+process name: appBox4	restart count: 44	start time: 2023.12.15 13:58:32.622 	reason: EXIT(2)
+process name: appBox8	restart count: 52	start time: 2023.12.15 13:58:32.708 	reason: EXIT(1)
+process name: appBox6	restart count: 46	start time: 2023.12.15 13:58:33.605 	reason: EXIT(3)
+process name: appBox9	restart count: 50	start time: 2023.12.15 13:58:34.639 	reason: EXIT(4)
+process name: appBox7	restart count: 46	start time: 2023.12.15 13:58:34.655 	reason: EXIT(2)
+process name: appBox6	restart count: 47	start time: 2023.12.15 13:58:35.613 	reason: SIGNAL(1).Hangup: 1
+process name: appBox3	restart count: 56	start time: 2023.12.15 13:58:35.701 	reason: EXIT(5)
+process name: appBox2	restart count: 52	start time: 2023.12.15 13:58:36.641 	reason: EXIT(3)
+process name: appBox8	restart count: 53	start time: 2023.12.15 13:58:36.716 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox8	restart count: 54	start time: 2023.12.15 13:58:37.733 	reason: EXIT(0)
+process name: appBox4	restart count: 45	start time: 2023.12.15 13:58:38.638 	reason: SIGNAL(3).Quit: 3
+process name: appBox2	restart count: 53	start time: 2023.12.15 13:58:39.653 	reason: EXIT(1)
+process name: appBox5	restart count: 51	start time: 2023.12.15 13:58:39.684 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox1	restart count: 58	start time: 2023.12.15 13:58:40.681 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox3	restart count: 57	start time: 2023.12.15 13:58:40.710 	reason: EXIT(2)
+process name: appBox6	restart count: 48	start time: 2023.12.15 13:58:42.629 	reason: EXIT(3)
+process name: appBox1	restart count: 59	start time: 2023.12.15 13:58:42.693 	reason: SIGNAL(1).Hangup: 1
+process name: appBox7	restart count: 47	start time: 2023.12.15 13:58:43.668 	reason: EXIT(4)
+process name: appBox5	restart count: 52	start time: 2023.12.15 13:58:43.690 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox9	restart count: 51	start time: 2023.12.15 13:58:45.653 	reason: EXIT(5)
+process name: appBox2	restart count: 54	start time: 2023.12.15 13:58:45.667 	reason: SIGNAL(3).Quit: 3
+process name: appBox4	restart count: 46	start time: 2023.12.15 13:58:46.648 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox9	restart count: 52	start time: 2023.12.15 13:58:46.665 	reason: EXIT(0)
+process name: appBox5	restart count: 53	start time: 2023.12.15 13:58:46.699 	reason: EXIT(1)
+process name: appBox8	restart count: 55	start time: 2023.12.15 13:58:47.742 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox7	restart count: 48	start time: 2023.12.15 13:58:48.680 	reason: EXIT(2)
+process name: appBox1	restart count: 60	start time: 2023.12.15 13:58:49.704 	reason: EXIT(3)
+process name: appBox8	restart count: 56	start time: 2023.12.15 13:58:49.753 	reason: SIGNAL(1).Hangup: 1
+process name: appBox5	restart count: 54	start time: 2023.12.15 13:58:50.713 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox6	restart count: 49	start time: 2023.12.15 13:58:51.642 	reason: EXIT(4)
+process name: appBox3	restart count: 58	start time: 2023.12.15 13:58:51.721 	reason: EXIT(5)
+process name: appBox9	restart count: 53	start time: 2023.12.15 13:58:52.676 	reason: SIGNAL(3).Quit: 3
+process name: appBox3	restart count: 59	start time: 2023.12.15 13:58:52.731 	reason: EXIT(0)
+process name: appBox4	restart count: 47	start time: 2023.12.15 13:58:54.658 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox6	restart count: 50	start time: 2023.12.15 13:58:54.670 	reason: EXIT(1)
+process name: appBox2	restart count: 55	start time: 2023.12.15 13:58:55.675 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox5	restart count: 55	start time: 2023.12.15 13:58:55.728 	reason: EXIT(2)
+process name: appBox8	restart count: 57	start time: 2023.12.15 13:58:56.761 	reason: EXIT(3)
+process name: appBox2	restart count: 56	start time: 2023.12.15 13:58:57.688 	reason: SIGNAL(1).Hangup: 1
+process name: appBox6	restart count: 51	start time: 2023.12.15 13:58:58.678 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox1	restart count: 61	start time: 2023.12.15 13:58:58.715 	reason: EXIT(4)
+process name: appBox7	restart count: 49	start time: 2023.12.15 13:58:59.695 	reason: EXIT(5)
+process name: appBox4	restart count: 48	start time: 2023.12.15 13:59:00.665 	reason: SIGNAL(3).Quit: 3
+process name: appBox7	restart count: 50	start time: 2023.12.15 13:59:00.703 	reason: EXIT(0)
+process name: appBox3	restart count: 60	start time: 2023.12.15 13:59:00.739 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox1	restart count: 62	start time: 2023.12.15 13:59:01.727 	reason: EXIT(1)
+process name: appBox9	restart count: 54	start time: 2023.12.15 13:59:02.683 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox6	restart count: 52	start time: 2023.12.15 13:59:03.690 	reason: EXIT(2)
+process name: appBox9	restart count: 55	start time: 2023.12.15 13:59:04.695 	reason: SIGNAL(1).Hangup: 1
+process name: appBox2	restart count: 57	start time: 2023.12.15 13:59:04.716 	reason: EXIT(3)
+process name: appBox1	restart count: 63	start time: 2023.12.15 13:59:05.741 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox8	restart count: 58	start time: 2023.12.15 13:59:05.773 	reason: EXIT(4)
+process name: appBox5	restart count: 56	start time: 2023.12.15 13:59:06.743 	reason: EXIT(5)
+process name: appBox3	restart count: 61	start time: 2023.12.15 13:59:06.761 	reason: SIGNAL(3).Quit: 3
+process name: appBox5	restart count: 57	start time: 2023.12.15 13:59:07.756 	reason: EXIT(0)
+process name: appBox7	restart count: 51	start time: 2023.12.15 13:59:08.721 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox8	restart count: 59	start time: 2023.12.15 13:59:08.789 	reason: EXIT(1)
+process name: appBox4	restart count: 49	start time: 2023.12.15 13:59:10.679 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	restart count: 64	start time: 2023.12.15 13:59:10.758 	reason: EXIT(2)
+process name: appBox4	restart count: 50	start time: 2023.12.15 13:59:11.694 	reason: EXIT(0)
+process name: appBox2	restart count: 58	start time: 2023.12.15 13:59:11.725 	reason: EXIT(3)
+process name: appBox8	restart count: 60	start time: 2023.12.15 13:59:11.803 	reason: EXIT(1)
+process name: appBox9	restart count: 56	start time: 2023.12.15 13:59:13.715 	reason: EXIT(4)
+process name: appBox7	restart count: 52	start time: 2023.12.15 13:59:13.735 	reason: EXIT(2)
+process name: appBox6	restart count: 53	start time: 2023.12.15 13:59:14.705 	reason: EXIT(5)
+process name: appBox9	restart count: 57	start time: 2023.12.15 13:59:14.725 	reason: EXIT(0)
+process name: appBox5	restart count: 58	start time: 2023.12.15 13:59:14.766 	reason: EXIT(3)
+process name: appBox8	restart count: 61	start time: 2023.12.15 13:59:14.816 	reason: EXIT(1)
+process name: appBox2	restart count: 59	start time: 2023.12.15 13:59:16.739 	reason: EXIT(2)
+process name: appBox3	restart count: 62	start time: 2023.12.15 13:59:16.769 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox8	restart count: 62	start time: 2023.12.15 13:59:16.828 	reason: SIGNAL(1).Hangup: 1
+process name: appBox4	restart count: 51	start time: 2023.12.15 13:59:18.705 	reason: EXIT(3)
+process name: appBox5	restart count: 59	start time: 2023.12.15 13:59:18.779 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox9	restart count: 58	start time: 2023.12.15 13:59:20.738 	reason: SIGNAL(3).Quit: 3
+process name: appBox1	restart count: 65	start time: 2023.12.15 13:59:20.771 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox5	restart count: 60	start time: 2023.12.15 13:59:21.795 	reason: EXIT(1)
+process name: appBox6	restart count: 54	start time: 2023.12.15 13:59:22.716 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox4	restart count: 52	start time: 2023.12.15 13:59:23.717 	reason: EXIT(2)
+process name: appBox7	restart count: 53	start time: 2023.12.15 13:59:23.745 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox8	restart count: 63	start time: 2023.12.15 13:59:23.839 	reason: EXIT(3)
+process name: appBox3	restart count: 63	start time: 2023.12.15 13:59:25.783 	reason: EXIT(4)
+process name: appBox3	restart count: 64	start time: 2023.12.15 13:59:26.799 	reason: EXIT(0)
+process name: appBox8	restart count: 64	start time: 2023.12.15 13:59:26.851 	reason: EXIT(1)
+process name: appBox2	restart count: 60	start time: 2023.12.15 13:59:27.749 	reason: EXIT(5)
+process name: appBox1	restart count: 66	start time: 2023.12.15 13:59:27.778 	reason: EXIT(3)
+process name: appBox7	restart count: 54	start time: 2023.12.15 13:59:28.758 	reason: EXIT(2)
+process name: appBox9	restart count: 59	start time: 2023.12.15 13:59:29.750 	reason: EXIT(4)
+process name: appBox4	restart count: 53	start time: 2023.12.15 13:59:30.731 	reason: EXIT(3)
+process name: appBox7	restart count: 55	start time: 2023.12.15 13:59:30.771 	reason: SIGNAL(1).Hangup: 1
+process name: appBox6	restart count: 55	start time: 2023.12.15 13:59:31.727 	reason: EXIT(4)
+process name: appBox1	restart count: 67	start time: 2023.12.15 13:59:31.791 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox5	restart count: 61	start time: 2023.12.15 13:59:32.805 	reason: EXIT(5)
+process name: appBox2	restart count: 61	start time: 2023.12.15 13:59:33.767 	reason: SIGNAL(3).Quit: 3
+process name: appBox5	restart count: 62	start time: 2023.12.15 13:59:33.817 	reason: EXIT(0)
+process name: appBox1	restart count: 68	start time: 2023.12.15 13:59:34.805 	reason: EXIT(1)
+process name: appBox8	restart count: 65	start time: 2023.12.15 13:59:34.862 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox6	restart count: 56	start time: 2023.12.15 13:59:36.740 	reason: EXIT(2)
+process name: appBox3	restart count: 65	start time: 2023.12.15 13:59:36.808 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox7	restart count: 56	start time: 2023.12.15 13:59:37.786 	reason: EXIT(3)
+process name: appBox6	restart count: 57	start time: 2023.12.15 13:59:38.749 	reason: SIGNAL(1).Hangup: 1
+process name: appBox8	restart count: 66	start time: 2023.12.15 13:59:38.878 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox4	restart count: 54	start time: 2023.12.15 13:59:39.747 	reason: EXIT(4)
+process name: appBox4	restart count: 55	start time: 2023.12.15 13:59:40.758 	reason: EXIT(0)
+process name: appBox9	restart count: 60	start time: 2023.12.15 13:59:40.777 	reason: EXIT(5)
+process name: appBox1	restart count: 69	start time: 2023.12.15 13:59:40.812 	reason: SIGNAL(3).Quit: 3
+process name: appBox5	restart count: 63	start time: 2023.12.15 13:59:41.831 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox8	restart count: 67	start time: 2023.12.15 13:59:41.891 	reason: EXIT(1)
+process name: appBox6	restart count: 58	start time: 2023.12.15 13:59:43.762 	reason: EXIT(2)
+process name: appBox2	restart count: 62	start time: 2023.12.15 13:59:43.778 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox8	restart count: 68	start time: 2023.12.15 13:59:43.904 	reason: SIGNAL(1).Hangup: 1
+process name: appBox5	restart count: 64	start time: 2023.12.15 13:59:45.847 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox7	restart count: 57	start time: 2023.12.15 13:59:46.801 	reason: EXIT(4)
+process name: appBox1	restart count: 70	start time: 2023.12.15 13:59:46.820 	reason: SIGNAL(3).Quit: 3
+process name: appBox3	restart count: 66	start time: 2023.12.15 13:59:47.823 	reason: EXIT(5)
+process name: appBox1	restart count: 71	start time: 2023.12.15 13:59:47.836 	reason: EXIT(0)
+process name: appBox9	restart count: 61	start time: 2023.12.15 13:59:48.787 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox7	restart count: 58	start time: 2023.12.15 13:59:49.814 	reason: EXIT(1)
+process name: appBox4	restart count: 56	start time: 2023.12.15 13:59:50.774 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox5	restart count: 65	start time: 2023.12.15 13:59:50.857 	reason: EXIT(2)
+process name: appBox8	restart count: 69	start time: 2023.12.15 13:59:50.917 	reason: EXIT(3)
+process name: appBox4	restart count: 57	start time: 2023.12.15 13:59:52.784 	reason: SIGNAL(1).Hangup: 1
+process name: appBox2	restart count: 63	start time: 2023.12.15 13:59:52.794 	reason: EXIT(4)
+process name: appBox7	restart count: 59	start time: 2023.12.15 13:59:53.821 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox6	restart count: 59	start time: 2023.12.15 13:59:54.773 	reason: EXIT(5)
+process name: appBox9	restart count: 62	start time: 2023.12.15 13:59:54.797 	reason: SIGNAL(3).Quit: 3
+process name: appBox6	restart count: 60	start time: 2023.12.15 13:59:55.783 	reason: EXIT(0)
+process name: appBox1	restart count: 72	start time: 2023.12.15 13:59:55.844 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox7	restart count: 60	start time: 2023.12.15 13:59:56.830 	reason: EXIT(1)
+process name: appBox2	restart count: 64	start time: 2023.12.15 13:59:57.804 	reason: EXIT(2)
+process name: appBox3	restart count: 67	start time: 2023.12.15 13:59:57.835 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox4	restart count: 58	start time: 2023.12.15 13:59:59.794 	reason: EXIT(3)
+process name: appBox2	restart count: 65	start time: 2023.12.15 13:59:59.813 	reason: SIGNAL(1).Hangup: 1
+process name: appBox8	restart count: 70	start time: 2023.12.15 13:59:59.928 	reason: EXIT(4)
+process name: appBox7	restart count: 61	start time: 2023.12.15 14:00:00.840 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox1	restart count: 73	start time: 2023.12.15 14:00:01.854 	reason: SIGNAL(3).Quit: 3
+process name: appBox5	restart count: 66	start time: 2023.12.15 14:00:01.871 	reason: EXIT(5)
+process name: appBox1	restart count: 74	start time: 2023.12.15 14:00:02.868 	reason: EXIT(0)
+process name: appBox6	restart count: 61	start time: 2023.12.15 14:00:03.801 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox7	restart count: 62	start time: 2023.12.15 14:00:03.847 	reason: EXIT(1)
+process name: appBox9	restart count: 63	start time: 2023.12.15 14:00:04.811 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox8	restart count: 71	start time: 2023.12.15 14:00:04.942 	reason: EXIT(2)
+process name: appBox9	restart count: 64	start time: 2023.12.15 14:00:06.821 	reason: SIGNAL(1).Hangup: 1
+process name: appBox2	restart count: 66	start time: 2023.12.15 14:00:06.831 	reason: EXIT(3)
+process name: appBox7	restart count: 63	start time: 2023.12.15 14:00:07.861 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox4	restart count: 59	start time: 2023.12.15 14:00:08.805 	reason: EXIT(4)
+process name: appBox3	restart count: 68	start time: 2023.12.15 14:00:08.846 	reason: EXIT(5)
+process name: appBox6	restart count: 62	start time: 2023.12.15 14:00:09.817 	reason: SIGNAL(3).Quit: 3
+process name: appBox3	restart count: 69	start time: 2023.12.15 14:00:09.859 	reason: EXIT(0)
+process name: appBox1	restart count: 75	start time: 2023.12.15 14:00:10.883 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox4	restart count: 60	start time: 2023.12.15 14:00:11.819 	reason: EXIT(1)
+process name: appBox5	restart count: 67	start time: 2023.12.15 14:00:11.881 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox7	restart count: 64	start time: 2023.12.15 14:00:12.874 	reason: EXIT(2)
+process name: appBox2	restart count: 67	start time: 2023.12.15 14:00:13.841 	reason: EXIT(3)
+process name: appBox5	restart count: 68	start time: 2023.12.15 14:00:13.892 	reason: SIGNAL(1).Hangup: 1
+process name: appBox9	restart count: 65	start time: 2023.12.15 14:00:15.830 	reason: EXIT(4)
+process name: appBox4	restart count: 61	start time: 2023.12.15 14:00:15.843 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox8	restart count: 72	start time: 2023.12.15 14:00:15.957 	reason: EXIT(5)
+process name: appBox1	restart count: 76	start time: 2023.12.15 14:00:16.897 	reason: SIGNAL(3).Quit: 3
+process name: appBox8	restart count: 73	start time: 2023.12.15 14:00:16.969 	reason: EXIT(0)
+process name: appBox3	restart count: 70	start time: 2023.12.15 14:00:17.874 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox4	restart count: 62	start time: 2023.12.15 14:00:18.854 	reason: EXIT(1)
+process name: appBox6	restart count: 63	start time: 2023.12.15 14:00:19.833 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox9	restart count: 66	start time: 2023.12.15 14:00:20.844 	reason: EXIT(2)
+process name: appBox5	restart count: 69	start time: 2023.12.15 14:00:20.904 	reason: EXIT(3)
+process name: appBox2	restart count: 68	start time: 2023.12.15 14:00:22.854 	reason: EXIT(4)
+process name: appBox4	restart count: 63	start time: 2023.12.15 14:00:22.869 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox3	restart count: 71	start time: 2023.12.15 14:00:23.886 	reason: SIGNAL(3).Quit: 3
+process name: appBox7	restart count: 65	start time: 2023.12.15 14:00:23.901 	reason: EXIT(5)
+process name: appBox5	restart count: 70	start time: 2023.12.15 14:00:24.918 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox8	restart count: 74	start time: 2023.12.15 14:00:24.982 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox7	restart count: 66	start time: 2023.12.15 14:00:25.915 	reason: SIGNAL(1).Hangup: 1
+process name: appBox9	restart count: 67	start time: 2023.12.15 14:00:26.852 	reason: SIGNAL(3).Quit: 3
+process name: appBox1	restart count: 77	start time: 2023.12.15 14:00:26.911 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox3	restart count: 72	start time: 2023.12.15 14:00:27.901 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox4	restart count: 64	start time: 2023.12.15 14:00:28.882 	reason: SIGNAL(3).Quit: 3
+process name: appBox1	restart count: 78	start time: 2023.12.15 14:00:29.922 	reason: EXIT(1)
+process name: appBox6	restart count: 64	start time: 2023.12.15 14:00:30.851 	reason: EXIT(5)
+process name: appBox2	restart count: 69	start time: 2023.12.15 14:00:30.866 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox9	restart count: 68	start time: 2023.12.15 14:00:31.865 	reason: EXIT(2)
+process name: appBox9	restart count: 69	start time: 2023.12.15 14:00:32.879 	reason: EXIT(0)
+process name: appBox7	restart count: 67	start time: 2023.12.15 14:00:32.929 	reason: EXIT(3)
+process name: appBox2	restart count: 70	start time: 2023.12.15 14:00:33.881 	reason: EXIT(1)
+process name: appBox8	restart count: 75	start time: 2023.12.15 14:00:33.998 	reason: EXIT(4)
+process name: appBox6	restart count: 65	start time: 2023.12.15 14:00:35.862 	reason: EXIT(2)
+process name: appBox5	restart count: 71	start time: 2023.12.15 14:00:35.932 	reason: EXIT(5)
+process name: appBox1	restart count: 79	start time: 2023.12.15 14:00:36.933 	reason: EXIT(3)
+process name: appBox6	restart count: 66	start time: 2023.12.15 14:00:37.878 	reason: SIGNAL(1).Hangup: 1
+process name: appBox4	restart count: 65	start time: 2023.12.15 14:00:37.897 	reason: EXIT(4)
+process name: appBox8	restart count: 76	start time: 2023.12.15 14:00:38.014 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox3	restart count: 73	start time: 2023.12.15 14:00:38.913 	reason: EXIT(5)
+process name: appBox2	restart count: 71	start time: 2023.12.15 14:00:39.899 	reason: SIGNAL(3).Quit: 3
+process name: appBox7	restart count: 68	start time: 2023.12.15 14:00:40.938 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox8	restart count: 77	start time: 2023.12.15 14:00:41.031 	reason: EXIT(1)
+process name: appBox9	restart count: 70	start time: 2023.12.15 14:00:42.889 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox4	restart count: 66	start time: 2023.12.15 14:00:42.909 	reason: EXIT(2)
+process name: appBox4	restart count: 67	start time: 2023.12.15 14:00:43.921 	reason: EXIT(0)
+process name: appBox6	restart count: 67	start time: 2023.12.15 14:00:44.888 	reason: EXIT(3)
+process name: appBox9	restart count: 71	start time: 2023.12.15 14:00:45.902 	reason: EXIT(1)
+process name: appBox1	restart count: 80	start time: 2023.12.15 14:00:45.942 	reason: EXIT(4)
+process name: appBox8	restart count: 78	start time: 2023.12.15 14:00:46.046 	reason: EXIT(2)
+process name: appBox5	restart count: 72	start time: 2023.12.15 14:00:46.948 	reason: EXIT(5)
+process name: appBox7	restart count: 69	start time: 2023.12.15 14:00:47.952 	reason: EXIT(3)
+process name: appBox8	restart count: 79	start time: 2023.12.15 14:00:48.059 	reason: SIGNAL(1).Hangup: 1
+process name: appBox2	restart count: 72	start time: 2023.12.15 14:00:48.914 	reason: EXIT(4)
+process name: appBox3	restart count: 74	start time: 2023.12.15 14:00:49.926 	reason: EXIT(5)
+process name: appBox1	restart count: 81	start time: 2023.12.15 14:00:49.956 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox1	restart count: 82	start time: 2023.12.15 14:00:50.973 	reason: EXIT(0)
+process name: appBox9	restart count: 72	start time: 2023.12.15 14:00:51.914 	reason: SIGNAL(3).Quit: 3
+process name: appBox6	restart count: 68	start time: 2023.12.15 14:00:52.899 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox9	restart count: 73	start time: 2023.12.15 14:00:52.924 	reason: EXIT(0)
+process name: appBox3	restart count: 75	start time: 2023.12.15 14:00:52.938 	reason: EXIT(1)
+process name: appBox2	restart count: 73	start time: 2023.12.15 14:00:53.928 	reason: EXIT(2)
+process name: appBox4	restart count: 68	start time: 2023.12.15 14:00:53.945 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox8	restart count: 80	start time: 2023.12.15 14:00:55.078 	reason: EXIT(3)
+process name: appBox4	restart count: 69	start time: 2023.12.15 14:00:55.959 	reason: SIGNAL(1).Hangup: 1
+process name: appBox7	restart count: 70	start time: 2023.12.15 14:00:56.967 	reason: EXIT(4)
+process name: appBox2	restart count: 74	start time: 2023.12.15 14:00:57.942 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox5	restart count: 73	start time: 2023.12.15 14:00:57.960 	reason: EXIT(5)
+process name: appBox3	restart count: 76	start time: 2023.12.15 14:00:58.948 	reason: SIGNAL(3).Quit: 3
+process name: appBox9	restart count: 74	start time: 2023.12.15 14:01:00.935 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox1	restart count: 83	start time: 2023.12.15 14:01:00.986 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox9	restart count: 75	start time: 2023.12.15 14:01:01.949 	reason: EXIT(0)
+process name: appBox3	restart count: 77	start time: 2023.12.15 14:01:01.959 	reason: EXIT(1)
+process name: appBox4	restart count: 70	start time: 2023.12.15 14:01:01.972 	reason: SIGNAL(3).Quit: 3
+process name: appBox6	restart count: 69	start time: 2023.12.15 14:01:02.909 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox5	restart count: 74	start time: 2023.12.15 14:01:02.970 	reason: EXIT(2)
+process name: appBox6	restart count: 70	start time: 2023.12.15 14:01:04.924 	reason: SIGNAL(1).Hangup: 1
+process name: appBox2	restart count: 75	start time: 2023.12.15 14:01:04.951 	reason: EXIT(3)
+process name: appBox4	restart count: 71	start time: 2023.12.15 14:01:05.985 	reason: SIGNAL(2).Interrupt: 2
+process name: appBox8	restart count: 81	start time: 2023.12.15 14:01:06.091 	reason: EXIT(5)
+process name: appBox7	restart count: 71	start time: 2023.12.15 14:01:06.982 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox3	restart count: 78	start time: 2023.12.15 14:01:07.969 	reason: SIGNAL(3).Quit: 3
+process name: appBox7	restart count: 72	start time: 2023.12.15 14:01:07.994 	reason: EXIT(0)
+process name: appBox8	restart count: 82	start time: 2023.12.15 14:01:09.105 	reason: EXIT(1)
+process name: appBox9	restart count: 76	start time: 2023.12.15 14:01:09.960 	reason: SIGNAL(4).Illegal instruction: 4
+process name: appBox1	restart count: 84	start time: 2023.12.15 14:01:10.997 	reason: SIGNAL(5).Trace/BPT trap: 5
+process name: appBox4	restart count: 72	start time: 2023.12.15 14:01:11.015 	reason: EXIT(2)
+process name: appBox2	restart count: 76	start time: 2023.12.15 14:01:11.967 	reason: EXIT(3)
+process name: appBox1	restart count: 85	start time: 2023.12.15 14:01:12.008 	reason: EXIT(0)
