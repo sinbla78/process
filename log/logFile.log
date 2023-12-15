@@ -1,0 +1,2903 @@
+process name: appBox1	   start time: 2023-12-07, 22:55:41
+process name: appBox1	   start time: 2023-12-07, 22:55:41
+process name: appBox1	   start time: 2023-12-07, 22:55:41
+process name: appBox1	   start time: 2023-12-07, 22:55:41
+process name: appBox1	   start time: 2023-12-07, 22:55:41
+process name: appBox1	   start time: 2023-12-07, 22:55:41
+process name: appBox1	   start time: 2023-12-07, 22:55:41
+process name: appBox2	   start time: 2023-12-07, 22:55:42
+process name: appBox2	   start time: 2023-12-07, 22:55:42
+process name: appBox2	   start time: 2023-12-07, 22:55:42
+process name: appBox2	   start time: 2023-12-07, 22:55:42
+process name: appBox2	   start time: 2023-12-07, 22:55:42
+process name: appBox2	   start time: 2023-12-07, 22:55:42
+process name: appBox2	   start time: 2023-12-07, 22:55:42
+process name: appBox1	   crash time: 2023-12-07, 22:55:43	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 22:55:43
+process name: appBox2	   crash time: 2023-12-07, 22:55:46	SIGNAL(2).Interrupt: 2
+process name: appBox2	   crash time: 2023-12-07, 22:55:46	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 22:55:46
+process name: appBox2	   start time: 2023-12-07, 22:55:46
+process name: appBox1	   crash time: 2023-12-07, 22:55:46	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 22:55:46
+process name: appBox2	   crash time: 2023-12-07, 22:55:47	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 22:55:47
+process name: appBox1	   crash time: 2023-12-07, 22:55:47	SIGNAL(3).Quit: 3
+process name: appBox1	   crash time: 2023-12-07, 22:55:47	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 22:55:47
+process name: appBox1	   start time: 2023-12-07, 22:55:47
+process name: appBox2	   crash time: 2023-12-07, 22:55:48	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 22:55:48
+process name: appBox2	   crash time: 2023-12-07, 22:55:48	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 22:55:48
+process name: appBox1	   crash time: 2023-12-07, 22:55:48	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 22:55:48
+process name: appBox1	   crash time: 2023-12-07, 22:55:49	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 22:55:49
+process name: appBox2	   crash time: 2023-12-07, 22:55:50	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 22:55:50
+process name: appBox1	   crash time: 2023-12-07, 22:55:50	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:55:50
+process name: appBox1	   crash time: 2023-12-07, 22:55:50	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 22:55:50
+process name: appBox2	   crash time: 2023-12-07, 22:55:51	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 22:55:51
+process name: appBox2	   crash time: 2023-12-07, 22:55:51	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 22:55:51
+process name: appBox1	   crash time: 2023-12-07, 22:55:51	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 22:55:51
+process name: appBox2	   crash time: 2023-12-07, 22:55:52	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 22:55:52
+process name: appBox2	   crash time: 2023-12-07, 22:55:52	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 22:55:52
+process name: appBox1	   crash time: 2023-12-07, 22:55:52	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:55:52
+process name: appBox2	   crash time: 2023-12-07, 22:55:53	SIGNAL(1).Hangup: 1
+process name: appBox2	   crash time: 2023-12-07, 22:55:53	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 22:55:53
+process name: appBox2	   start time: 2023-12-07, 22:55:53
+process name: appBox2	   crash time: 2023-12-07, 22:55:54	SIGNAL(3).Quit: 3
+process name: appBox2	   crash time: 2023-12-07, 22:55:54	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 22:55:54
+process name: appBox2	   start time: 2023-12-07, 22:55:54
+process name: appBox1	   crash time: 2023-12-07, 22:55:54	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 22:55:54
+process name: appBox1	   crash time: 2023-12-07, 22:55:55	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 22:55:55
+process name: appBox1	   crash time: 2023-12-07, 22:55:56	SIGNAL(3).Quit: 3
+process name: appBox1	   crash time: 2023-12-07, 22:55:56	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:55:56
+process name: appBox1	   start time: 2023-12-07, 22:55:56
+process name: appBox2	   crash time: 2023-12-07, 22:55:57	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 22:55:57
+process name: appBox1	   crash time: 2023-12-07, 22:55:57	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 22:55:57
+process name: appBox1	   crash time: 2023-12-07, 22:55:57	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 22:55:57
+process name: appBox2	   crash time: 2023-12-07, 22:55:58	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 22:55:58
+process name: appBox1	   crash time: 2023-12-07, 22:55:58	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 22:55:58
+process name: appBox2	   crash time: 2023-12-07, 22:55:59	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 22:55:59
+process name: appBox2	   crash time: 2023-12-07, 22:55:59	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 22:55:59
+process name: appBox1	   crash time: 2023-12-07, 22:55:59	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 22:55:59
+process name: appBox2	   crash time: 2023-12-07, 22:56:00	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 22:56:00
+process name: appBox1	   crash time: 2023-12-07, 22:56:00	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:56:00
+process name: appBox1	   crash time: 2023-12-07, 22:56:00	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 22:56:00
+process name: appBox2	   crash time: 2023-12-07, 22:56:01	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 22:56:01
+process name: appBox2	   crash time: 2023-12-07, 22:56:02	EXIT(5)
+process name: appBox2	   crash time: 2023-12-07, 22:56:02	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 22:56:02
+process name: appBox2	   start time: 2023-12-07, 22:56:02
+process name: appBox1	   crash time: 2023-12-07, 22:56:02	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 22:56:02
+process name: appBox1	   crash time: 2023-12-07, 22:56:02	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 22:56:02
+process name: appBox2	   crash time: 2023-12-07, 22:56:03	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 22:56:03
+process name: appBox2	   crash time: 2023-12-07, 22:56:04	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 22:56:04
+process name: appBox2	   crash time: 2023-12-07, 22:56:04	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 22:56:04
+process name: appBox2	   crash time: 2023-12-07, 22:56:05	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 22:56:05
+process name: appBox2	   crash time: 2023-12-07, 22:56:05	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 22:56:05
+process name: appBox1	   crash time: 2023-12-07, 22:56:05	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:56:05
+process name: appBox2	   crash time: 2023-12-07, 22:56:06	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 22:56:06
+process name: appBox2	   crash time: 2023-12-07, 22:56:07	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 22:56:07
+process name: appBox2	   crash time: 2023-12-07, 22:56:07	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 22:56:07
+process name: appBox1	   crash time: 2023-12-07, 22:56:07	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 22:56:07
+process name: appBox2	   crash time: 2023-12-07, 22:56:08	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 22:56:08
+process name: appBox1	   crash time: 2023-12-07, 22:56:08	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   crash time: 2023-12-07, 22:56:08	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 22:56:08
+process name: appBox1	   start time: 2023-12-07, 22:56:08
+process name: appBox2	   crash time: 2023-12-07, 22:56:09	SIGNAL(1).Hangup: 1
+process name: appBox2	   crash time: 2023-12-07, 22:56:09	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 22:56:09
+process name: appBox2	   start time: 2023-12-07, 22:56:09
+process name: appBox2	   crash time: 2023-12-07, 22:56:10	EXIT(0)
+process name: appBox2	   crash time: 2023-12-07, 22:56:10	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 22:56:10
+process name: appBox2	   start time: 2023-12-07, 22:56:10
+process name: appBox1	   crash time: 2023-12-07, 22:56:10	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 22:56:10
+process name: appBox1	   crash time: 2023-12-07, 22:56:10	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 22:56:10
+process name: appBox1	   crash time: 2023-12-07, 22:56:11	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 22:56:11
+process name: appBox1	   crash time: 2023-12-07, 22:56:11	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 22:56:11
+process name: appBox1	   crash time: 2023-12-07, 22:56:12	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 22:56:12
+process name: appBox1	   crash time: 2023-12-07, 22:56:12	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 22:56:12
+process name: appBox1	   crash time: 2023-12-07, 22:56:13	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 22:56:13
+process name: appBox2	   crash time: 2023-12-07, 22:56:14	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 22:56:14
+process name: appBox1	   crash time: 2023-12-07, 22:56:14	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 22:56:14
+process name: appBox2	   crash time: 2023-12-07, 22:56:15	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 22:56:15
+process name: appBox1	   crash time: 2023-12-07, 22:56:15	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 22:56:15
+process name: appBox2	   crash time: 2023-12-07, 22:56:16	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 22:56:16
+process name: appBox2	   crash time: 2023-12-07, 22:56:16	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 22:56:16
+process name: appBox1	   crash time: 2023-12-07, 22:56:16	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:56:16
+process name: appBox2	   crash time: 2023-12-07, 22:56:17	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 22:56:17
+process name: appBox1	   crash time: 2023-12-07, 22:56:17	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 22:56:17
+process name: appBox2	   crash time: 2023-12-07, 22:56:18	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   crash time: 2023-12-07, 22:56:18	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 22:56:18
+process name: appBox2	   start time: 2023-12-07, 22:56:18
+process name: appBox1	   crash time: 2023-12-07, 22:56:18	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 22:56:18
+process name: appBox2	   crash time: 2023-12-07, 22:56:19	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 22:56:19
+process name: appBox2	   crash time: 2023-12-07, 22:56:19	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 22:56:19
+process name: appBox1	   crash time: 2023-12-07, 22:56:19	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 22:56:19
+process name: appBox1	   crash time: 2023-12-07, 22:56:20	EXIT(1)
+process name: appBox1	   crash time: 2023-12-07, 22:56:20	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:56:20
+process name: appBox1	   start time: 2023-12-07, 22:56:20
+process name: appBox1	   crash time: 2023-12-07, 22:56:21	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 22:56:21
+process name: appBox2	   crash time: 2023-12-07, 22:56:22	EXIT(3)
+process name: appBox2	   crash time: 2023-12-07, 22:56:22	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 22:56:22
+process name: appBox2	   start time: 2023-12-07, 22:56:22
+process name: appBox1	   crash time: 2023-12-07, 22:56:22	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 22:56:22
+process name: appBox1	   crash time: 2023-12-07, 22:56:22	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 22:56:22
+process name: appBox2	   crash time: 2023-12-07, 22:56:23	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 22:56:23
+process name: appBox1	   crash time: 2023-12-07, 22:56:23	EXIT(3)
+process name: appBox1	   crash time: 2023-12-07, 22:56:23	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:56:23
+process name: appBox1	   start time: 2023-12-07, 22:56:23
+process name: appBox1	   crash time: 2023-12-07, 22:56:23	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 22:56:23
+process name: appBox1	   crash time: 2023-12-07, 22:56:25	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 22:56:25
+process name: appBox2	   crash time: 2023-12-07, 22:56:25	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 22:56:25
+process name: appBox2	   crash time: 2023-12-07, 22:56:25	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 22:56:25
+process name: appBox2	   crash time: 2023-12-07, 22:56:26	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 22:56:26
+process name: appBox2	   crash time: 2023-12-07, 22:56:26	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 22:56:26
+process name: appBox1	   start time: 2023-12-07, 22:57:18
+process name: appBox2	   start time: 2023-12-07, 22:57:18
+process name: appBox1	   start time: 2023-12-07, 22:57:18
+process name: appBox1	   start time: 2023-12-07, 22:57:18
+process name: appBox2	   start time: 2023-12-07, 22:57:18
+process name: appBox2	   start time: 2023-12-07, 22:57:18
+process name: appBox1	   start time: 2023-12-07, 22:57:18
+process name: appBox1	   start time: 2023-12-07, 22:57:18
+process name: appBox1	   start time: 2023-12-07, 22:57:18
+process name: appBox1	   start time: 2023-12-07, 22:57:18
+process name: appBox2	   start time: 2023-12-07, 22:57:18
+process name: appBox2	   start time: 2023-12-07, 22:57:18
+process name: appBox2	   start time: 2023-12-07, 22:57:18
+process name: appBox2	   start time: 2023-12-07, 22:57:18
+process name: appBox1	   crash time: 2023-12-07, 22:57:19	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 22:57:19
+process name: appBox2	   crash time: 2023-12-07, 22:57:20	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 22:57:20
+process name: appBox2	   crash time: 2023-12-07, 22:57:20	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 22:57:20
+process name: appBox1	   crash time: 2023-12-07, 22:57:22	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 22:57:22
+process name: appBox2	   crash time: 2023-12-07, 22:57:22	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 22:57:22
+process name: appBox1	   crash time: 2023-12-07, 22:57:22	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 22:57:22
+process name: appBox2	   crash time: 2023-12-07, 22:57:22	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 22:57:22
+process name: appBox1	   crash time: 2023-12-07, 22:57:23	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 22:57:23
+process name: appBox2	   crash time: 2023-12-07, 22:57:23	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 22:57:23
+process name: appBox2	   crash time: 2023-12-07, 22:57:24	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 22:57:24
+process name: appBox2	   crash time: 2023-12-07, 22:57:24	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 22:57:24
+process name: appBox1	   crash time: 2023-12-07, 22:57:25	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 22:57:25
+process name: appBox2	   crash time: 2023-12-07, 22:57:25	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 22:57:25
+process name: appBox1	   crash time: 2023-12-07, 22:57:26	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 22:57:26
+process name: appBox1	   crash time: 2023-12-07, 22:57:26	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 22:57:26
+process name: appBox2	   crash time: 2023-12-07, 22:57:26	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   crash time: 2023-12-07, 22:57:26	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 22:57:26
+process name: appBox1	   start time: 2023-12-07, 22:57:26
+process name: appBox2	   crash time: 2023-12-07, 22:57:27	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 22:57:27
+process name: appBox2	   crash time: 2023-12-07, 22:57:27	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 22:57:27
+process name: appBox2	   crash time: 2023-12-07, 22:57:28	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 22:57:28
+process name: appBox2	   crash time: 2023-12-07, 22:57:28	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 22:57:28
+process name: appBox2	   crash time: 2023-12-07, 22:57:28	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 22:57:28
+process name: appBox1	   crash time: 2023-12-07, 22:57:29	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 22:57:29
+process name: appBox2	   crash time: 2023-12-07, 22:57:30	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 22:57:30
+process name: appBox2	   crash time: 2023-12-07, 22:57:30	EXIT(1)
+process name: appBox1	   crash time: 2023-12-07, 22:57:30	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 22:57:30
+process name: appBox1	   start time: 2023-12-07, 22:57:30
+process name: appBox1	   crash time: 2023-12-07, 22:57:31	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 22:57:31
+process name: appBox2	   crash time: 2023-12-07, 22:57:31	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 22:57:31
+process name: appBox2	   crash time: 2023-12-07, 22:57:32	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 22:57:32
+process name: appBox1	   crash time: 2023-12-07, 22:57:32	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 22:57:32
+process name: appBox1	   crash time: 2023-12-07, 22:57:33	EXIT(5)
+process name: appBox1	   crash time: 2023-12-07, 22:57:33	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 22:57:33
+process name: appBox1	   start time: 2023-12-07, 22:57:33
+process name: appBox2	   crash time: 2023-12-07, 22:57:33	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 22:57:33
+process name: appBox1	   crash time: 2023-12-07, 22:57:33	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 22:57:33
+process name: appBox2	   crash time: 2023-12-07, 22:57:34	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 22:57:34
+process name: appBox2	   crash time: 2023-12-07, 22:57:35	EXIT(1)
+process name: appBox1	   crash time: 2023-12-07, 22:57:35	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 22:57:35
+process name: appBox1	   start time: 2023-12-07, 22:57:35
+process name: appBox2	   crash time: 2023-12-07, 22:57:36	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 22:57:36
+process name: appBox2	   crash time: 2023-12-07, 22:57:36	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 22:57:36
+process name: appBox2	   crash time: 2023-12-07, 22:57:36	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 22:57:36
+process name: appBox1	   crash time: 2023-12-07, 22:57:37	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 22:57:37
+process name: appBox1	   crash time: 2023-12-07, 22:57:37	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 22:57:37
+process name: appBox1	   crash time: 2023-12-07, 22:57:38	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 22:57:38
+process name: appBox1	   crash time: 2023-12-07, 22:57:38	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 22:57:38
+process name: appBox2	   crash time: 2023-12-07, 22:57:38	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 22:57:38
+process name: appBox2	   crash time: 2023-12-07, 22:57:39	SIGNAL(3).Quit: 3
+process name: appBox1	   crash time: 2023-12-07, 22:57:39	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 22:57:39
+process name: appBox1	   start time: 2023-12-07, 22:57:39
+process name: appBox2	   crash time: 2023-12-07, 22:57:39	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 22:57:39
+process name: appBox2	   crash time: 2023-12-07, 22:57:41	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 22:57:41
+process name: appBox2	   crash time: 2023-12-07, 22:57:41	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 22:57:41
+process name: appBox2	   crash time: 2023-12-07, 22:57:41	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 22:57:41
+process name: appBox2	   crash time: 2023-12-07, 22:57:42	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 22:57:42
+process name: appBox1	   crash time: 2023-12-07, 22:57:42	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:57:42
+process name: appBox1	   crash time: 2023-12-07, 22:57:43	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 22:57:43
+process name: appBox2	   crash time: 2023-12-07, 22:57:43	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 22:57:43
+process name: appBox1	   crash time: 2023-12-07, 22:57:44	EXIT(4)
+process name: appBox1	   crash time: 2023-12-07, 22:57:44	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 22:57:44
+process name: appBox1	   start time: 2023-12-07, 22:57:44
+process name: appBox2	   crash time: 2023-12-07, 22:57:44	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 22:57:44
+process name: appBox2	   crash time: 2023-12-07, 22:57:46	EXIT(5)
+process name: appBox1	   crash time: 2023-12-07, 22:57:46	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 22:57:46
+process name: appBox1	   start time: 2023-12-07, 22:57:46
+process name: appBox1	   crash time: 2023-12-07, 22:57:46	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 22:57:46
+process name: appBox2	   crash time: 2023-12-07, 22:57:46	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 22:57:46
+process name: appBox1	   crash time: 2023-12-07, 22:57:47	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 22:57:47
+process name: appBox1	   crash time: 2023-12-07, 22:57:47	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 22:57:47
+process name: appBox2	   crash time: 2023-12-07, 22:57:48	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 22:57:48
+process name: appBox2	   crash time: 2023-12-07, 22:57:48	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 22:57:48
+process name: appBox2	   crash time: 2023-12-07, 22:57:48	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 22:57:48
+process name: appBox2	   crash time: 2023-12-07, 22:57:49	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 22:57:49
+process name: appBox2	   crash time: 2023-12-07, 22:57:49	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 22:57:49
+process name: appBox1	   crash time: 2023-12-07, 22:57:50	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 22:57:50
+process name: appBox1	   crash time: 2023-12-07, 22:57:50	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 22:57:50
+process name: appBox1	   crash time: 2023-12-07, 22:57:50	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 22:57:50
+process name: appBox1	   crash time: 2023-12-07, 22:57:51	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:57:51
+process name: appBox1	   crash time: 2023-12-07, 22:57:52	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 22:57:52
+process name: appBox1	   crash time: 2023-12-07, 22:57:52	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 22:57:52
+process name: appBox2	   crash time: 2023-12-07, 22:57:53	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 22:57:53
+process name: appBox2	   crash time: 2023-12-07, 22:57:53	SIGNAL(2).Interrupt: 2
+process name: appBox2	   crash time: 2023-12-07, 22:57:53	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 22:57:53
+process name: appBox1	   crash time: 2023-12-07, 22:57:53	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 22:57:53
+process name: appBox2	   start time: 2023-12-07, 22:57:53
+process name: appBox2	   crash time: 2023-12-07, 22:57:54	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 22:57:54
+process name: appBox2	   crash time: 2023-12-07, 22:57:55	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 22:57:55
+process name: appBox1	   crash time: 2023-12-07, 22:57:55	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:57:55
+process name: appBox1	   crash time: 2023-12-07, 22:57:55	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 22:57:55
+process name: appBox2	   crash time: 2023-12-07, 22:57:56	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 22:57:56
+process name: appBox2	   crash time: 2023-12-07, 22:57:56	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 22:57:56
+process name: appBox1	   crash time: 2023-12-07, 22:57:57	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 22:57:57
+process name: appBox1	   crash time: 2023-12-07, 22:57:58	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 22:57:58
+process name: appBox1	   crash time: 2023-12-07, 22:57:58	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 22:57:58
+process name: appBox2	   crash time: 2023-12-07, 22:57:58	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 22:57:58
+process name: appBox2	   crash time: 2023-12-07, 22:57:58	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 22:57:58
+process name: appBox1	   crash time: 2023-12-07, 22:57:59	SIGNAL(3).Quit: 3
+process name: appBox1	   crash time: 2023-12-07, 22:57:59	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:57:59
+process name: appBox1	   start time: 2023-12-07, 22:57:59
+process name: appBox2	   crash time: 2023-12-07, 22:57:59	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 22:57:59
+process name: appBox1	   crash time: 2023-12-07, 22:58:01	EXIT(5)
+process name: appBox2	   crash time: 2023-12-07, 22:58:01	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 22:58:01
+process name: appBox2	   start time: 2023-12-07, 22:58:01
+process name: appBox1	   crash time: 2023-12-07, 22:58:01	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 22:58:01
+process name: appBox2	   crash time: 2023-12-07, 22:58:01	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 22:58:01
+process name: appBox1	   crash time: 2023-12-07, 22:58:02	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 22:58:02
+process name: appBox2	   crash time: 2023-12-07, 22:58:02	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 22:58:02
+process name: appBox2	   crash time: 2023-12-07, 22:58:02	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 22:58:02
+process name: appBox2	   crash time: 2023-12-07, 22:58:03	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 22:58:03
+process name: appBox1	   crash time: 2023-12-07, 22:58:04	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:58:04
+process name: appBox2	   crash time: 2023-12-07, 22:58:04	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 22:58:04
+process name: appBox1	   crash time: 2023-12-07, 22:58:04	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 22:58:04
+process name: appBox2	   crash time: 2023-12-07, 22:58:06	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 22:58:06
+process name: appBox1	   crash time: 2023-12-07, 22:58:06	SIGNAL(1).Hangup: 1
+process name: appBox1	   crash time: 2023-12-07, 22:58:06	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 22:58:06
+process name: appBox1	   start time: 2023-12-07, 22:58:06
+process name: appBox2	   crash time: 2023-12-07, 22:58:06	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 22:58:06
+process name: appBox2	   crash time: 2023-12-07, 22:58:07	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 22:58:07
+process name: appBox1	   crash time: 2023-12-07, 22:58:07	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 22:58:07
+process name: appBox1	   crash time: 2023-12-07, 22:58:08	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 22:58:08
+process name: appBox1	   crash time: 2023-12-07, 22:58:08	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 22:58:08
+process name: appBox2	   crash time: 2023-12-07, 22:58:08	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 22:58:08
+process name: appBox2	   crash time: 2023-12-07, 22:58:08	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 22:58:08
+process name: appBox1	   crash time: 2023-12-07, 22:58:09	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 22:58:09
+process name: appBox1	   crash time: 2023-12-07, 22:58:10	EXIT(5)
+process name: appBox1	   crash time: 2023-12-07, 22:58:10	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 22:58:10
+process name: appBox1	   start time: 2023-12-07, 22:58:10
+process name: appBox2	   crash time: 2023-12-07, 22:58:10	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 22:58:10
+process name: appBox2	   crash time: 2023-12-07, 22:58:11	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 22:58:11
+process name: appBox1	   crash time: 2023-12-07, 22:58:12	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 22:58:12
+process name: appBox1	   crash time: 2023-12-07, 22:58:12	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 22:58:12
+process name: appBox1	   crash time: 2023-12-07, 22:58:12	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 22:58:12
+process name: appBox1	   crash time: 2023-12-07, 22:58:13	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 22:58:13
+process name: appBox1	   crash time: 2023-12-07, 22:58:13	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:58:13
+process name: appBox1	   crash time: 2023-12-07, 22:58:14	EXIT(0)
+process name: appBox1	   crash time: 2023-12-07, 22:58:14	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 22:58:14
+process name: appBox1	   start time: 2023-12-07, 22:58:14
+process name: appBox2	   crash time: 2023-12-07, 22:58:15	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 22:58:15
+process name: appBox2	   crash time: 2023-12-07, 22:58:15	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 22:58:15
+process name: appBox1	   crash time: 2023-12-07, 22:58:15	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 22:58:15
+process name: appBox1	   crash time: 2023-12-07, 22:58:16	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 22:58:16
+process name: appBox2	   crash time: 2023-12-07, 22:58:16	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 22:58:16
+process name: appBox2	   crash time: 2023-12-07, 22:58:17	SIGNAL(1).Hangup: 1
+process name: appBox1	   crash time: 2023-12-07, 22:58:17	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 22:58:17
+process name: appBox1	   start time: 2023-12-07, 22:58:17
+process name: appBox2	   crash time: 2023-12-07, 22:58:17	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 22:58:17
+process name: appBox1	   crash time: 2023-12-07, 22:58:18	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 22:58:18
+process name: appBox1	   crash time: 2023-12-07, 22:58:19	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 22:58:19
+process name: appBox1	   crash time: 2023-12-07, 22:58:19	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 22:58:19
+process name: appBox2	   crash time: 2023-12-07, 22:58:19	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 22:58:19
+process name: appBox2	   crash time: 2023-12-07, 22:58:20	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 22:58:20
+process name: appBox2	   crash time: 2023-12-07, 22:58:20	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 22:58:20
+process name: appBox1	   crash time: 2023-12-07, 22:58:20	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 22:58:20
+process name: appBox2	   crash time: 2023-12-07, 22:58:21	EXIT(0)
+process name: appBox2	   crash time: 2023-12-07, 22:58:21	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 22:58:21
+process name: appBox2	   start time: 2023-12-07, 22:58:21
+process name: appBox2	   crash time: 2023-12-07, 22:58:21	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 22:58:21
+process name: appBox2	   crash time: 2023-12-07, 22:58:21	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 22:58:21
+process name: appBox2	   crash time: 2023-12-07, 22:58:22	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 22:58:22
+process name: appBox1	   crash time: 2023-12-07, 22:58:23	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 22:58:23
+process name: appBox1	   crash time: 2023-12-07, 22:58:23	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 22:58:23
+process name: appBox1	   crash time: 2023-12-07, 22:58:23	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 22:58:23
+process name: appBox2	   crash time: 2023-12-07, 22:58:24	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 22:58:24
+process name: appBox1	   crash time: 2023-12-07, 22:58:24	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:58:24
+process name: appBox2	   crash time: 2023-12-07, 22:58:24	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 22:58:24
+process name: appBox1	   crash time: 2023-12-07, 22:58:25	SIGNAL(3).Quit: 3
+process name: appBox2	   crash time: 2023-12-07, 22:58:25	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 22:58:25
+process name: appBox2	   start time: 2023-12-07, 22:58:25
+process name: appBox2	   crash time: 2023-12-07, 22:58:26	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 22:58:26
+process name: appBox1	   crash time: 2023-12-07, 22:58:26	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 22:58:26
+process name: appBox1	   crash time: 2023-12-07, 22:58:26	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 22:58:26
+process name: appBox2	   crash time: 2023-12-07, 22:58:27	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 22:58:27
+process name: appBox2	   crash time: 2023-12-07, 22:58:27	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 22:58:27
+process name: appBox2	   crash time: 2023-12-07, 22:58:28	EXIT(3)
+process name: appBox1	   crash time: 2023-12-07, 22:58:28	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 22:58:28
+process name: appBox1	   start time: 2023-12-07, 22:58:28
+process name: appBox1	   crash time: 2023-12-07, 22:58:28	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 22:58:28
+process name: appBox2	   crash time: 2023-12-07, 22:58:29	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 22:58:29
+process name: appBox1	   crash time: 2023-12-07, 22:58:30	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 22:58:30
+process name: appBox1	   crash time: 2023-12-07, 22:58:30	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 22:58:30
+process name: appBox1	   crash time: 2023-12-07, 22:58:30	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 22:58:30
+process name: appBox1	   crash time: 2023-12-07, 22:58:30	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 22:58:30
+process name: appBox1	   crash time: 2023-12-07, 22:58:31	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 22:58:31
+process name: appBox1	   crash time: 2023-12-07, 22:58:32	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 22:58:32
+process name: appBox2	   crash time: 2023-12-07, 22:58:32	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 22:58:32
+process name: appBox2	   crash time: 2023-12-07, 22:58:32	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 22:58:32
+process name: appBox2	   crash time: 2023-12-07, 22:58:32	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 22:58:32
+process name: appBox1	   crash time: 2023-12-07, 22:58:33	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 22:58:33
+process name: appBox1	   crash time: 2023-12-07, 22:58:33	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 22:58:33
+process name: appBox2	   crash time: 2023-12-07, 22:58:34	SIGNAL(3).Quit: 3
+process name: appBox1	   crash time: 2023-12-07, 22:58:34	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 22:58:34
+process name: appBox1	   start time: 2023-12-07, 22:58:34
+process name: appBox1	   crash time: 2023-12-07, 22:58:35	SIGNAL(1).Hangup: 1
+process name: appBox1	   crash time: 2023-12-07, 22:58:35	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 22:58:35
+process name: appBox1	   start time: 2023-12-07, 22:58:35
+process name: appBox2	   crash time: 2023-12-07, 22:58:35	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 22:58:35
+process name: appBox2	   crash time: 2023-12-07, 22:58:36	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 22:58:36
+process name: appBox2	   crash time: 2023-12-07, 22:58:36	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 22:58:36
+process name: appBox1	   crash time: 2023-12-07, 22:58:37	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 22:58:37
+process name: appBox2	   crash time: 2023-12-07, 22:58:37	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 22:58:37
+process name: appBox2	   crash time: 2023-12-07, 22:58:38	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 22:58:38
+process name: appBox1	   crash time: 2023-12-07, 22:58:39	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:58:39
+process name: appBox1	   crash time: 2023-12-07, 22:58:39	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 22:58:39
+process name: appBox2	   crash time: 2023-12-07, 22:58:40	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 22:58:40
+process name: appBox2	   crash time: 2023-12-07, 22:58:40	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 22:58:40
+process name: appBox1	   crash time: 2023-12-07, 22:58:40	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 22:58:40
+process name: appBox2	   crash time: 2023-12-07, 22:58:40	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 22:58:40
+process name: appBox1	   crash time: 2023-12-07, 22:58:41	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 22:58:41
+process name: appBox2	   crash time: 2023-12-07, 22:58:41	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 22:58:41
+process name: appBox2	   crash time: 2023-12-07, 22:58:41	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 22:58:41
+process name: appBox1	   crash time: 2023-12-07, 22:58:42	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 22:58:42
+process name: appBox1	   crash time: 2023-12-07, 22:58:43	SIGNAL(3).Quit: 3
+process name: appBox2	   crash time: 2023-12-07, 22:58:43	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:58:43
+process name: appBox2	   start time: 2023-12-07, 22:58:43
+process name: appBox1	   crash time: 2023-12-07, 22:58:43	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 22:58:43
+process name: appBox1	   crash time: 2023-12-07, 22:58:44	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 22:58:44
+process name: appBox2	   crash time: 2023-12-07, 22:58:44	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 22:58:44
+process name: appBox2	   crash time: 2023-12-07, 22:58:45	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 22:58:45
+process name: appBox1	   crash time: 2023-12-07, 22:58:45	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 22:58:45
+process name: appBox1	   crash time: 2023-12-07, 22:58:46	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 22:58:46
+process name: appBox1	   crash time: 2023-12-07, 22:58:46	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 22:58:46
+process name: appBox2	   crash time: 2023-12-07, 22:58:46	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 22:58:46
+process name: appBox2	   crash time: 2023-12-07, 22:58:47	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 22:58:47
+process name: appBox2	   crash time: 2023-12-07, 22:58:47	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 22:58:47
+process name: appBox2	   crash time: 2023-12-07, 22:58:48	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 22:58:48
+process name: appBox1	   crash time: 2023-12-07, 22:58:48	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:58:48
+process name: appBox2	   crash time: 2023-12-07, 22:58:49	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 22:58:49
+process name: appBox2	   crash time: 2023-12-07, 22:58:49	EXIT(2)
+process name: appBox2	   crash time: 2023-12-07, 22:58:49	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 22:58:49
+process name: appBox2	   start time: 2023-12-07, 22:58:49
+process name: appBox1	   crash time: 2023-12-07, 22:58:50	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 22:58:50
+process name: appBox2	   crash time: 2023-12-07, 22:58:51	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 22:58:51
+process name: appBox1	   crash time: 2023-12-07, 22:58:51	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 22:58:51
+process name: appBox1	   crash time: 2023-12-07, 22:58:51	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 22:58:51
+process name: appBox1	   crash time: 2023-12-07, 22:58:51	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 22:58:51
+process name: appBox1	   crash time: 2023-12-07, 22:58:52	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:58:52
+process name: appBox2	   crash time: 2023-12-07, 22:58:52	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 22:58:52
+process name: appBox2	   crash time: 2023-12-07, 22:58:52	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 22:58:52
+process name: appBox2	   crash time: 2023-12-07, 22:58:54	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 22:58:54
+process name: appBox1	   crash time: 2023-12-07, 22:58:54	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 22:58:54
+process name: appBox1	   crash time: 2023-12-07, 22:58:54	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 22:58:54
+process name: appBox2	   crash time: 2023-12-07, 22:58:54	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 22:58:54
+process name: appBox1	   crash time: 2023-12-07, 22:58:55	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 22:58:55
+process name: appBox1	   crash time: 2023-12-07, 22:58:56	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 22:58:56
+process name: appBox2	   crash time: 2023-12-07, 22:58:56	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 22:58:56
+process name: appBox1	   crash time: 2023-12-07, 22:58:56	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 22:58:56
+process name: appBox1	   crash time: 2023-12-07, 22:58:57	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 22:58:57
+process name: appBox1	   crash time: 2023-12-07, 22:58:57	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:58:57
+process name: appBox1	   crash time: 2023-12-07, 22:58:58	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 22:58:58
+process name: appBox1	   crash time: 2023-12-07, 22:58:59	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 22:58:59
+process name: appBox2	   crash time: 2023-12-07, 22:58:59	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 22:58:59
+process name: appBox1	   crash time: 2023-12-07, 22:58:59	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 22:58:59
+process name: appBox2	   crash time: 2023-12-07, 22:59:00	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 22:59:00
+process name: appBox1	   crash time: 2023-12-07, 22:59:00	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 22:59:00
+process name: appBox2	   crash time: 2023-12-07, 22:59:01	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 22:59:01
+process name: appBox2	   crash time: 2023-12-07, 22:59:01	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 22:59:01
+process name: appBox2	   crash time: 2023-12-07, 22:59:01	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 22:59:01
+process name: appBox2	   crash time: 2023-12-07, 22:59:02	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 22:59:02
+process name: appBox2	   crash time: 2023-12-07, 22:59:02	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 22:59:02
+process name: appBox1	   crash time: 2023-12-07, 22:59:03	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 22:59:03
+process name: appBox2	   crash time: 2023-12-07, 22:59:03	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 22:59:03
+process name: appBox1	   crash time: 2023-12-07, 22:59:04	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 22:59:04
+process name: appBox2	   crash time: 2023-12-07, 22:59:04	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 22:59:04
+process name: appBox1	   crash time: 2023-12-07, 22:59:04	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:59:04
+process name: appBox1	   crash time: 2023-12-07, 22:59:05	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 22:59:05
+process name: appBox1	   crash time: 2023-12-07, 22:59:05	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 22:59:05
+process name: appBox2	   crash time: 2023-12-07, 22:59:05	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 22:59:05
+process name: appBox2	   crash time: 2023-12-07, 22:59:06	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 22:59:06
+process name: appBox1	   crash time: 2023-12-07, 22:59:06	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:59:06
+process name: appBox2	   crash time: 2023-12-07, 22:59:06	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 22:59:06
+process name: appBox1	   crash time: 2023-12-07, 22:59:07	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 22:59:07
+process name: appBox2	   crash time: 2023-12-07, 22:59:07	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 22:59:07
+process name: appBox1	   crash time: 2023-12-07, 22:59:08	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 22:59:08
+process name: appBox1	   crash time: 2023-12-07, 22:59:08	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 22:59:08
+process name: appBox2	   crash time: 2023-12-07, 22:59:09	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 22:59:09
+process name: appBox1	   crash time: 2023-12-07, 22:59:09	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 22:59:09
+process name: appBox2	   crash time: 2023-12-07, 22:59:09	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 22:59:09
+process name: appBox2	   crash time: 2023-12-07, 22:59:10	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 22:59:10
+process name: appBox2	   crash time: 2023-12-07, 22:59:10	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 22:59:10
+process name: appBox1	   crash time: 2023-12-07, 22:59:11	SIGNAL(3).Quit: 3
+process name: appBox2	   crash time: 2023-12-07, 22:59:11	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:59:11
+process name: appBox2	   start time: 2023-12-07, 22:59:11
+process name: appBox1	   crash time: 2023-12-07, 22:59:12	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 22:59:12
+process name: appBox1	   crash time: 2023-12-07, 22:59:12	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 22:59:12
+process name: appBox1	   crash time: 2023-12-07, 22:59:12	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 22:59:12
+process name: appBox2	   crash time: 2023-12-07, 22:59:13	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 22:59:13
+process name: appBox2	   crash time: 2023-12-07, 22:59:14	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 22:59:14
+process name: appBox2	   crash time: 2023-12-07, 22:59:14	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 22:59:14
+process name: appBox1	   crash time: 2023-12-07, 22:59:14	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 22:59:14
+process name: appBox2	   crash time: 2023-12-07, 22:59:15	SIGNAL(2).Interrupt: 2
+process name: appBox1	   crash time: 2023-12-07, 22:59:15	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:59:15
+process name: appBox2	   start time: 2023-12-07, 22:59:15
+process name: appBox1	   crash time: 2023-12-07, 22:59:15	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 22:59:15
+process name: appBox2	   crash time: 2023-12-07, 22:59:17	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 22:59:17
+process name: appBox1	   crash time: 2023-12-07, 22:59:17	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:59:17
+process name: appBox1	   crash time: 2023-12-07, 22:59:17	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 22:59:17
+process name: appBox2	   crash time: 2023-12-07, 22:59:17	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 22:59:17
+process name: appBox2	   crash time: 2023-12-07, 22:59:18	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 22:59:18
+process name: appBox1	   crash time: 2023-12-07, 22:59:19	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 22:59:19
+process name: appBox1	   crash time: 2023-12-07, 22:59:19	SIGNAL(1).Hangup: 1
+process name: appBox2	   crash time: 2023-12-07, 22:59:19	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 22:59:19
+process name: appBox2	   start time: 2023-12-07, 22:59:19
+process name: appBox2	   crash time: 2023-12-07, 22:59:20	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 22:59:20
+process name: appBox2	   crash time: 2023-12-07, 22:59:20	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 22:59:20
+process name: appBox2	   crash time: 2023-12-07, 22:59:21	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 22:59:21
+process name: appBox1	   crash time: 2023-12-07, 22:59:21	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 22:59:21
+process name: appBox1	   crash time: 2023-12-07, 22:59:21	EXIT(4)
+process name: appBox1	   crash time: 2023-12-07, 22:59:21	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 22:59:21
+process name: appBox1	   start time: 2023-12-07, 22:59:21
+process name: appBox2	   crash time: 2023-12-07, 22:59:22	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 22:59:22
+process name: appBox2	   crash time: 2023-12-07, 22:59:22	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 22:59:22
+process name: appBox2	   crash time: 2023-12-07, 22:59:23	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 22:59:23
+process name: appBox1	   crash time: 2023-12-07, 22:59:23	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 22:59:23
+process name: appBox1	   crash time: 2023-12-07, 22:59:24	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 22:59:24
+process name: appBox1	   crash time: 2023-12-07, 22:59:24	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:59:24
+process name: appBox1	   crash time: 2023-12-07, 22:59:24	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 22:59:24
+process name: appBox2	   crash time: 2023-12-07, 22:59:25	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 22:59:25
+process name: appBox2	   crash time: 2023-12-07, 22:59:25	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 22:59:25
+process name: appBox1	   crash time: 2023-12-07, 22:59:26	SIGNAL(1).Hangup: 1
+process name: appBox2	   crash time: 2023-12-07, 22:59:26	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:59:26
+process name: appBox2	   start time: 2023-12-07, 22:59:26
+process name: appBox1	   crash time: 2023-12-07, 22:59:26	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 22:59:26
+process name: appBox1	   crash time: 2023-12-07, 22:59:27	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 22:59:27
+process name: appBox1	   crash time: 2023-12-07, 22:59:28	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 22:59:28
+process name: appBox1	   crash time: 2023-12-07, 22:59:28	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 22:59:28
+process name: appBox1	   crash time: 2023-12-07, 22:59:28	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 22:59:28
+process name: appBox2	   crash time: 2023-12-07, 22:59:29	EXIT(1)
+process name: appBox1	   crash time: 2023-12-07, 22:59:29	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 22:59:29
+process name: appBox1	   start time: 2023-12-07, 22:59:29
+process name: appBox2	   crash time: 2023-12-07, 22:59:30	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 22:59:30
+process name: appBox2	   crash time: 2023-12-07, 22:59:31	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   crash time: 2023-12-07, 22:59:31	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 22:59:31
+process name: appBox1	   start time: 2023-12-07, 22:59:31
+process name: appBox2	   crash time: 2023-12-07, 22:59:31	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 22:59:31
+process name: appBox2	   crash time: 2023-12-07, 22:59:31	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 22:59:31
+process name: appBox1	   crash time: 2023-12-07, 22:59:32	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 22:59:32
+process name: appBox2	   crash time: 2023-12-07, 22:59:32	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   crash time: 2023-12-07, 22:59:32	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 22:59:32
+process name: appBox2	   start time: 2023-12-07, 22:59:32
+process name: appBox2	   crash time: 2023-12-07, 22:59:32	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 22:59:32
+process name: appBox1	   crash time: 2023-12-07, 22:59:34	SIGNAL(3).Quit: 3
+process name: appBox2	   crash time: 2023-12-07, 22:59:34	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:59:34
+process name: appBox2	   start time: 2023-12-07, 22:59:34
+process name: appBox2	   crash time: 2023-12-07, 22:59:34	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 22:59:34
+process name: appBox1	   crash time: 2023-12-07, 22:59:35	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 22:59:35
+process name: appBox1	   crash time: 2023-12-07, 22:59:36	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 22:59:36
+process name: appBox1	   crash time: 2023-12-07, 22:59:36	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 22:59:36
+process name: appBox1	   crash time: 2023-12-07, 22:59:36	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 22:59:36
+process name: appBox2	   crash time: 2023-12-07, 22:59:36	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 22:59:36
+process name: appBox1	   crash time: 2023-12-07, 22:59:37	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 22:59:37
+process name: appBox1	   crash time: 2023-12-07, 22:59:37	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 22:59:37
+process name: appBox2	   crash time: 2023-12-07, 22:59:38	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 22:59:38
+process name: appBox2	   crash time: 2023-12-07, 22:59:38	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 22:59:38
+process name: appBox2	   crash time: 2023-12-07, 22:59:39	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 22:59:39
+process name: appBox1	   crash time: 2023-12-07, 22:59:39	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 22:59:39
+process name: appBox1	   crash time: 2023-12-07, 22:59:40	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 22:59:40
+process name: appBox2	   crash time: 2023-12-07, 22:59:40	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 22:59:40
+process name: appBox2	   crash time: 2023-12-07, 22:59:40	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 22:59:40
+process name: appBox1	   crash time: 2023-12-07, 22:59:41	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 22:59:41
+process name: appBox1	   crash time: 2023-12-07, 22:59:42	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 22:59:42
+process name: appBox1	   crash time: 2023-12-07, 22:59:42	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   crash time: 2023-12-07, 22:59:42	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 22:59:42
+process name: appBox2	   start time: 2023-12-07, 22:59:42
+process name: appBox1	   crash time: 2023-12-07, 22:59:42	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 22:59:42
+process name: appBox2	   crash time: 2023-12-07, 22:59:43	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 22:59:43
+process name: appBox1	   crash time: 2023-12-07, 22:59:43	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 22:59:43
+process name: appBox2	   crash time: 2023-12-07, 22:59:44	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 22:59:44
+process name: appBox2	   crash time: 2023-12-07, 22:59:45	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 22:59:45
+process name: appBox1	   crash time: 2023-12-07, 22:59:45	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 22:59:45
+process name: appBox2	   crash time: 2023-12-07, 22:59:45	SIGNAL(1).Hangup: 1
+process name: appBox2	   crash time: 2023-12-07, 22:59:45	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 22:59:45
+process name: appBox2	   start time: 2023-12-07, 22:59:45
+process name: appBox1	   crash time: 2023-12-07, 22:59:46	SIGNAL(2).Interrupt: 2
+process name: appBox2	   crash time: 2023-12-07, 22:59:46	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 22:59:46
+process name: appBox2	   crash time: 2023-12-07, 22:59:46	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 22:59:46
+process name: appBox2	   start time: 2023-12-07, 22:59:47
+process name: appBox1	   crash time: 2023-12-07, 22:59:47	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 22:59:47
+process name: appBox1	   crash time: 2023-12-07, 22:59:48	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 22:59:48
+process name: appBox2	   crash time: 2023-12-07, 22:59:48	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 22:59:48
+process name: appBox2	   crash time: 2023-12-07, 22:59:48	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 22:59:48
+process name: appBox2	   crash time: 2023-12-07, 22:59:50	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 22:59:50
+process name: appBox1	   crash time: 2023-12-07, 22:59:50	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   crash time: 2023-12-07, 22:59:50	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 22:59:50
+process name: appBox1	   start time: 2023-12-07, 22:59:50
+process name: appBox1	   crash time: 2023-12-07, 22:59:50	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 22:59:50
+process name: appBox1	   crash time: 2023-12-07, 22:59:51	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 22:59:51
+process name: appBox1	   crash time: 2023-12-07, 22:59:51	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 22:59:51
+process name: appBox1	   crash time: 2023-12-07, 22:59:52	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 22:59:52
+process name: appBox2	   crash time: 2023-12-07, 22:59:52	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 22:59:52
+process name: appBox2	   crash time: 2023-12-07, 22:59:53	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 22:59:53
+process name: appBox2	   crash time: 2023-12-07, 22:59:53	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 22:59:53
+process name: appBox1	   crash time: 2023-12-07, 22:59:53	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 22:59:53
+process name: appBox1	   crash time: 2023-12-07, 22:59:55	EXIT(5)
+process name: appBox2	   crash time: 2023-12-07, 22:59:55	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 22:59:55
+process name: appBox2	   start time: 2023-12-07, 22:59:55
+process name: appBox2	   crash time: 2023-12-07, 22:59:55	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 22:59:55
+process name: appBox1	   crash time: 2023-12-07, 22:59:55	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 22:59:55
+process name: appBox2	   crash time: 2023-12-07, 22:59:56	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 22:59:56
+process name: appBox1	   crash time: 2023-12-07, 22:59:56	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 22:59:56
+process name: appBox1	   crash time: 2023-12-07, 22:59:57	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 22:59:57
+process name: appBox2	   crash time: 2023-12-07, 22:59:57	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 22:59:57
+process name: appBox2	   crash time: 2023-12-07, 22:59:58	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 22:59:58
+process name: appBox2	   crash time: 2023-12-07, 22:59:58	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 22:59:58
+process name: appBox1	   crash time: 2023-12-07, 22:59:58	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 22:59:58
+process name: appBox2	   crash time: 2023-12-07, 22:59:59	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 22:59:59
+process name: appBox1	   crash time: 2023-12-07, 22:59:59	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 22:59:59
+process name: appBox2	   crash time: 2023-12-07, 23:00:00	SIGNAL(1).Hangup: 1
+process name: appBox2	   crash time: 2023-12-07, 23:00:00	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:00:00
+process name: appBox2	   start time: 2023-12-07, 23:00:00
+process name: appBox2	   crash time: 2023-12-07, 23:00:01	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 23:00:01
+process name: appBox2	   crash time: 2023-12-07, 23:00:01	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:00:01
+process name: appBox1	   crash time: 2023-12-07, 23:00:01	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 23:00:01
+process name: appBox1	   crash time: 2023-12-07, 23:00:02	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:00:02
+process name: appBox1	   crash time: 2023-12-07, 23:00:02	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 23:00:02
+process name: appBox1	   crash time: 2023-12-07, 23:00:03	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 23:00:03
+process name: appBox2	   crash time: 2023-12-07, 23:00:03	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 23:00:03
+process name: appBox2	   crash time: 2023-12-07, 23:00:04	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 23:00:04
+process name: appBox1	   crash time: 2023-12-07, 23:00:04	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   crash time: 2023-12-07, 23:00:04	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:00:04
+process name: appBox1	   start time: 2023-12-07, 23:00:04
+process name: appBox1	   crash time: 2023-12-07, 23:00:05	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 23:00:05
+process name: appBox1	   crash time: 2023-12-07, 23:00:06	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 23:00:06
+process name: appBox1	   crash time: 2023-12-07, 23:00:06	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 23:00:06
+process name: appBox2	   crash time: 2023-12-07, 23:00:06	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 23:00:06
+process name: appBox2	   crash time: 2023-12-07, 23:00:06	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:00:06
+process name: appBox1	   crash time: 2023-12-07, 23:00:07	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 23:00:07
+process name: appBox1	   crash time: 2023-12-07, 23:00:07	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 23:00:07
+process name: appBox1	   crash time: 2023-12-07, 23:00:08	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 23:00:09
+process name: appBox2	   crash time: 2023-12-07, 23:00:09	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 23:00:09
+process name: appBox2	   crash time: 2023-12-07, 23:00:09	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 23:00:09
+process name: appBox1	   crash time: 2023-12-07, 23:00:09	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:00:09
+process name: appBox1	   crash time: 2023-12-07, 23:00:09	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 23:00:10
+process name: appBox2	   crash time: 2023-12-07, 23:00:10	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:00:10
+process name: appBox1	   crash time: 2023-12-07, 23:00:11	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 23:00:11
+process name: appBox2	   crash time: 2023-12-07, 23:00:11	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   crash time: 2023-12-07, 23:00:11	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:00:11
+process name: appBox2	   start time: 2023-12-07, 23:00:11
+process name: appBox2	   crash time: 2023-12-07, 23:00:12	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:00:12
+process name: appBox2	   crash time: 2023-12-07, 23:00:12	SIGNAL(3).Quit: 3
+process name: appBox1	   crash time: 2023-12-07, 23:00:12	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 23:00:12
+process name: appBox1	   start time: 2023-12-07, 23:00:12
+process name: appBox1	   crash time: 2023-12-07, 23:00:14	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:00:14
+process name: appBox1	   crash time: 2023-12-07, 23:00:14	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 23:00:14
+process name: appBox2	   crash time: 2023-12-07, 23:00:14	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 23:00:14
+process name: appBox2	   crash time: 2023-12-07, 23:00:14	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:00:14
+process name: appBox2	   crash time: 2023-12-07, 23:00:15	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 23:00:15
+process name: appBox1	   crash time: 2023-12-07, 23:00:16	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 23:00:16
+process name: appBox2	   crash time: 2023-12-07, 23:00:16	EXIT(3)
+process name: appBox2	   crash time: 2023-12-07, 23:00:16	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:00:16
+process name: appBox2	   start time: 2023-12-07, 23:00:16
+process name: appBox2	   crash time: 2023-12-07, 23:00:17	SIGNAL(3).Quit: 3
+process name: appBox2	   crash time: 2023-12-07, 23:00:17	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 23:00:17
+process name: appBox2	   start time: 2023-12-07, 23:00:17
+process name: appBox1	   crash time: 2023-12-07, 23:00:18	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 23:00:18
+process name: appBox2	   crash time: 2023-12-07, 23:00:18	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 23:00:18
+process name: appBox1	   crash time: 2023-12-07, 23:00:19	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:00:19
+process name: appBox1	   crash time: 2023-12-07, 23:00:19	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 23:00:19
+process name: appBox1	   crash time: 2023-12-07, 23:00:19	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 23:00:19
+process name: appBox2	   crash time: 2023-12-07, 23:00:20	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:00:20
+process name: appBox2	   crash time: 2023-12-07, 23:00:20	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 23:00:21
+process name: appBox1	   crash time: 2023-12-07, 23:00:21	SIGNAL(1).Hangup: 1
+process name: appBox1	   crash time: 2023-12-07, 23:00:21	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:00:21
+process name: appBox1	   start time: 2023-12-07, 23:00:21
+process name: appBox2	   crash time: 2023-12-07, 23:00:21	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:00:21
+process name: appBox1	   crash time: 2023-12-07, 23:00:21	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 23:00:22
+process name: appBox1	   crash time: 2023-12-07, 23:00:23	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 23:00:23
+process name: appBox1	   crash time: 2023-12-07, 23:00:23	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:00:23
+process name: appBox1	   crash time: 2023-12-07, 23:00:23	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:00:23
+process name: appBox2	   crash time: 2023-12-07, 23:00:23	EXIT(5)
+process name: appBox2	   crash time: 2023-12-07, 23:00:24	SIGNAL(3).Quit: 3
+process name: appBox2	   crash time: 2023-12-07, 23:00:24	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:00:24
+process name: appBox1	   crash time: 2023-12-07, 23:00:25	SIGNAL(2).Interrupt: 2
+process name: appBox1	   crash time: 2023-12-07, 23:00:25	EXIT(1)
+process name: appBox1	   crash time: 2023-12-07, 23:00:26	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   crash time: 2023-12-07, 23:00:27	SIGNAL(3).Quit: 3
+process name: appBox2	   crash time: 2023-12-07, 23:00:28	EXIT(5)
+process name: appBox2	   crash time: 2023-12-07, 23:00:28	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 23:00:28
+process name: appBox1	   crash time: 2023-12-07, 23:00:29	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 23:00:29
+process name: appBox1	   start time: 2023-12-07, 23:00:29
+process name: appBox1	   crash time: 2023-12-07, 23:00:30	EXIT(5)
+process name: appBox1	   crash time: 2023-12-07, 23:00:31	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   crash time: 2023-12-07, 23:00:32	EXIT(5)
+process name: appBox1	   crash time: 2023-12-07, 23:00:33	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   crash time: 2023-12-07, 23:00:33	SIGNAL(2).Interrupt: 2
+process name: appBox2	   crash time: 2023-12-07, 23:00:33	EXIT(4)
+process name: appBox2	   crash time: 2023-12-07, 23:00:34	EXIT(2)
+process name: appBox2	   crash time: 2023-12-07, 23:00:35	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:00:36
+process name: appBox2	   crash time: 2023-12-07, 23:00:37	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 23:00:39
+process name: appBox1	   start time: 2023-12-07, 23:00:41
+process name: appBox2	   start time: 2023-12-07, 23:00:41
+process name: appBox1	   start time: 2023-12-07, 23:00:41
+process name: appBox2	   start time: 2023-12-07, 23:00:41
+process name: appBox1	   start time: 2023-12-07, 23:00:43
+process name: appBox1	   start time: 2023-12-07, 23:00:43
+process name: appBox2	   start time: 2023-12-07, 23:00:43
+process name: appBox1	   start time: 2023-12-07, 23:00:46
+process name: appBox2	   start time: 2023-12-07, 23:00:46
+process name: appBox1	   crash time: 2023-12-07, 23:00:46	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 23:00:46
+process name: appBox1	   start time: 2023-12-07, 23:00:47
+process name: appBox2	   crash time: 2023-12-07, 23:00:47	SIGNAL(3).Quit: 3
+process name: appBox1	   crash time: 2023-12-07, 23:00:47	EXIT(0)
+process name: appBox2	   crash time: 2023-12-07, 23:00:48	EXIT(3)
+process name: appBox2	   crash time: 2023-12-07, 23:00:49	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   crash time: 2023-12-07, 23:00:49	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 23:00:49
+process name: appBox2	   start time: 2023-12-07, 23:00:49
+process name: appBox1	   crash time: 2023-12-07, 23:00:50	SIGNAL(2).Interrupt: 2
+process name: appBox2	   crash time: 2023-12-07, 23:00:51	EXIT(2)
+process name: appBox1	   crash time: 2023-12-07, 23:00:51	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   crash time: 2023-12-07, 23:00:52	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 23:00:53
+process name: appBox2	   start time: 2023-12-07, 23:00:53
+process name: appBox1	   start time: 2023-12-07, 23:00:53
+process name: appBox2	   start time: 2023-12-07, 23:00:53
+process name: appBox1	   crash time: 2023-12-07, 23:00:54	EXIT(5)
+process name: appBox2	   crash time: 2023-12-07, 23:00:54	EXIT(0)
+process name: appBox2	   crash time: 2023-12-07, 23:00:55	SIGNAL(1).Hangup: 1
+process name: appBox2	   crash time: 2023-12-07, 23:00:55	SIGNAL(3).Quit: 3
+process name: appBox1	   crash time: 2023-12-07, 23:00:56	EXIT(1)
+process name: appBox1	   crash time: 2023-12-07, 23:00:57	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   crash time: 2023-12-07, 23:00:57	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   crash time: 2023-12-07, 23:00:57	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 23:01:11
+process name: appBox1	   start time: 2023-12-07, 23:01:11
+process name: appBox2	   start time: 2023-12-07, 23:01:12
+process name: appBox2	   start time: 2023-12-07, 23:01:12
+process name: appBox2	   crash time: 2023-12-07, 23:01:14	SIGNAL(1).Hangup: 1
+process name: appBox2	   crash time: 2023-12-07, 23:01:15	EXIT(1)
+process name: appBox1	   crash time: 2023-12-07, 23:01:17	SIGNAL(3).Quit: 3
+process name: appBox1	   crash time: 2023-12-07, 23:01:18	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:01:35
+process name: appBox1	   start time: 2023-12-07, 23:01:35
+process name: appBox2	   start time: 2023-12-07, 23:01:35
+process name: appBox1	   start time: 2023-12-07, 23:01:35
+process name: appBox1	   start time: 2023-12-07, 23:01:36
+process name: appBox2	   start time: 2023-12-07, 23:01:36
+process name: appBox2	   crash time: 2023-12-07, 23:01:37	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 23:01:39
+process name: appBox1	   start time: 2023-12-07, 23:01:39
+process name: appBox2	   crash time: 2023-12-07, 23:01:39	EXIT(1)
+process name: appBox2	   crash time: 2023-12-07, 23:01:40	EXIT(0)
+process name: appBox1	   crash time: 2023-12-07, 23:01:41	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:01:42
+process name: appBox2	   start time: 2023-12-07, 23:01:43
+process name: appBox1	   crash time: 2023-12-07, 23:01:43	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 23:01:44
+process name: appBox2	   start time: 2023-12-07, 23:01:44
+process name: appBox1	   start time: 2023-12-07, 23:01:44
+process name: appBox1	   start time: 2023-12-07, 23:01:44
+process name: appBox2	   crash time: 2023-12-07, 23:01:44	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:01:44
+process name: appBox1	   start time: 2023-12-07, 23:01:45
+process name: appBox1	   crash time: 2023-12-07, 23:01:46	SIGNAL(1).Hangup: 1
+process name: appBox1	   crash time: 2023-12-07, 23:01:46	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:01:46
+process name: appBox1	   crash time: 2023-12-07, 23:01:47	EXIT(1)
+process name: appBox2	   crash time: 2023-12-07, 23:01:48	SIGNAL(2).Interrupt: 2
+process name: appBox2	   crash time: 2023-12-07, 23:01:49	SIGNAL(3).Quit: 3
+process name: appBox1	   crash time: 2023-12-07, 23:01:49	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 23:01:49
+process name: appBox1	   start time: 2023-12-07, 23:01:50
+process name: appBox1	   start time: 2023-12-07, 23:01:50
+process name: appBox2	   start time: 2023-12-07, 23:01:50
+process name: appBox1	   crash time: 2023-12-07, 23:01:50	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:01:50
+process name: appBox2	   crash time: 2023-12-07, 23:01:50	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   crash time: 2023-12-07, 23:01:50	EXIT(2)
+process name: appBox1	   crash time: 2023-12-07, 23:01:50	EXIT(0)
+process name: appBox2	   crash time: 2023-12-07, 23:01:51	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:01:53
+process name: appBox1	   crash time: 2023-12-07, 23:01:53	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 23:01:53
+process name: appBox1	   start time: 2023-12-07, 23:01:54
+process name: appBox2	   start time: 2023-12-07, 23:01:54
+process name: appBox1	   crash time: 2023-12-07, 23:01:54	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:01:54
+process name: appBox2	   crash time: 2023-12-07, 23:01:55	SIGNAL(1).Hangup: 1
+process name: appBox2	   crash time: 2023-12-07, 23:01:58	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 23:01:58
+process name: appBox1	   crash time: 2023-12-07, 23:01:59	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:01:59
+process name: appBox2	   crash time: 2023-12-07, 23:01:59	EXIT(2)
+process name: appBox1	   crash time: 2023-12-07, 23:02:00	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   crash time: 2023-12-07, 23:02:00	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 23:02:01
+process name: appBox2	   start time: 2023-12-07, 23:02:01
+process name: appBox1	   crash time: 2023-12-07, 23:02:01	EXIT(1)
+process name: appBox1	   crash time: 2023-12-07, 23:02:02	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   crash time: 2023-12-07, 23:02:03	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:02:03
+process name: appBox1	   start time: 2023-12-07, 23:02:03
+process name: appBox1	   start time: 2023-12-07, 23:02:04
+process name: appBox1	   crash time: 2023-12-07, 23:02:04	EXIT(5)
+process name: appBox1	   crash time: 2023-12-07, 23:02:06	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 23:02:06
+process name: appBox1	   start time: 2023-12-07, 23:02:06
+process name: appBox1	   start time: 2023-12-07, 23:02:06
+process name: appBox1	   start time: 2023-12-07, 23:02:07
+process name: appBox2	   crash time: 2023-12-07, 23:02:08	EXIT(2)
+process name: appBox1	   crash time: 2023-12-07, 23:02:09	SIGNAL(3).Quit: 3
+process name: appBox2	   crash time: 2023-12-07, 23:02:10	EXIT(4)
+process name: appBox2	   crash time: 2023-12-07, 23:02:11	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 23:02:12
+process name: appBox1	   start time: 2023-12-07, 23:02:12
+process name: appBox1	   crash time: 2023-12-07, 23:02:12	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:02:14
+process name: appBox1	   start time: 2023-12-07, 23:02:14
+process name: appBox2	   crash time: 2023-12-07, 23:02:14	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 23:02:14
+process name: appBox1	   crash time: 2023-12-07, 23:02:15	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 23:02:15
+process name: appBox1	   crash time: 2023-12-07, 23:02:15	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:02:16
+process name: appBox1	   crash time: 2023-12-07, 23:02:16	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 23:02:17
+process name: appBox2	   crash time: 2023-12-07, 23:02:17	EXIT(5)
+process name: appBox2	   crash time: 2023-12-07, 23:02:18	SIGNAL(1).Hangup: 1
+process name: appBox1	   crash time: 2023-12-07, 23:02:19	SIGNAL(2).Interrupt: 2
+process name: appBox2	   crash time: 2023-12-07, 23:02:20	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 23:02:21
+process name: appBox2	   start time: 2023-12-07, 23:02:22
+process name: appBox2	   crash time: 2023-12-07, 23:02:23	EXIT(4)
+process name: appBox1	   crash time: 2023-12-07, 23:02:24	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 23:02:25
+process name: appBox2	   start time: 2023-12-07, 23:02:25
+process name: appBox2	   start time: 2023-12-07, 23:02:25
+process name: appBox1	   start time: 2023-12-07, 23:02:28
+process name: appBox1	   start time: 2023-12-07, 23:02:28
+process name: appBox1	   start time: 2023-12-07, 23:02:28
+process name: appBox1	   crash time: 2023-12-07, 23:02:28	EXIT(5)
+process name: appBox1	   crash time: 2023-12-07, 23:02:29	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 23:02:29
+process name: appBox2	   crash time: 2023-12-07, 23:02:29	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:02:29
+process name: appBox1	   crash time: 2023-12-07, 23:02:30	SIGNAL(1).Hangup: 1
+process name: appBox1	   crash time: 2023-12-07, 23:02:30	EXIT(4)
+process name: appBox2	   crash time: 2023-12-07, 23:02:32	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:02:32
+process name: appBox2	   crash time: 2023-12-07, 23:02:32	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   crash time: 2023-12-07, 23:02:33	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 23:02:33
+process name: appBox1	   crash time: 2023-12-07, 23:02:34	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 23:02:34
+process name: appBox1	   start time: 2023-12-07, 23:02:34
+process name: appBox2	   start time: 2023-12-07, 23:02:34
+process name: appBox1	   start time: 2023-12-07, 23:02:34
+process name: appBox1	   start time: 2023-12-07, 23:02:34
+process name: appBox2	   start time: 2023-12-07, 23:02:34
+process name: appBox2	   start time: 2023-12-07, 23:02:34
+process name: appBox2	   start time: 2023-12-07, 23:02:34
+process name: appBox1	   start time: 2023-12-07, 23:02:34
+process name: appBox2	   start time: 2023-12-07, 23:02:34
+process name: appBox2	   crash time: 2023-12-07, 23:02:34	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:02:35
+process name: appBox1	   crash time: 2023-12-07, 23:02:35	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 23:02:35
+process name: appBox2	   crash time: 2023-12-07, 23:02:35	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 23:02:35
+process name: appBox2	   crash time: 2023-12-07, 23:02:36	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 23:02:36
+process name: appBox1	   crash time: 2023-12-07, 23:02:36	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:02:36
+process name: appBox1	   crash time: 2023-12-07, 23:02:36	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:02:36
+process name: appBox2	   crash time: 2023-12-07, 23:02:37	EXIT(1)
+process name: appBox1	   crash time: 2023-12-07, 23:02:38	SIGNAL(1).Hangup: 1
+process name: appBox1	   crash time: 2023-12-07, 23:02:39	EXIT(5)
+process name: appBox1	   crash time: 2023-12-07, 23:02:40	SIGNAL(2).Interrupt: 2
+process name: appBox1	   crash time: 2023-12-07, 23:02:40	SIGNAL(3).Quit: 3
+process name: appBox1	   crash time: 2023-12-07, 23:02:41	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:02:41
+process name: appBox2	   crash time: 2023-12-07, 23:02:41	EXIT(3)
+process name: appBox2	   crash time: 2023-12-07, 23:02:42	SIGNAL(3).Quit: 3
+process name: appBox2	   crash time: 2023-12-07, 23:02:42	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   crash time: 2023-12-07, 23:02:43	EXIT(4)
+process name: appBox2	   crash time: 2023-12-07, 23:02:43	EXIT(4)
+process name: appBox2	   crash time: 2023-12-07, 23:02:43	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   crash time: 2023-12-07, 23:02:44	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   crash time: 2023-12-07, 23:02:45	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 23:02:50
+process name: appBox1	   crash time: 2023-12-07, 23:02:52	EXIT(5)
+process name: appBox2	   crash time: 2023-12-07, 23:02:59	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 23:03:00
+process name: appBox1	   crash time: 2023-12-07, 23:03:07	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:03:14
+process name: appBox1	   start time: 2023-12-07, 23:03:14
+process name: appBox1	   start time: 2023-12-07, 23:03:15
+process name: appBox2	   start time: 2023-12-07, 23:03:15
+process name: appBox1	   start time: 2023-12-07, 23:03:17
+process name: appBox2	   start time: 2023-12-07, 23:03:17
+process name: appBox2	   start time: 2023-12-07, 23:03:17
+process name: appBox1	   crash time: 2023-12-07, 23:03:18	EXIT(0)
+process name: appBox2	   crash time: 2023-12-07, 23:03:19	SIGNAL(1).Hangup: 1
+process name: appBox2	   crash time: 2023-12-07, 23:03:19	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:03:20
+process name: appBox2	   start time: 2023-12-07, 23:03:21
+process name: appBox1	   start time: 2023-12-07, 23:03:21
+process name: appBox1	   crash time: 2023-12-07, 23:03:22	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:03:22
+process name: appBox2	   start time: 2023-12-07, 23:03:23
+process name: appBox1	   start time: 2023-12-07, 23:03:23
+process name: appBox1	   start time: 2023-12-07, 23:03:23
+process name: appBox2	   start time: 2023-12-07, 23:03:23
+process name: appBox2	   start time: 2023-12-07, 23:03:23
+process name: appBox2	   start time: 2023-12-07, 23:03:24
+process name: appBox1	   crash time: 2023-12-07, 23:03:24	EXIT(0)
+process name: appBox1	   crash time: 2023-12-07, 23:03:24	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   crash time: 2023-12-07, 23:03:25	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:03:25
+process name: appBox1	   crash time: 2023-12-07, 23:03:25	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:03:25
+process name: appBox2	   crash time: 2023-12-07, 23:03:26	EXIT(2)
+process name: appBox1	   crash time: 2023-12-07, 23:03:26	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 23:03:26
+process name: appBox2	   crash time: 2023-12-07, 23:03:27	EXIT(1)
+process name: appBox2	   crash time: 2023-12-07, 23:03:27	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:03:27
+process name: appBox2	   crash time: 2023-12-07, 23:03:28	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 23:03:28
+process name: appBox1	   crash time: 2023-12-07, 23:03:28	SIGNAL(3).Quit: 3
+process name: appBox2	   crash time: 2023-12-07, 23:03:28	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 23:03:29
+process name: appBox2	   start time: 2023-12-07, 23:03:29
+process name: appBox2	   start time: 2023-12-07, 23:03:29
+process name: appBox1	   crash time: 2023-12-07, 23:03:29	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 23:03:29
+process name: appBox2	   crash time: 2023-12-07, 23:03:30	EXIT(0)
+process name: appBox2	   crash time: 2023-12-07, 23:03:30	EXIT(3)
+process name: appBox2	   crash time: 2023-12-07, 23:03:31	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 23:03:31
+process name: appBox2	   crash time: 2023-12-07, 23:03:32	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:03:32
+process name: appBox2	   start time: 2023-12-07, 23:03:32
+process name: appBox2	   start time: 2023-12-07, 23:03:32
+process name: appBox1	   crash time: 2023-12-07, 23:03:33	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 23:03:33
+process name: appBox2	   crash time: 2023-12-07, 23:03:33	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 23:03:34
+process name: appBox2	   crash time: 2023-12-07, 23:03:34	EXIT(5)
+process name: appBox1	   crash time: 2023-12-07, 23:03:34	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   crash time: 2023-12-07, 23:03:34	SIGNAL(1).Hangup: 1
+process name: appBox1	   crash time: 2023-12-07, 23:03:35	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   crash time: 2023-12-07, 23:03:35	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 23:03:36
+process name: appBox2	   start time: 2023-12-07, 23:03:36
+process name: appBox2	   start time: 2023-12-07, 23:03:36
+process name: appBox2	   crash time: 2023-12-07, 23:03:36	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:03:36
+process name: appBox1	   crash time: 2023-12-07, 23:03:36	EXIT(3)
+process name: appBox2	   crash time: 2023-12-07, 23:03:37	EXIT(0)
+process name: appBox2	   crash time: 2023-12-07, 23:03:38	SIGNAL(1).Hangup: 1
+process name: appBox2	   crash time: 2023-12-07, 23:03:39	EXIT(1)
+process name: appBox2	   crash time: 2023-12-07, 23:03:40	SIGNAL(3).Quit: 3
+process name: appBox1	   crash time: 2023-12-07, 23:03:40	EXIT(5)
+process name: appBox1	   crash time: 2023-12-07, 23:03:41	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 23:03:43
+process name: appBox1	   start time: 2023-12-07, 23:03:43
+process name: appBox2	   start time: 2023-12-07, 23:03:43
+process name: appBox2	   start time: 2023-12-07, 23:03:43
+process name: appBox2	   crash time: 2023-12-07, 23:03:44	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   crash time: 2023-12-07, 23:03:46	EXIT(1)
+process name: appBox2	   crash time: 2023-12-07, 23:03:47	SIGNAL(2).Interrupt: 2
+process name: appBox2	   crash time: 2023-12-07, 23:03:48	EXIT(2)
+process name: appBox2	   crash time: 2023-12-07, 23:03:49	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 23:03:58
+process name: appBox2	   start time: 2023-12-07, 23:04:01
+process name: appBox1	   start time: 2023-12-07, 23:04:01
+process name: appBox2	   start time: 2023-12-07, 23:04:01
+process name: appBox2	   start time: 2023-12-07, 23:04:01
+process name: appBox2	   start time: 2023-12-07, 23:04:01
+process name: appBox1	   start time: 2023-12-07, 23:04:01
+process name: appBox1	   start time: 2023-12-07, 23:04:02
+process name: appBox1	   start time: 2023-12-07, 23:04:02
+process name: appBox2	   crash time: 2023-12-07, 23:04:34	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 23:04:35
+process name: appBox2	   start time: 2023-12-07, 23:04:35
+process name: appBox2	   start time: 2023-12-07, 23:04:35
+process name: appBox2	   start time: 2023-12-07, 23:04:35
+process name: appBox1	   start time: 2023-12-07, 23:04:35
+process name: appBox1	   start time: 2023-12-07, 23:04:35
+process name: appBox1	   crash time: 2023-12-07, 23:04:35	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:04:35
+process name: appBox2	   crash time: 2023-12-07, 23:04:36	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 23:04:36
+process name: appBox1	   crash time: 2023-12-07, 23:04:37	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:04:37
+process name: appBox1	   crash time: 2023-12-07, 23:04:38	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 23:04:38
+process name: appBox1	   crash time: 2023-12-07, 23:04:38	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 23:04:38
+process name: appBox2	   crash time: 2023-12-07, 23:04:39	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:04:39
+process name: appBox2	   crash time: 2023-12-07, 23:04:39	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:04:39
+process name: appBox2	   crash time: 2023-12-07, 23:04:39	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:04:39
+process name: appBox1	   crash time: 2023-12-07, 23:04:40	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 23:04:40
+process name: appBox1	   crash time: 2023-12-07, 23:04:40	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:04:40
+process name: appBox2	   crash time: 2023-12-07, 23:04:41	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:04:41
+process name: appBox2	   crash time: 2023-12-07, 23:04:42	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:04:42
+process name: appBox1	   crash time: 2023-12-07, 23:04:42	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 23:04:42
+process name: appBox1	   crash time: 2023-12-07, 23:04:42	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:04:42
+process name: appBox2	   crash time: 2023-12-07, 23:04:43	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:04:43
+process name: appBox2	   crash time: 2023-12-07, 23:04:44	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 23:04:44
+process name: appBox2	   crash time: 2023-12-07, 23:04:45	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 23:04:45
+process name: appBox1	   crash time: 2023-12-07, 23:04:45	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 23:04:45
+process name: appBox2	   crash time: 2023-12-07, 23:04:45	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 23:04:45
+process name: appBox1	   crash time: 2023-12-07, 23:04:46	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:04:46
+process name: appBox1	   crash time: 2023-12-07, 23:04:46	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:04:46
+process name: appBox2	   crash time: 2023-12-07, 23:04:46	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 23:04:46
+process name: appBox2	   crash time: 2023-12-07, 23:04:47	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:04:47
+process name: appBox1	   crash time: 2023-12-07, 23:04:48	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:04:48
+process name: appBox1	   crash time: 2023-12-07, 23:04:48	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 23:04:48
+process name: appBox2	   crash time: 2023-12-07, 23:04:48	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:04:48
+process name: appBox1	   crash time: 2023-12-07, 23:04:49	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 23:04:49
+process name: appBox2	   crash time: 2023-12-07, 23:04:50	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:04:50
+process name: appBox2	   crash time: 2023-12-07, 23:04:50	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 23:04:50
+process name: appBox1	   crash time: 2023-12-07, 23:04:50	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:04:50
+process name: appBox1	   crash time: 2023-12-07, 23:04:51	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:04:51
+process name: appBox2	   crash time: 2023-12-07, 23:04:51	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:04:51
+process name: appBox1	   crash time: 2023-12-07, 23:04:51	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 23:04:51
+process name: appBox2	   crash time: 2023-12-07, 23:04:51	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:04:51
+process name: appBox2	   crash time: 2023-12-07, 23:04:52	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 23:04:52
+process name: appBox2	   crash time: 2023-12-07, 23:04:52	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:04:52
+process name: appBox2	   crash time: 2023-12-07, 23:04:53	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 23:04:53
+process name: appBox1	   crash time: 2023-12-07, 23:04:53	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:04:53
+process name: appBox2	   crash time: 2023-12-07, 23:04:54	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 23:04:54
+process name: appBox1	   crash time: 2023-12-07, 23:04:54	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 23:04:54
+process name: appBox2	   crash time: 2023-12-07, 23:04:55	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:04:55
+process name: appBox2	   crash time: 2023-12-07, 23:04:55	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:04:55
+process name: appBox2	   crash time: 2023-12-07, 23:04:55	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 23:04:55
+process name: appBox1	   crash time: 2023-12-07, 23:04:56	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 23:04:56
+process name: appBox1	   crash time: 2023-12-07, 23:04:56	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:04:56
+process name: appBox2	   crash time: 2023-12-07, 23:04:57	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 23:04:57
+process name: appBox1	   crash time: 2023-12-07, 23:04:57	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 23:04:57
+process name: appBox2	   crash time: 2023-12-07, 23:04:57	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:04:57
+process name: appBox1	   crash time: 2023-12-07, 23:04:58	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 23:04:58
+process name: appBox2	   crash time: 2023-12-07, 23:04:59	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 23:04:59
+process name: appBox1	   crash time: 2023-12-07, 23:04:59	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 23:04:59
+process name: appBox1	   crash time: 2023-12-07, 23:04:59	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:04:59
+process name: appBox2	   crash time: 2023-12-07, 23:04:59	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:04:59
+process name: appBox2	   crash time: 2023-12-07, 23:05:00	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 23:05:00
+process name: appBox1	   crash time: 2023-12-07, 23:05:01	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 23:05:01
+process name: appBox1	   crash time: 2023-12-07, 23:05:01	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:05:01
+process name: appBox1	   crash time: 2023-12-07, 23:05:01	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 23:05:01
+process name: appBox2	   crash time: 2023-12-07, 23:05:02	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 23:05:02
+process name: appBox1	   crash time: 2023-12-07, 23:05:03	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:05:03
+process name: appBox2	   crash time: 2023-12-07, 23:05:03	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 23:05:03
+process name: appBox1	   crash time: 2023-12-07, 23:05:03	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 23:05:03
+process name: appBox1	   crash time: 2023-12-07, 23:05:03	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 23:05:03
+process name: appBox1	   crash time: 2023-12-07, 23:05:04	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 23:05:04
+process name: appBox2	   crash time: 2023-12-07, 23:05:04	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:05:04
+process name: appBox2	   crash time: 2023-12-07, 23:05:05	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 23:05:05
+process name: appBox1	   crash time: 2023-12-07, 23:05:06	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 23:05:06
+process name: appBox1	   crash time: 2023-12-07, 23:05:06	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 23:05:06
+process name: appBox1	   crash time: 2023-12-07, 23:05:06	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:05:06
+process name: appBox2	   crash time: 2023-12-07, 23:05:06	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 23:05:06
+process name: appBox2	   crash time: 2023-12-07, 23:05:07	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   crash time: 2023-12-07, 23:05:07	SIGNAL(2).Interrupt: 2
+process name: appBox2	   crash time: 2023-12-07, 23:05:07	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 23:05:07
+process name: appBox2	   start time: 2023-12-07, 23:05:07
+process name: appBox2	   start time: 2023-12-07, 23:05:07
+process name: appBox1	   crash time: 2023-12-07, 23:05:08	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:05:08
+process name: appBox2	   crash time: 2023-12-07, 23:05:09	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:05:09
+process name: appBox1	   crash time: 2023-12-07, 23:05:09	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 23:05:09
+process name: appBox1	   crash time: 2023-12-07, 23:05:09	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 23:05:09
+process name: appBox2	   crash time: 2023-12-07, 23:05:10	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 23:05:10
+process name: appBox2	   crash time: 2023-12-07, 23:05:11	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 23:05:11
+process name: appBox2	   crash time: 2023-12-07, 23:05:11	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 23:05:11
+process name: appBox1	   crash time: 2023-12-07, 23:05:11	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 23:05:11
+process name: appBox1	   crash time: 2023-12-07, 23:05:12	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 23:05:12
+process name: appBox1	   crash time: 2023-12-07, 23:05:12	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 23:05:12
+process name: appBox1	   crash time: 2023-12-07, 23:05:13	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 23:05:13
+process name: appBox1	   crash time: 2023-12-07, 23:05:13	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:05:13
+process name: appBox2	   crash time: 2023-12-07, 23:05:14	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:05:14
+process name: appBox2	   crash time: 2023-12-07, 23:05:14	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 23:05:14
+process name: appBox2	   crash time: 2023-12-07, 23:05:14	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:05:14
+process name: appBox2	   crash time: 2023-12-07, 23:05:15	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 23:05:15
+process name: appBox2	   crash time: 2023-12-07, 23:05:15	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 23:05:15
+process name: appBox2	   crash time: 2023-12-07, 23:05:16	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:05:16
+process name: appBox2	   crash time: 2023-12-07, 23:05:16	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 23:05:16
+process name: appBox2	   crash time: 2023-12-07, 23:05:17	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 23:05:17
+process name: appBox1	   crash time: 2023-12-07, 23:05:17	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 23:05:17
+process name: appBox1	   crash time: 2023-12-07, 23:05:17	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 23:05:17
+process name: appBox2	   crash time: 2023-12-07, 23:05:17	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:05:17
+process name: appBox1	   crash time: 2023-12-07, 23:05:18	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 23:05:18
+process name: appBox1	   crash time: 2023-12-07, 23:05:19	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 23:05:19
+process name: appBox2	   crash time: 2023-12-07, 23:05:19	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 23:05:19
+process name: appBox1	   crash time: 2023-12-07, 23:05:20	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:05:20
+process name: appBox1	   crash time: 2023-12-07, 23:05:20	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 23:05:20
+process name: appBox1	   crash time: 2023-12-07, 23:05:20	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:05:20
+process name: appBox2	   crash time: 2023-12-07, 23:05:20	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:05:20
+process name: appBox2	   crash time: 2023-12-07, 23:05:21	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:05:21
+process name: appBox2	   crash time: 2023-12-07, 23:05:21	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 23:05:21
+process name: appBox1	   crash time: 2023-12-07, 23:05:22	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 23:05:22
+process name: appBox2	   crash time: 2023-12-07, 23:05:22	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:05:22
+process name: appBox1	   crash time: 2023-12-07, 23:05:23	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 23:05:23
+process name: appBox1	   crash time: 2023-12-07, 23:05:23	SIGNAL(3).Quit: 3
+process name: appBox2	   crash time: 2023-12-07, 23:05:23	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:05:23
+process name: appBox1	   start time: 2023-12-07, 23:05:23
+process name: appBox2	   crash time: 2023-12-07, 23:05:24	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 23:05:24
+process name: appBox2	   crash time: 2023-12-07, 23:05:25	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 23:05:25
+process name: appBox1	   crash time: 2023-12-07, 23:05:25	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 23:05:25
+process name: appBox1	   crash time: 2023-12-07, 23:05:25	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 23:05:25
+process name: appBox1	   crash time: 2023-12-07, 23:05:26	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 23:05:26
+process name: appBox1	   crash time: 2023-12-07, 23:05:26	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 23:05:26
+process name: appBox2	   crash time: 2023-12-07, 23:05:27	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 23:05:27
+process name: appBox1	   crash time: 2023-12-07, 23:05:27	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:05:27
+process name: appBox2	   crash time: 2023-12-07, 23:05:28	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:05:28
+process name: appBox2	   crash time: 2023-12-07, 23:05:28	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 23:05:28
+process name: appBox2	   crash time: 2023-12-07, 23:05:28	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:05:28
+process name: appBox1	   crash time: 2023-12-07, 23:05:29	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:05:29
+process name: appBox2	   crash time: 2023-12-07, 23:05:29	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:05:29
+process name: appBox1	   crash time: 2023-12-07, 23:05:30	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:05:30
+process name: appBox1	   crash time: 2023-12-07, 23:05:31	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 23:05:31
+process name: appBox2	   crash time: 2023-12-07, 23:05:31	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:05:31
+process name: appBox2	   crash time: 2023-12-07, 23:05:31	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 23:05:31
+process name: appBox2	   crash time: 2023-12-07, 23:05:31	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 23:05:31
+process name: appBox1	   crash time: 2023-12-07, 23:05:32	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 23:05:32
+process name: appBox1	   crash time: 2023-12-07, 23:05:32	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 23:05:32
+process name: appBox2	   crash time: 2023-12-07, 23:05:32	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 23:05:32
+process name: appBox1	   crash time: 2023-12-07, 23:05:34	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 23:05:34
+process name: appBox1	   crash time: 2023-12-07, 23:05:34	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 23:05:34
+process name: appBox1	   crash time: 2023-12-07, 23:05:34	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:05:34
+process name: appBox1	   crash time: 2023-12-07, 23:05:34	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:05:34
+process name: appBox1	   crash time: 2023-12-07, 23:05:35	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 23:05:35
+process name: appBox1	   crash time: 2023-12-07, 23:05:35	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 23:05:35
+process name: appBox2	   crash time: 2023-12-07, 23:05:35	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:05:35
+process name: appBox2	   crash time: 2023-12-07, 23:05:35	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:05:35
+process name: appBox2	   crash time: 2023-12-07, 23:05:37	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:05:37
+process name: appBox1	   crash time: 2023-12-07, 23:05:37	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 23:05:37
+process name: appBox2	   crash time: 2023-12-07, 23:05:37	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 23:05:37
+process name: appBox2	   crash time: 2023-12-07, 23:05:39	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 23:05:39
+process name: appBox2	   crash time: 2023-12-07, 23:05:39	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 23:05:39
+process name: appBox2	   crash time: 2023-12-07, 23:05:39	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 23:05:39
+process name: appBox1	   crash time: 2023-12-07, 23:05:39	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 23:05:39
+process name: appBox2	   crash time: 2023-12-07, 23:05:39	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:05:40
+process name: appBox1	   crash time: 2023-12-07, 23:05:40	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 23:05:40
+process name: appBox1	   crash time: 2023-12-07, 23:05:41	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:05:41
+process name: appBox1	   crash time: 2023-12-07, 23:05:41	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 23:05:41
+process name: appBox2	   crash time: 2023-12-07, 23:05:41	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:05:41
+process name: appBox2	   crash time: 2023-12-07, 23:05:41	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 23:05:41
+process name: appBox2	   crash time: 2023-12-07, 23:05:42	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 23:05:42
+process name: appBox1	   crash time: 2023-12-07, 23:05:43	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 23:05:43
+process name: appBox1	   crash time: 2023-12-07, 23:05:43	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:05:43
+process name: appBox2	   crash time: 2023-12-07, 23:05:43	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 23:05:43
+process name: appBox2	   crash time: 2023-12-07, 23:05:44	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:05:44
+process name: appBox1	   crash time: 2023-12-07, 23:05:45	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 23:05:45
+process name: appBox2	   crash time: 2023-12-07, 23:05:45	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 23:05:45
+process name: appBox1	   crash time: 2023-12-07, 23:05:45	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 23:05:45
+process name: appBox2	   crash time: 2023-12-07, 23:05:46	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:05:46
+process name: appBox2	   crash time: 2023-12-07, 23:05:46	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:05:46
+process name: appBox2	   crash time: 2023-12-07, 23:05:46	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 23:05:46
+process name: appBox1	   crash time: 2023-12-07, 23:05:47	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 23:05:47
+process name: appBox1	   crash time: 2023-12-07, 23:05:48	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 23:05:48
+process name: appBox1	   crash time: 2023-12-07, 23:05:48	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:05:48
+process name: appBox1	   crash time: 2023-12-07, 23:05:48	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 23:05:48
+process name: appBox2	   crash time: 2023-12-07, 23:05:48	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 23:05:48
+process name: appBox2	   crash time: 2023-12-07, 23:05:49	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 23:05:49
+process name: appBox2	   crash time: 2023-12-07, 23:05:50	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 23:05:50
+process name: appBox2	   crash time: 2023-12-07, 23:05:50	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:05:50
+process name: appBox1	   crash time: 2023-12-07, 23:05:50	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:05:50
+process name: appBox2	   crash time: 2023-12-07, 23:05:51	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:05:51
+process name: appBox1	   crash time: 2023-12-07, 23:05:51	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 23:05:51
+process name: appBox1	   crash time: 2023-12-07, 23:05:51	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 23:05:51
+process name: appBox2	   crash time: 2023-12-07, 23:05:52	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 23:05:52
+process name: appBox2	   crash time: 2023-12-07, 23:05:53	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 23:05:53
+process name: appBox2	   crash time: 2023-12-07, 23:05:53	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 23:05:53
+process name: appBox1	   crash time: 2023-12-07, 23:05:53	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 23:05:53
+process name: appBox2	   crash time: 2023-12-07, 23:05:53	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 23:05:53
+process name: appBox1	   crash time: 2023-12-07, 23:05:54	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 23:05:54
+process name: appBox1	   crash time: 2023-12-07, 23:05:55	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 23:05:55
+process name: appBox1	   crash time: 2023-12-07, 23:05:55	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:05:55
+process name: appBox2	   crash time: 2023-12-07, 23:05:55	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 23:05:55
+process name: appBox1	   crash time: 2023-12-07, 23:05:56	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 23:05:56
+process name: appBox2	   crash time: 2023-12-07, 23:05:56	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 23:05:56
+process name: appBox2	   crash time: 2023-12-07, 23:05:57	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 23:05:57
+process name: appBox1	   crash time: 2023-12-07, 23:05:57	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 23:05:57
+process name: appBox2	   crash time: 2023-12-07, 23:05:57	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 23:05:57
+process name: appBox2	   crash time: 2023-12-07, 23:05:58	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 23:05:58
+process name: appBox1	   crash time: 2023-12-07, 23:05:59	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 23:05:59
+process name: appBox2	   crash time: 2023-12-07, 23:05:59	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 23:05:59
+process name: appBox2	   crash time: 2023-12-07, 23:06:00	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:06:00
+process name: appBox1	   crash time: 2023-12-07, 23:06:00	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 23:06:00
+process name: appBox2	   crash time: 2023-12-07, 23:06:00	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:06:00
+process name: appBox1	   crash time: 2023-12-07, 23:06:01	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:06:01
+process name: appBox2	   crash time: 2023-12-07, 23:06:02	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:06:02
+process name: appBox2	   crash time: 2023-12-07, 23:06:02	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:06:02
+process name: appBox1	   crash time: 2023-12-07, 23:06:02	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:06:02
+process name: appBox1	   crash time: 2023-12-07, 23:06:02	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:06:02
+process name: appBox1	   crash time: 2023-12-07, 23:06:03	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 23:06:03
+process name: appBox2	   crash time: 2023-12-07, 23:06:03	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 23:06:03
+process name: appBox1	   crash time: 2023-12-07, 23:06:04	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 23:06:04
+process name: appBox1	   crash time: 2023-12-07, 23:06:04	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 23:06:04
+process name: appBox1	   crash time: 2023-12-07, 23:06:04	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 23:06:04
+process name: appBox2	   crash time: 2023-12-07, 23:06:05	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 23:06:05
+process name: appBox1	   crash time: 2023-12-07, 23:06:05	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 23:06:05
+process name: appBox1	   crash time: 2023-12-07, 23:06:05	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:06:05
+process name: appBox2	   crash time: 2023-12-07, 23:06:05	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:06:05
+process name: appBox2	   crash time: 2023-12-07, 23:06:07	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:06:07
+process name: appBox2	   crash time: 2023-12-07, 23:06:07	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 23:06:07
+process name: appBox2	   crash time: 2023-12-07, 23:06:07	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 23:06:07
+process name: appBox1	   crash time: 2023-12-07, 23:06:07	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:06:07
+process name: appBox2	   crash time: 2023-12-07, 23:06:08	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 23:06:08
+process name: appBox1	   crash time: 2023-12-07, 23:06:08	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 23:06:08
+process name: appBox2	   crash time: 2023-12-07, 23:06:09	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:06:09
+process name: appBox1	   crash time: 2023-12-07, 23:06:10	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 23:06:10
+process name: appBox2	   crash time: 2023-12-07, 23:06:10	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 23:06:10
+process name: appBox2	   crash time: 2023-12-07, 23:06:10	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 23:06:10
+process name: appBox2	   crash time: 2023-12-07, 23:06:12	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:06:12
+process name: appBox1	   crash time: 2023-12-07, 23:06:12	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 23:06:12
+process name: appBox1	   crash time: 2023-12-07, 23:06:12	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:06:12
+process name: appBox1	   crash time: 2023-12-07, 23:06:12	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 23:06:12
+process name: appBox2	   crash time: 2023-12-07, 23:06:12	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:06:12
+process name: appBox2	   crash time: 2023-12-07, 23:06:13	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:06:13
+process name: appBox1	   crash time: 2023-12-07, 23:06:13	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 23:06:13
+process name: appBox2	   crash time: 2023-12-07, 23:06:13	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 23:06:13
+process name: appBox1	   crash time: 2023-12-07, 23:06:14	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 23:06:14
+process name: appBox1	   crash time: 2023-12-07, 23:06:14	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 23:06:14
+process name: appBox1	   crash time: 2023-12-07, 23:06:15	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 23:06:15
+process name: appBox1	   crash time: 2023-12-07, 23:06:15	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 23:06:15
+process name: appBox2	   crash time: 2023-12-07, 23:06:16	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 23:06:16
+process name: appBox1	   crash time: 2023-12-07, 23:06:16	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:06:16
+process name: appBox2	   crash time: 2023-12-07, 23:06:16	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 23:06:16
+process name: appBox1	   crash time: 2023-12-07, 23:06:17	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 23:06:17
+process name: appBox1	   crash time: 2023-12-07, 23:06:17	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 23:06:17
+process name: appBox1	   crash time: 2023-12-07, 23:06:18	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:06:18
+process name: appBox1	   crash time: 2023-12-07, 23:06:18	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 23:06:18
+process name: appBox2	   crash time: 2023-12-07, 23:06:19	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:06:19
+process name: appBox2	   crash time: 2023-12-07, 23:06:19	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:06:19
+process name: appBox2	   crash time: 2023-12-07, 23:06:20	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 23:06:20
+process name: appBox2	   crash time: 2023-12-07, 23:06:20	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:06:20
+process name: appBox2	   crash time: 2023-12-07, 23:06:20	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:06:20
+process name: appBox2	   crash time: 2023-12-07, 23:06:21	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 23:06:21
+process name: appBox1	   crash time: 2023-12-07, 23:06:21	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 23:06:21
+process name: appBox1	   crash time: 2023-12-07, 23:06:21	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 23:06:21
+process name: appBox2	   crash time: 2023-12-07, 23:06:21	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:06:21
+process name: appBox1	   crash time: 2023-12-07, 23:06:23	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 23:06:23
+process name: appBox2	   crash time: 2023-12-07, 23:06:23	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 23:06:23
+process name: appBox1	   crash time: 2023-12-07, 23:06:23	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 23:06:23
+process name: appBox2	   crash time: 2023-12-07, 23:06:24	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:06:24
+process name: appBox1	   crash time: 2023-12-07, 23:06:24	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 23:06:24
+process name: appBox1	   crash time: 2023-12-07, 23:06:24	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 23:06:24
+process name: appBox1	   crash time: 2023-12-07, 23:06:24	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:06:24
+process name: appBox1	   crash time: 2023-12-07, 23:06:26	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 23:06:26
+process name: appBox2	   crash time: 2023-12-07, 23:06:26	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 23:06:26
+process name: appBox2	   crash time: 2023-12-07, 23:06:26	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 23:06:26
+process name: appBox2	   crash time: 2023-12-07, 23:06:27	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 23:06:27
+process name: appBox2	   crash time: 2023-12-07, 23:06:28	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 23:06:28
+process name: appBox1	   crash time: 2023-12-07, 23:06:28	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:06:28
+process name: appBox1	   crash time: 2023-12-07, 23:06:28	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 23:06:28
+process name: appBox1	   crash time: 2023-12-07, 23:06:28	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 23:06:28
+process name: appBox2	   crash time: 2023-12-07, 23:06:28	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:06:28
+process name: appBox1	   crash time: 2023-12-07, 23:06:29	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 23:06:29
+process name: appBox2	   crash time: 2023-12-07, 23:06:29	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 23:06:29
+process name: appBox1	   crash time: 2023-12-07, 23:06:30	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 23:06:30
+process name: appBox1	   crash time: 2023-12-07, 23:06:30	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 23:06:30
+process name: appBox1	   crash time: 2023-12-07, 23:06:31	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 23:06:31
+process name: appBox1	   crash time: 2023-12-07, 23:06:32	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 23:06:32
+process name: appBox1	   crash time: 2023-12-07, 23:06:32	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:06:32
+process name: appBox1	   crash time: 2023-12-07, 23:06:32	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:06:32
+process name: appBox2	   crash time: 2023-12-07, 23:06:33	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:06:33
+process name: appBox2	   crash time: 2023-12-07, 23:06:33	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:06:33
+process name: appBox2	   crash time: 2023-12-07, 23:06:34	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 23:06:34
+process name: appBox2	   crash time: 2023-12-07, 23:06:34	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 23:06:34
+process name: appBox2	   crash time: 2023-12-07, 23:06:34	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:06:34
+process name: appBox1	   crash time: 2023-12-07, 23:06:35	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 23:06:35
+process name: appBox2	   crash time: 2023-12-07, 23:06:35	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:06:35
+process name: appBox1	   crash time: 2023-12-07, 23:06:35	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 23:06:35
+process name: appBox2	   crash time: 2023-12-07, 23:06:36	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 23:06:36
+process name: appBox2	   crash time: 2023-12-07, 23:06:37	EXIT(5)
+process name: appBox1	   crash time: 2023-12-07, 23:06:37	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 23:06:37
+process name: appBox1	   crash time: 2023-12-07, 23:06:38	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   crash time: 2023-12-07, 23:06:39	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 23:06:39
+process name: appBox2	   start time: 2023-12-07, 23:06:39
+process name: appBox2	   start time: 2023-12-07, 23:06:39
+process name: appBox1	   crash time: 2023-12-07, 23:06:39	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:06:39
+process name: appBox1	   crash time: 2023-12-07, 23:06:39	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:06:39
+process name: appBox1	   crash time: 2023-12-07, 23:06:40	EXIT(4)
+process name: appBox2	   crash time: 2023-12-07, 23:06:40	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 23:06:40
+process name: appBox2	   crash time: 2023-12-07, 23:06:41	SIGNAL(2).Interrupt: 2
+process name: appBox2	   crash time: 2023-12-07, 23:06:41	EXIT(0)
+process name: appBox1	   crash time: 2023-12-07, 23:06:41	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:06:41
+process name: appBox2	   crash time: 2023-12-07, 23:06:42	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 23:06:42
+process name: appBox1	   crash time: 2023-12-07, 23:06:42	EXIT(3)
+process name: appBox1	   crash time: 2023-12-07, 23:06:42	EXIT(1)
+process name: appBox2	   crash time: 2023-12-07, 23:06:43	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   crash time: 2023-12-07, 23:06:44	EXIT(4)
+process name: appBox1	   crash time: 2023-12-07, 23:06:44	EXIT(2)
+process name: appBox2	   crash time: 2023-12-07, 23:06:46	EXIT(3)
+process name: appBox1	   crash time: 2023-12-07, 23:06:46	EXIT(5)
+process name: appBox2	   crash time: 2023-12-07, 23:06:47	EXIT(2)
+process name: appBox1	   crash time: 2023-12-07, 23:06:48	EXIT(3)
+process name: appBox2	   crash time: 2023-12-07, 23:06:49	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   crash time: 2023-12-07, 23:06:50	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:06:51
+process name: appBox1	   start time: 2023-12-07, 23:06:54
+process name: appBox1	   crash time: 2023-12-07, 23:06:54	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 23:06:57
+process name: appBox2	   start time: 2023-12-07, 23:06:57
+process name: appBox1	   crash time: 2023-12-07, 23:06:57	EXIT(1)
+process name: appBox1	   crash time: 2023-12-07, 23:06:58	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 23:06:58
+process name: appBox1	   start time: 2023-12-07, 23:06:58
+process name: appBox1	   start time: 2023-12-07, 23:06:59
+process name: appBox2	   start time: 2023-12-07, 23:07:03
+process name: appBox2	   start time: 2023-12-07, 23:07:03
+process name: appBox1	   crash time: 2023-12-07, 23:07:03	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 23:07:04
+process name: appBox1	   start time: 2023-12-07, 23:07:04
+process name: appBox2	   crash time: 2023-12-07, 23:07:05	SIGNAL(1).Hangup: 1
+process name: appBox1	   crash time: 2023-12-07, 23:07:05	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:07:06
+process name: appBox1	   start time: 2023-12-07, 23:07:06
+process name: appBox2	   crash time: 2023-12-07, 23:07:06	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 23:07:07
+process name: appBox1	   start time: 2023-12-07, 23:07:08
+process name: appBox2	   crash time: 2023-12-07, 23:07:08	EXIT(5)
+process name: appBox2	   crash time: 2023-12-07, 23:07:08	EXIT(0)
+process name: appBox2	   crash time: 2023-12-07, 23:07:10	SIGNAL(2).Interrupt: 2
+process name: appBox1	   crash time: 2023-12-07, 23:07:11	EXIT(2)
+process name: appBox1	   crash time: 2023-12-07, 23:07:11	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:07:11
+process name: appBox2	   start time: 2023-12-07, 23:07:11
+process name: appBox1	   start time: 2023-12-07, 23:07:11
+process name: appBox1	   start time: 2023-12-07, 23:07:11
+process name: appBox1	   start time: 2023-12-07, 23:07:12
+process name: appBox1	   crash time: 2023-12-07, 23:07:13	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:07:13
+process name: appBox2	   crash time: 2023-12-07, 23:07:14	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:08:58
+process name: appBox2	   start time: 2023-12-07, 23:08:58
+process name: appBox2	   start time: 2023-12-07, 23:08:58
+process name: appBox2	   start time: 2023-12-07, 23:08:58
+process name: appBox2	   start time: 2023-12-07, 23:08:58
+process name: appBox1	   start time: 2023-12-07, 23:08:58
+process name: appBox1	   start time: 2023-12-07, 23:08:58
+process name: appBox2	   crash time: 2023-12-07, 23:09:00	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:09:00
+process name: appBox1	   crash time: 2023-12-07, 23:09:00	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:09:00
+process name: appBox1	   crash time: 2023-12-07, 23:09:01	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 23:09:01
+process name: appBox1	   crash time: 2023-12-07, 23:09:01	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   crash time: 2023-12-07, 23:09:01	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 23:09:01
+process name: appBox1	   start time: 2023-12-07, 23:09:01
+process name: appBox1	   crash time: 2023-12-07, 23:09:02	EXIT(3)
+process name: appBox2	   crash time: 2023-12-07, 23:09:02	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:09:02
+process name: appBox2	   start time: 2023-12-07, 23:09:02
+process name: appBox1	   crash time: 2023-12-07, 23:09:02	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 23:09:02
+process name: appBox2	   crash time: 2023-12-07, 23:09:03	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   crash time: 2023-12-07, 23:09:03	EXIT(2)
+process name: appBox1	   crash time: 2023-12-07, 23:09:03	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:09:03
+process name: appBox2	   crash time: 2023-12-07, 23:09:04	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 23:09:04
+process name: appBox2	   start time: 2023-12-07, 23:09:04
+process name: appBox2	   start time: 2023-12-07, 23:09:05
+process name: appBox2	   crash time: 2023-12-07, 23:09:05	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:09:05
+process name: appBox2	   crash time: 2023-12-07, 23:09:05	EXIT(4)
+process name: appBox2	   crash time: 2023-12-07, 23:09:06	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   crash time: 2023-12-07, 23:09:06	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:09:06
+process name: appBox2	   crash time: 2023-12-07, 23:09:06	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 23:09:06
+process name: appBox1	   crash time: 2023-12-07, 23:09:07	SIGNAL(2).Interrupt: 2
+process name: appBox1	   crash time: 2023-12-07, 23:09:08	EXIT(3)
+process name: appBox1	   crash time: 2023-12-07, 23:09:09	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:09:09
+process name: appBox1	   start time: 2023-12-07, 23:09:09
+process name: appBox1	   crash time: 2023-12-07, 23:09:09	EXIT(5)
+process name: appBox2	   crash time: 2023-12-07, 23:09:09	EXIT(1)
+process name: appBox2	   crash time: 2023-12-07, 23:09:11	EXIT(4)
+process name: appBox1	   crash time: 2023-12-07, 23:09:11	EXIT(5)
+process name: appBox1	   crash time: 2023-12-07, 23:09:11	EXIT(2)
+process name: appBox2	   crash time: 2023-12-07, 23:09:12	EXIT(3)
+process name: appBox1	   crash time: 2023-12-07, 23:09:13	EXIT(5)
+process name: appBox2	   crash time: 2023-12-07, 23:09:14	EXIT(4)
+process name: appBox2	   crash time: 2023-12-07, 23:09:15	EXIT(5)
+process name: appBox1	   crash time: 2023-12-07, 23:09:18	EXIT(4)
+process name: appBox1	   crash time: 2023-12-07, 23:09:20	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 23:09:23
+process name: appBox1	   start time: 2023-12-07, 23:09:23
+process name: appBox1	   start time: 2023-12-07, 23:09:23
+process name: appBox1	   start time: 2023-12-07, 23:09:23
+process name: appBox2	   start time: 2023-12-07, 23:09:24
+process name: appBox2	   start time: 2023-12-07, 23:09:24
+process name: appBox2	   start time: 2023-12-07, 23:09:24
+process name: appBox2	   start time: 2023-12-07, 23:09:24
+process name: appBox1	   start time: 2023-12-07, 23:09:24
+process name: appBox1	   start time: 2023-12-07, 23:09:24
+process name: appBox1	   start time: 2023-12-07, 23:09:24
+process name: appBox1	   start time: 2023-12-07, 23:09:24
+process name: appBox2	   start time: 2023-12-07, 23:09:24
+process name: appBox2	   start time: 2023-12-07, 23:09:24
+process name: appBox1	   crash time: 2023-12-07, 23:09:25	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 23:09:25
+process name: appBox1	   crash time: 2023-12-07, 23:09:26	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:09:26
+process name: appBox1	   crash time: 2023-12-07, 23:09:26	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 23:09:26
+process name: appBox2	   crash time: 2023-12-07, 23:09:27	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 23:09:27
+process name: appBox1	   crash time: 2023-12-07, 23:09:28	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 23:09:28
+process name: appBox2	   crash time: 2023-12-07, 23:09:29	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:09:29
+process name: appBox2	   crash time: 2023-12-07, 23:09:29	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:09:29
+process name: appBox1	   crash time: 2023-12-07, 23:09:30	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 23:09:30
+process name: appBox1	   crash time: 2023-12-07, 23:09:31	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:09:31
+process name: appBox2	   crash time: 2023-12-07, 23:09:31	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 23:09:31
+process name: appBox2	   crash time: 2023-12-07, 23:09:31	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:09:31
+process name: appBox1	   crash time: 2023-12-07, 23:09:31	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:09:31
+process name: appBox1	   crash time: 2023-12-07, 23:09:32	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 23:09:32
+process name: appBox2	   crash time: 2023-12-07, 23:09:32	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 23:09:32
+process name: appBox2	   crash time: 2023-12-07, 23:09:33	EXIT(4)
+process name: appBox2	   crash time: 2023-12-07, 23:09:33	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 23:09:33
+process name: appBox2	   start time: 2023-12-07, 23:09:33
+process name: appBox1	   crash time: 2023-12-07, 23:09:33	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 23:09:33
+process name: appBox2	   crash time: 2023-12-07, 23:09:34	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-07, 23:09:34
+process name: appBox2	   crash time: 2023-12-07, 23:09:34	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 23:09:34
+process name: appBox1	   crash time: 2023-12-07, 23:09:34	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 23:09:34
+process name: appBox1	   crash time: 2023-12-07, 23:09:35	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 23:09:35
+process name: appBox2	   crash time: 2023-12-07, 23:09:36	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:09:36
+process name: appBox1	   crash time: 2023-12-07, 23:09:36	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 23:09:36
+process name: appBox2	   crash time: 2023-12-07, 23:09:37	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 23:09:37
+process name: appBox2	   crash time: 2023-12-07, 23:09:37	EXIT(1)
+process name: appBox2	   crash time: 2023-12-07, 23:09:37	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:09:37
+process name: appBox2	   start time: 2023-12-07, 23:09:37
+process name: appBox1	   crash time: 2023-12-07, 23:09:38	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:09:38
+process name: appBox1	   crash time: 2023-12-07, 23:09:38	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 23:09:38
+process name: appBox2	   crash time: 2023-12-07, 23:09:39	EXIT(2)
+process name: appBox1	   crash time: 2023-12-07, 23:09:39	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:09:39
+process name: appBox1	   start time: 2023-12-07, 23:09:39
+process name: appBox2	   crash time: 2023-12-07, 23:09:39	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-07, 23:09:39
+process name: appBox1	   crash time: 2023-12-07, 23:09:40	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 23:09:40
+process name: appBox1	   crash time: 2023-12-07, 23:09:40	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:09:40
+process name: appBox2	   crash time: 2023-12-07, 23:09:40	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 23:09:40
+process name: appBox1	   crash time: 2023-12-07, 23:09:41	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:09:41
+process name: appBox1	   crash time: 2023-12-07, 23:09:41	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 23:09:41
+process name: appBox2	   crash time: 2023-12-07, 23:09:42	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:09:42
+process name: appBox2	   crash time: 2023-12-07, 23:09:42	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:09:42
+process name: appBox1	   crash time: 2023-12-07, 23:09:42	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 23:09:42
+process name: appBox2	   crash time: 2023-12-07, 23:09:43	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:09:43
+process name: appBox1	   crash time: 2023-12-07, 23:09:43	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:09:43
+process name: appBox1	   crash time: 2023-12-07, 23:09:44	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 23:09:44
+process name: appBox2	   crash time: 2023-12-07, 23:09:44	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 23:09:44
+process name: appBox1	   crash time: 2023-12-07, 23:09:44	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 23:09:44
+process name: appBox1	   crash time: 2023-12-07, 23:09:45	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 23:09:45
+process name: appBox2	   crash time: 2023-12-07, 23:09:46	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:09:46
+process name: appBox1	   crash time: 2023-12-07, 23:09:47	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 23:09:47
+process name: appBox2	   crash time: 2023-12-07, 23:09:47	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:09:47
+process name: appBox1	   crash time: 2023-12-07, 23:09:47	EXIT(3)
+process name: appBox1	   start time: 2023-12-07, 23:09:47
+process name: appBox2	   crash time: 2023-12-07, 23:09:48	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 23:09:48
+process name: appBox1	   crash time: 2023-12-07, 23:09:48	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 23:09:48
+process name: appBox1	   crash time: 2023-12-07, 23:09:49	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-07, 23:09:49
+process name: appBox1	   crash time: 2023-12-07, 23:09:49	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 23:09:49
+process name: appBox1	   crash time: 2023-12-07, 23:09:50	EXIT(0)
+process name: appBox1	   start time: 2023-12-07, 23:09:50
+process name: appBox2	   crash time: 2023-12-07, 23:09:50	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   crash time: 2023-12-07, 23:09:50	EXIT(5)
+process name: appBox2	   start time: 2023-12-07, 23:09:50
+process name: appBox2	   start time: 2023-12-07, 23:09:50
+process name: appBox1	   crash time: 2023-12-07, 23:09:50	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 23:09:50
+process name: appBox2	   crash time: 2023-12-07, 23:09:51	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 23:09:51
+process name: appBox2	   crash time: 2023-12-07, 23:09:52	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 23:09:52
+process name: appBox2	   crash time: 2023-12-07, 23:09:52	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-07, 23:09:52
+process name: appBox1	   crash time: 2023-12-07, 23:09:52	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 23:09:52
+process name: appBox2	   crash time: 2023-12-07, 23:09:53	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 23:09:53
+process name: appBox2	   crash time: 2023-12-07, 23:09:54	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:09:54
+process name: appBox1	   crash time: 2023-12-07, 23:09:54	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 23:09:54
+process name: appBox2	   crash time: 2023-12-07, 23:09:54	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:09:54
+process name: appBox2	   crash time: 2023-12-07, 23:09:54	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 23:09:54
+process name: appBox1	   crash time: 2023-12-07, 23:09:55	EXIT(1)
+process name: appBox1	   start time: 2023-12-07, 23:09:56
+process name: appBox1	   crash time: 2023-12-07, 23:09:56	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 23:09:56
+process name: appBox1	   crash time: 2023-12-07, 23:09:56	EXIT(4)
+process name: appBox1	   start time: 2023-12-07, 23:09:56
+process name: appBox1	   crash time: 2023-12-07, 23:09:57	EXIT(0)
+process name: appBox2	   crash time: 2023-12-07, 23:09:57	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:09:57
+process name: appBox2	   start time: 2023-12-07, 23:09:57
+process name: appBox1	   crash time: 2023-12-07, 23:09:57	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 23:09:57
+process name: appBox2	   crash time: 2023-12-07, 23:09:57	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:09:57
+process name: appBox2	   crash time: 2023-12-07, 23:09:57	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 23:09:57
+process name: appBox1	   crash time: 2023-12-07, 23:09:59	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-07, 23:09:59
+process name: appBox1	   crash time: 2023-12-07, 23:09:59	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-07, 23:09:59
+process name: appBox2	   crash time: 2023-12-07, 23:09:59	EXIT(3)
+process name: appBox2	   start time: 2023-12-07, 23:09:59
+process name: appBox2	   crash time: 2023-12-07, 23:09:59	EXIT(2)
+process name: appBox2	   start time: 2023-12-07, 23:09:59
+process name: appBox2	   crash time: 2023-12-07, 23:10:00	EXIT(4)
+process name: appBox2	   start time: 2023-12-07, 23:10:00
+process name: appBox2	   crash time: 2023-12-07, 23:10:01	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-07, 23:10:01
+process name: appBox1	   crash time: 2023-12-07, 23:10:01	EXIT(5)
+process name: appBox1	   start time: 2023-12-07, 23:10:02
+process name: appBox1	   crash time: 2023-12-07, 23:10:02	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 23:10:02
+process name: appBox2	   crash time: 2023-12-07, 23:10:02	EXIT(1)
+process name: appBox2	   start time: 2023-12-07, 23:10:02
+process name: appBox1	   crash time: 2023-12-07, 23:10:03	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-07, 23:10:03
+process name: appBox2	   crash time: 2023-12-07, 23:10:03	EXIT(0)
+process name: appBox2	   start time: 2023-12-07, 23:10:03
+process name: appBox1	   crash time: 2023-12-07, 23:10:04	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-07, 23:10:04
+process name: appBox2	   crash time: 2023-12-07, 23:10:04	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-07, 23:10:04
+process name: appBox1	   crash time: 2023-12-07, 23:10:04	EXIT(2)
+process name: appBox1	   start time: 2023-12-07, 23:10:04
+process name: appBox1	   start time: 2023-12-08, 11:04:55
+process name: appBox2	   start time: 2023-12-08, 11:04:55
+process name: appBox3	   start time: 2023-12-08, 11:04:55
+process name: appBox4	   start time: 2023-12-08, 11:04:55
+process name: appBox5	   start time: 2023-12-08, 11:04:56
+process name: appBox6	   start time: 2023-12-08, 11:04:56
+process name: appBox7	   start time: 2023-12-08, 11:04:56
+process name: appBox8	   start time: 2023-12-08, 11:04:56
+process name: appBox1	   crash time: 2023-12-08, 11:04:57	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-08, 11:04:57
+process name: appBox9	   start time: 2023-12-08, 11:04:57
+process name: appBox6	   crash time: 2023-12-08, 11:04:58	SIGNAL(1).Hangup: 1
+process name: appBox6	   start time: 2023-12-08, 11:04:58
+process name: appBox5	   crash time: 2023-12-08, 11:05:00	SIGNAL(2).Interrupt: 2
+process name: appBox5	   start time: 2023-12-08, 11:05:00
+process name: appBox4	   crash time: 2023-12-08, 11:05:02	EXIT(3)
+process name: appBox4	   start time: 2023-12-08, 11:05:02
+process name: appBox9	   crash time: 2023-12-08, 11:05:04	EXIT(3)
+process name: appBox9	   start time: 2023-12-08, 11:05:04
+process name: appBox3	   crash time: 2023-12-08, 11:05:04	EXIT(4)
+process name: appBox3	   start time: 2023-12-08, 11:05:04
+process name: appBox5	   crash time: 2023-12-08, 11:05:05	EXIT(2)
+process name: appBox5	   start time: 2023-12-08, 11:05:05
+process name: appBox9	   crash time: 2023-12-08, 11:05:05	EXIT(0)
+process name: appBox9	   start time: 2023-12-08, 11:05:05
+process name: appBox6	   crash time: 2023-12-08, 11:05:05	EXIT(3)
+process name: appBox6	   start time: 2023-12-08, 11:05:05
+process name: appBox4	   crash time: 2023-12-08, 11:05:05	EXIT(1)
+process name: appBox4	   start time: 2023-12-08, 11:05:05
+process name: appBox8	   crash time: 2023-12-08, 11:05:06	EXIT(4)
+process name: appBox8	   start time: 2023-12-08, 11:05:06
+process name: appBox2	   crash time: 2023-12-08, 11:05:06	EXIT(5)
+process name: appBox2	   start time: 2023-12-08, 11:05:06
+process name: appBox7	   crash time: 2023-12-08, 11:05:07	EXIT(5)
+process name: appBox7	   start time: 2023-12-08, 11:05:07
+process name: appBox4	   crash time: 2023-12-08, 11:05:07	SIGNAL(1).Hangup: 1
+process name: appBox4	   start time: 2023-12-08, 11:05:07
+process name: appBox1	   crash time: 2023-12-08, 11:05:08	EXIT(5)
+process name: appBox1	   start time: 2023-12-08, 11:05:08
+process name: appBox6	   crash time: 2023-12-08, 11:05:09	SIGNAL(2).Interrupt: 2
+process name: appBox6	   start time: 2023-12-08, 11:05:09
+process name: /Users/yanghuibeom/Desktop/Process/appBlock	start time: 2023-12-08, 12:16:45
+process name: appBox1	   start time: 2023-12-11, 14:25:36
+process name: appBox2	   start time: 2023-12-11, 14:25:36
+process name: appBox3	   start time: 2023-12-11, 14:25:36
+process name: appBox4	   start time: 2023-12-11, 14:25:36
+process name: appBox5	   start time: 2023-12-11, 14:25:36
+process name: appBox6	   start time: 2023-12-11, 14:25:36
+process name: appBox7	   start time: 2023-12-11, 14:25:36
+process name: appBox8	   start time: 2023-12-11, 14:25:36
+process name: appBox9	   start time: 2023-12-11, 14:25:36
+process name: appBox2	   crash time: 2023-12-11, 14:25:37	EXIT(0)
+process name: appBox2	   start time: 2023-12-11, 14:25:37
+process name: appBox7	   crash time: 2023-12-11, 14:25:38	SIGNAL(1).Hangup: 1
+process name: appBox7	   start time: 2023-12-11, 14:25:38
+process name: appBox1	   crash time: 2023-12-11, 14:25:39	EXIT(1)
+process name: appBox1	   start time: 2023-12-11, 14:25:39
+process name: appBox6	   crash time: 2023-12-11, 14:25:40	SIGNAL(2).Interrupt: 2
+process name: appBox6	   start time: 2023-12-11, 14:25:40
+process name: appBox5	   crash time: 2023-12-11, 14:25:42	SIGNAL(3).Quit: 3
+process name: appBox5	   start time: 2023-12-11, 14:25:42
+process name: appBox6	   crash time: 2023-12-11, 14:25:42	SIGNAL(1).Hangup: 1
+process name: appBox6	   start time: 2023-12-11, 14:25:42
+process name: appBox1	   crash time: 2023-12-11, 14:25:43	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-11, 14:25:43
+process name: appBox4	   crash time: 2023-12-11, 14:25:44	SIGNAL(4).Illegal instruction: 4
+process name: appBox4	   start time: 2023-12-11, 14:25:44
+process name: appBox7	   crash time: 2023-12-11, 14:25:44	SIGNAL(3).Quit: 3
+process name: appBox7	   start time: 2023-12-11, 14:25:44
+process name: appBox2	   crash time: 2023-12-11, 14:25:45	SIGNAL(4).Illegal instruction: 4
+process name: appBox2	   start time: 2023-12-11, 14:25:45
+process name: appBox9	   crash time: 2023-12-11, 14:25:45	EXIT(4)
+process name: appBox9	   start time: 2023-12-11, 14:25:45
+process name: appBox3	   crash time: 2023-12-11, 14:25:46	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox3	   start time: 2023-12-11, 14:25:46
+process name: appBox4	   crash time: 2023-12-11, 14:25:46	SIGNAL(1).Hangup: 1
+process name: appBox4	   start time: 2023-12-11, 14:25:46
+process name: appBox1	   crash time: 2023-12-11, 14:25:47	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-11, 14:25:47
+process name: appBox8	   crash time: 2023-12-11, 14:25:47	EXIT(5)
+process name: appBox8	   start time: 2023-12-11, 14:25:47
+process name: appBox1	   crash time: 2023-12-11, 14:25:48	EXIT(0)
+process name: appBox1	   start time: 2023-12-11, 14:25:48
+process name: appBox4	   crash time: 2023-12-11, 14:25:49	EXIT(1)
+process name: appBox4	   start time: 2023-12-11, 14:25:49
+process name: appBox6	   crash time: 2023-12-11, 14:25:50	SIGNAL(4).Illegal instruction: 4
+process name: appBox6	   start time: 2023-12-11, 14:25:50
+process name: appBox3	   crash time: 2023-12-11, 14:25:51	EXIT(2)
+process name: appBox3	   start time: 2023-12-11, 14:25:51
+process name: appBox9	   crash time: 2023-12-11, 14:25:52	EXIT(3)
+process name: appBox9	   start time: 2023-12-11, 14:25:52
+process name: appBox3	   crash time: 2023-12-11, 14:25:53	SIGNAL(1).Hangup: 1
+process name: appBox3	   start time: 2023-12-11, 14:25:53
+process name: appBox5	   crash time: 2023-12-11, 14:25:53	EXIT(5)
+process name: appBox5	   start time: 2023-12-11, 14:25:53
+process name: appBox2	   crash time: 2023-12-11, 14:25:54	EXIT(4)
+process name: appBox2	   start time: 2023-12-11, 14:25:54
+process name: appBox6	   crash time: 2023-12-11, 14:25:54	SIGNAL(2).Interrupt: 2
+process name: appBox6	   start time: 2023-12-11, 14:25:54
+process name: appBox4	   crash time: 2023-12-11, 14:25:55	SIGNAL(3).Quit: 3
+process name: appBox4	   start time: 2023-12-11, 14:25:55
+process name: appBox7	   crash time: 2023-12-11, 14:25:55	EXIT(5)
+process name: appBox7	   start time: 2023-12-11, 14:25:55
+process name: appBox1	   crash time: 2023-12-11, 14:25:56	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-11, 14:25:56
+process name: appBox6	   crash time: 2023-12-11, 14:25:56	SIGNAL(1).Hangup: 1
+process name: appBox6	   start time: 2023-12-11, 14:25:56
+process name: appBox8	   crash time: 2023-12-11, 14:25:57	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox8	   start time: 2023-12-11, 14:25:57
+process name: appBox2	   crash time: 2023-12-11, 14:25:58	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-11, 14:25:58
+process name: appBox5	   crash time: 2023-12-11, 14:25:59	SIGNAL(3).Quit: 3
+process name: appBox5	   start time: 2023-12-11, 14:25:59
+process name: appBox5	   crash time: 2023-12-11, 14:26:01	SIGNAL(1).Hangup: 1
+process name: appBox5	   start time: 2023-12-11, 14:26:01
+process name: appBox6	   crash time: 2023-12-11, 14:26:01	EXIT(2)
+process name: appBox6	   start time: 2023-12-11, 14:26:01
+process name: appBox2	   crash time: 2023-12-11, 14:26:02	SIGNAL(2).Interrupt: 2
+process name: appBox3	   crash time: 2023-12-11, 14:26:02	EXIT(4)
+process name: appBox2	   start time: 2023-12-11, 14:26:02
+process name: appBox3	   start time: 2023-12-11, 14:26:02
+process name: appBox1	   crash time: 2023-12-11, 14:26:03	EXIT(3)
+process name: appBox1	   start time: 2023-12-11, 14:26:03
+process name: appBox9	   crash time: 2023-12-11, 14:26:03	EXIT(5)
+process name: appBox9	   start time: 2023-12-11, 14:26:03
+process name: appBox7	   crash time: 2023-12-11, 14:26:04	EXIT(4)
+process name: appBox7	   start time: 2023-12-11, 14:26:04
+process name: appBox9	   crash time: 2023-12-11, 14:26:04	EXIT(0)
+process name: appBox9	   start time: 2023-12-11, 14:26:04
+process name: appBox8	   crash time: 2023-12-11, 14:26:05	SIGNAL(4).Illegal instruction: 4
+process name: appBox8	   start time: 2023-12-11, 14:26:05
+process name: appBox1	   crash time: 2023-12-11, 14:26:06	EXIT(1)
+process name: appBox4	   crash time: 2023-12-11, 14:26:06	EXIT(5)
+process name: appBox1	   start time: 2023-12-11, 14:26:06
+process name: appBox4	   start time: 2023-12-11, 14:26:06
+process name: appBox3	   crash time: 2023-12-11, 14:26:07	EXIT(2)
+process name: appBox3	   start time: 2023-12-11, 14:26:07
+process name: appBox4	   crash time: 2023-12-11, 14:26:07	EXIT(0)
+process name: appBox4	   start time: 2023-12-11, 14:26:07
+process name: appBox2	   crash time: 2023-12-11, 14:26:09	EXIT(3)
+process name: appBox2	   start time: 2023-12-11, 14:26:09
+process name: appBox1	   crash time: 2023-12-11, 14:26:09	EXIT(1)
+process name: appBox1	   start time: 2023-12-11, 14:26:09
+process name: appBox6	   crash time: 2023-12-11, 14:26:10	EXIT(4)
+process name: appBox6	   start time: 2023-12-11, 14:26:10
+process name: appBox8	   crash time: 2023-12-11, 14:26:11	SIGNAL(3).Quit: 3
+process name: appBox8	   start time: 2023-12-11, 14:26:11
+process name: appBox5	   crash time: 2023-12-11, 14:26:12	EXIT(5)
+process name: appBox5	   start time: 2023-12-11, 14:26:12
+process name: appBox6	   crash time: 2023-12-11, 14:26:12	SIGNAL(1).Hangup: 1
+process name: appBox6	   start time: 2023-12-11, 14:26:12
+process name: appBox9	   crash time: 2023-12-11, 14:26:13	SIGNAL(4).Illegal instruction: 4
+process name: appBox9	   start time: 2023-12-11, 14:26:13
+process name: appBox1	   crash time: 2023-12-11, 14:26:13	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-11, 14:26:13
+process name: appBox1	   crash time: 2023-12-11, 14:26:14	EXIT(0)
+process name: appBox7	   crash time: 2023-12-11, 14:26:14	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox7	   start time: 2023-12-11, 14:26:14
+process name: appBox1	   start time: 2023-12-11, 14:26:15
+process name: appBox2	   crash time: 2023-12-11, 14:26:15	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-11, 14:26:15
+process name: appBox4	   crash time: 2023-12-11, 14:26:15	SIGNAL(4).Illegal instruction: 4
+process name: appBox4	   start time: 2023-12-11, 14:26:15
+process name: appBox9	   crash time: 2023-12-11, 14:26:17	SIGNAL(2).Interrupt: 2
+process name: appBox9	   start time: 2023-12-11, 14:26:17
+process name: appBox3	   crash time: 2023-12-11, 14:26:17	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox3	   start time: 2023-12-11, 14:26:17
+process name: appBox6	   crash time: 2023-12-11, 14:26:19	SIGNAL(3).Quit: 3
+process name: appBox6	   start time: 2023-12-11, 14:26:19
+process name: appBox9	   crash time: 2023-12-11, 14:26:19	SIGNAL(1).Hangup: 1
+process name: appBox9	   start time: 2023-12-11, 14:26:19
+process name: appBox4	   crash time: 2023-12-11, 14:26:19	SIGNAL(2).Interrupt: 2
+process name: appBox4	   start time: 2023-12-11, 14:26:19
+process name: appBox5	   crash time: 2023-12-11, 14:26:20	SIGNAL(4).Illegal instruction: 4
+process name: appBox5	   start time: 2023-12-11, 14:26:20
+process name: appBox2	   crash time: 2023-12-11, 14:26:21	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-11, 14:26:21
+process name: appBox8	   crash time: 2023-12-11, 14:26:22	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox8	   start time: 2023-12-11, 14:26:22
+process name: appBox2	   crash time: 2023-12-11, 14:26:22	EXIT(0)
+process name: appBox2	   start time: 2023-12-11, 14:26:22
+process name: appBox1	   crash time: 2023-12-11, 14:26:23	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-11, 14:26:23
+process name: appBox5	   crash time: 2023-12-11, 14:26:23	EXIT(1)
+process name: appBox5	   start time: 2023-12-11, 14:26:23
+process name: appBox4	   crash time: 2023-12-11, 14:26:24	EXIT(2)
+process name: appBox7	   crash time: 2023-12-11, 14:26:24	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox4	   start time: 2023-12-11, 14:26:24
+process name: appBox7	   start time: 2023-12-11, 14:26:25
+process name: appBox1	   crash time: 2023-12-11, 14:26:25	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-11, 14:26:25
+process name: appBox9	   crash time: 2023-12-11, 14:26:26	EXIT(3)
+process name: appBox9	   start time: 2023-12-11, 14:26:26
+process name: appBox2	   crash time: 2023-12-11, 14:26:26	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-11, 14:26:26
+process name: appBox2	   crash time: 2023-12-11, 14:26:27	EXIT(0)
+process name: appBox2	   start time: 2023-12-11, 14:26:27
+process name: appBox6	   crash time: 2023-12-11, 14:26:28	EXIT(4)
+process name: appBox6	   start time: 2023-12-11, 14:26:28
+process name: appBox3	   crash time: 2023-12-11, 14:26:28	EXIT(5)
+process name: appBox3	   start time: 2023-12-11, 14:26:28
+process name: appBox9	   crash time: 2023-12-11, 14:26:29	EXIT(1)
+process name: appBox9	   start time: 2023-12-11, 14:26:29
+process name: appBox1	   crash time: 2023-12-11, 14:26:30	EXIT(2)
+process name: appBox1	   start time: 2023-12-11, 14:26:30
+process name: appBox8	   crash time: 2023-12-11, 14:26:32	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox7	   crash time: 2023-12-11, 14:26:32	EXIT(3)
+process name: appBox8	   start time: 2023-12-11, 14:26:32
+process name: appBox7	   start time: 2023-12-11, 14:26:32
+process name: appBox1	   crash time: 2023-12-11, 14:26:32	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-11, 14:26:32
+process name: appBox9	   crash time: 2023-12-11, 14:26:33	SIGNAL(2).Interrupt: 2
+process name: appBox9	   start time: 2023-12-11, 14:26:33
+process name: appBox4	   crash time: 2023-12-11, 14:26:34	EXIT(4)
+process name: appBox4	   start time: 2023-12-11, 14:26:34
+process name: appBox3	   crash time: 2023-12-11, 14:26:34	SIGNAL(3).Quit: 3
+process name: appBox3	   start time: 2023-12-11, 14:26:34
+process name: appBox5	   crash time: 2023-12-11, 14:26:34	EXIT(5)
+process name: appBox5	   start time: 2023-12-11, 14:26:34
+process name: appBox3	   crash time: 2023-12-11, 14:26:35	EXIT(0)
+process name: appBox3	   start time: 2023-12-11, 14:26:35
+process name: appBox6	   crash time: 2023-12-11, 14:26:36	SIGNAL(4).Illegal instruction: 4
+process name: appBox6	   start time: 2023-12-11, 14:26:36
+process name: appBox4	   crash time: 2023-12-11, 14:26:37	EXIT(1)
+process name: appBox4	   start time: 2023-12-11, 14:26:37
+process name: appBox2	   crash time: 2023-12-11, 14:26:37	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-11, 14:26:37
+process name: appBox9	   crash time: 2023-12-11, 14:26:38	EXIT(2)
+process name: appBox9	   start time: 2023-12-11, 14:26:38
+process name: appBox1	   crash time: 2023-12-11, 14:26:39	EXIT(3)
+process name: appBox1	   start time: 2023-12-11, 14:26:39
+process name: appBox2	   crash time: 2023-12-11, 14:26:40	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-11, 14:26:40
+process name: appBox4	   crash time: 2023-12-11, 14:26:41	SIGNAL(2).Interrupt: 2
+process name: appBox7	   crash time: 2023-12-11, 14:26:41	EXIT(4)
+process name: appBox4	   start time: 2023-12-11, 14:26:41
+process name: appBox7	   start time: 2023-12-11, 14:26:41
+process name: appBox6	   crash time: 2023-12-11, 14:26:42	SIGNAL(3).Quit: 3
+process name: appBox6	   start time: 2023-12-11, 14:26:42
+process name: appBox8	   crash time: 2023-12-11, 14:26:43	EXIT(5)
+process name: appBox8	   start time: 2023-12-11, 14:26:43
+process name: appBox6	   crash time: 2023-12-11, 14:26:43	EXIT(0)
+process name: appBox6	   start time: 2023-12-11, 14:26:43
+process name: appBox3	   crash time: 2023-12-11, 14:26:43	SIGNAL(4).Illegal instruction: 4
+process name: appBox3	   start time: 2023-12-11, 14:26:43
+process name: appBox7	   crash time: 2023-12-11, 14:26:44	EXIT(1)
+process name: appBox7	   start time: 2023-12-11, 14:26:44
+process name: appBox5	   crash time: 2023-12-11, 14:26:44	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox5	   start time: 2023-12-11, 14:26:45
+process name: appBox4	   crash time: 2023-12-11, 14:26:46	EXIT(2)
+process name: appBox4	   start time: 2023-12-11, 14:26:46
+process name: appBox5	   crash time: 2023-12-11, 14:26:47	SIGNAL(1).Hangup: 1
+process name: appBox2	   crash time: 2023-12-11, 14:26:47	EXIT(3)
+process name: appBox5	   start time: 2023-12-11, 14:26:47
+process name: appBox2	   start time: 2023-12-11, 14:26:47
+process name: appBox7	   crash time: 2023-12-11, 14:26:48	SIGNAL(2).Interrupt: 2
+process name: appBox1	   crash time: 2023-12-11, 14:26:48	EXIT(4)
+process name: appBox7	   start time: 2023-12-11, 14:26:48
+process name: appBox1	   start time: 2023-12-11, 14:26:48
+process name: appBox9	   crash time: 2023-12-11, 14:26:49	EXIT(5)
+process name: appBox9	   start time: 2023-12-11, 14:26:49
+process name: appBox3	   crash time: 2023-12-11, 14:26:50	SIGNAL(3).Quit: 3
+process name: appBox3	   start time: 2023-12-11, 14:26:50
+process name: appBox9	   crash time: 2023-12-11, 14:26:50	EXIT(0)
+process name: appBox9	   start time: 2023-12-11, 14:26:50
+process name: appBox6	   crash time: 2023-12-11, 14:26:51	SIGNAL(4).Illegal instruction: 4
+process name: appBox6	   start time: 2023-12-11, 14:26:51
+process name: appBox1	   crash time: 2023-12-11, 14:26:51	EXIT(1)
+process name: appBox1	   start time: 2023-12-11, 14:26:51
+process name: appBox8	   crash time: 2023-12-11, 14:26:53	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox8	   start time: 2023-12-11, 14:26:53
+process name: appBox7	   crash time: 2023-12-11, 14:26:53	EXIT(2)
+process name: appBox7	   start time: 2023-12-11, 14:26:53
+process name: appBox2	   crash time: 2023-12-11, 14:26:54	EXIT(3)
+process name: appBox2	   start time: 2023-12-11, 14:26:54
+process name: appBox8	   crash time: 2023-12-11, 14:26:55	SIGNAL(1).Hangup: 1
+process name: appBox8	   start time: 2023-12-11, 14:26:55
+process name: appBox1	   crash time: 2023-12-11, 14:26:55	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-11, 14:26:55
+process name: appBox5	   crash time: 2023-12-11, 14:26:56	EXIT(4)
+process name: appBox5	   start time: 2023-12-11, 14:26:56
+process name: appBox4	   crash time: 2023-12-11, 14:26:57	EXIT(5)
+process name: appBox4	   start time: 2023-12-11, 14:26:57
+process name: appBox6	   crash time: 2023-12-11, 14:26:57	SIGNAL(3).Quit: 3
+process name: appBox6	   start time: 2023-12-11, 14:26:57
+process name: appBox4	   crash time: 2023-12-11, 14:26:58	EXIT(0)
+process name: appBox4	   start time: 2023-12-11, 14:26:58
+process name: appBox9	   crash time: 2023-12-11, 14:26:58	SIGNAL(4).Illegal instruction: 4
+process name: appBox9	   start time: 2023-12-11, 14:26:58
+process name: appBox5	   crash time: 2023-12-11, 14:26:59	EXIT(1)
+process name: appBox5	   start time: 2023-12-11, 14:26:59
+process name: appBox3	   crash time: 2023-12-11, 14:27:00	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox3	   start time: 2023-12-11, 14:27:00
+process name: appBox4	   crash time: 2023-12-11, 14:27:00	SIGNAL(1).Hangup: 1
+process name: appBox4	   start time: 2023-12-11, 14:27:00
+process name: appBox1	   crash time: 2023-12-11, 14:27:00	EXIT(2)
+process name: appBox1	   start time: 2023-12-11, 14:27:00
+process name: appBox1	   crash time: 2023-12-11, 14:27:01	EXIT(0)
+process name: appBox1	   start time: 2023-12-11, 14:27:01
+process name: appBox8	   crash time: 2023-12-11, 14:27:02	EXIT(3)
+process name: appBox8	   start time: 2023-12-11, 14:27:02
+process name: appBox2	   crash time: 2023-12-11, 14:27:03	EXIT(4)
+process name: appBox2	   start time: 2023-12-11, 14:27:03
+process name: appBox4	   crash time: 2023-12-11, 14:27:03	EXIT(1)
+process name: appBox4	   start time: 2023-12-11, 14:27:03
+process name: appBox7	   crash time: 2023-12-11, 14:27:04	EXIT(5)
+process name: appBox7	   start time: 2023-12-11, 14:27:04
+process name: appBox3	   crash time: 2023-12-11, 14:27:05	EXIT(2)
+process name: appBox3	   start time: 2023-12-11, 14:27:05
+process name: appBox5	   crash time: 2023-12-11, 14:27:06	EXIT(3)
+process name: appBox5	   start time: 2023-12-11, 14:27:06
+process name: appBox7	   crash time: 2023-12-11, 14:27:06	SIGNAL(1).Hangup: 1
+process name: appBox7	   start time: 2023-12-11, 14:27:06
+process name: appBox6	   crash time: 2023-12-11, 14:27:07	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox6	   start time: 2023-12-11, 14:27:07
+process name: appBox4	   crash time: 2023-12-11, 14:27:07	SIGNAL(2).Interrupt: 2
+process name: appBox4	   start time: 2023-12-11, 14:27:07
+process name: appBox2	   crash time: 2023-12-11, 14:27:09	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-11, 14:27:09
+process name: appBox9	   crash time: 2023-12-11, 14:27:09	EXIT(5)
+process name: appBox9	   start time: 2023-12-11, 14:27:09
+process name: appBox8	   crash time: 2023-12-11, 14:27:10	SIGNAL(4).Illegal instruction: 4
+process name: appBox8	   start time: 2023-12-11, 14:27:10
+process name: appBox2	   crash time: 2023-12-11, 14:27:10	EXIT(0)
+process name: appBox2	   start time: 2023-12-11, 14:27:10
+process name: appBox4	   crash time: 2023-12-11, 14:27:10	EXIT(1)
+process name: appBox4	   start time: 2023-12-11, 14:27:10
+process name: appBox1	   crash time: 2023-12-11, 14:27:11	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-11, 14:27:11
+process name: appBox6	   crash time: 2023-12-11, 14:27:12	EXIT(2)
+process name: appBox6	   start time: 2023-12-11, 14:27:12
+process name: appBox7	   crash time: 2023-12-11, 14:27:13	EXIT(3)
+process name: appBox7	   start time: 2023-12-11, 14:27:13
+process name: appBox1	   crash time: 2023-12-11, 14:27:13	SIGNAL(1).Hangup: 1
+process name: appBox1	   start time: 2023-12-11, 14:27:13
+process name: appBox4	   crash time: 2023-12-11, 14:27:14	SIGNAL(2).Interrupt: 2
+process name: appBox4	   start time: 2023-12-11, 14:27:14
+process name: appBox5	   crash time: 2023-12-11, 14:27:15	EXIT(4)
+process name: appBox5	   start time: 2023-12-11, 14:27:15
+process name: appBox3	   crash time: 2023-12-11, 14:27:16	EXIT(5)
+process name: appBox3	   start time: 2023-12-11, 14:27:16
+process name: appBox2	   crash time: 2023-12-11, 14:27:16	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-11, 14:27:16
+process name: appBox3	   crash time: 2023-12-11, 14:27:17	EXIT(0)
+process name: appBox3	   start time: 2023-12-11, 14:27:17
+process name: appBox5	   crash time: 2023-12-11, 14:27:18	EXIT(1)
+process name: appBox5	   start time: 2023-12-11, 14:27:18
+process name: appBox8	   crash time: 2023-12-11, 14:27:18	SIGNAL(4).Illegal instruction: 4
+process name: appBox8	   start time: 2023-12-11, 14:27:19
+process name: appBox4	   crash time: 2023-12-11, 14:27:19	EXIT(2)
+process name: appBox9	   crash time: 2023-12-11, 14:27:19	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   crash time: 2023-12-11, 14:27:20	EXIT(3)
+process name: appBox4	   start time: 2023-12-11, 14:27:20
+process name: appBox1	   start time: 2023-12-11, 14:27:21
+process name: appBox9	   start time: 2023-12-11, 14:27:21
+process name: appBox7	   crash time: 2023-12-11, 14:27:22	EXIT(4)
+process name: appBox4	   crash time: 2023-12-11, 14:27:22	SIGNAL(1).Hangup: 1
+process name: appBox6	   crash time: 2023-12-11, 14:27:23	EXIT(5)
+process name: appBox8	   crash time: 2023-12-11, 14:27:23	SIGNAL(2).Interrupt: 2
+process name: appBox4	   start time: 2023-12-11, 14:27:23
+process name: appBox8	   start time: 2023-12-11, 14:27:23
+process name: appBox7	   start time: 2023-12-11, 14:27:23
+process name: appBox6	   start time: 2023-12-11, 14:27:23
+process name: appBox5	   crash time: 2023-12-11, 14:27:24	SIGNAL(3).Quit: 3
+process name: appBox5	   start time: 2023-12-11, 14:27:24
+process name: appBox6	   crash time: 2023-12-11, 14:27:24	EXIT(0)
+process name: appBox3	   crash time: 2023-12-11, 14:27:25	SIGNAL(4).Illegal instruction: 4
+process name: appBox6	   start time: 2023-12-11, 14:27:25
+process name: appBox2	   crash time: 2023-12-11, 14:27:26	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox3	   start time: 2023-12-11, 14:27:26
+process name: appBox2	   start time: 2023-12-11, 14:27:26
+process name: appBox7	   crash time: 2023-12-11, 14:27:26	EXIT(1)
+process name: appBox7	   start time: 2023-12-11, 14:27:26
+process name: appBox8	   crash time: 2023-12-11, 14:27:28	EXIT(2)
+process name: appBox8	   start time: 2023-12-11, 14:27:28
+process name: appBox7	   crash time: 2023-12-11, 14:27:28	SIGNAL(1).Hangup: 1
+process name: appBox7	   start time: 2023-12-11, 14:27:28
+process name: appBox2	   crash time: 2023-12-11, 14:27:30	SIGNAL(2).Interrupt: 2
+process name: appBox9	   crash time: 2023-12-11, 14:27:30	EXIT(4)
+process name: appBox2	   start time: 2023-12-11, 14:27:30
+process name: appBox4	   crash time: 2023-12-11, 14:27:30	EXIT(3)
+process name: appBox4	   start time: 2023-12-11, 14:27:31
+process name: appBox9	   start time: 2023-12-11, 14:27:31
+process name: appBox2	   crash time: 2023-12-11, 14:27:31	EXIT(0)
+process name: appBox2	   start time: 2023-12-11, 14:27:31
+process name: appBox3	   crash time: 2023-12-11, 14:27:32	SIGNAL(3).Quit: 3
+process name: appBox3	   start time: 2023-12-11, 14:27:32
+process name: appBox1	   crash time: 2023-12-11, 14:27:32	EXIT(5)
+process name: appBox9	   crash time: 2023-12-11, 14:27:33	SIGNAL(1).Hangup: 1
+process name: appBox6	   crash time: 2023-12-11, 14:27:33	SIGNAL(4).Illegal instruction: 4
+process name: appBox5	   crash time: 2023-12-11, 14:27:34	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox9	   start time: 2023-12-11, 14:27:34
+process name: appBox6	   start time: 2023-12-11, 14:27:34
+process name: appBox5	   start time: 2023-12-11, 14:27:34
+process name: appBox1	   start time: 2023-12-11, 14:27:34
+process name: appBox4	   crash time: 2023-12-11, 14:27:35	SIGNAL(2).Interrupt: 2
+process name: appBox4	   start time: 2023-12-11, 14:27:35
+process name: appBox1	   crash time: 2023-12-11, 14:27:35	EXIT(0)
+process name: appBox1	   start time: 2023-12-11, 14:27:35
+process name: appBox7	   crash time: 2023-12-11, 14:27:35	EXIT(3)
+process name: appBox7	   start time: 2023-12-11, 14:27:35
+process name: appBox5	   crash time: 2023-12-11, 14:27:37	EXIT(1)
+process name: appBox5	   start time: 2023-12-11, 14:27:37
+process name: appBox8	   crash time: 2023-12-11, 14:27:37	EXIT(4)
+process name: appBox8	   start time: 2023-12-11, 14:27:37
+process name: appBox6	   crash time: 2023-12-11, 14:27:39	EXIT(2)
+process name: appBox6	   start time: 2023-12-11, 14:27:39
+process name: appBox8	   crash time: 2023-12-11, 14:27:39	SIGNAL(1).Hangup: 1
+process name: appBox8	   start time: 2023-12-11, 14:27:39
+process name: appBox3	   crash time: 2023-12-11, 14:27:41	EXIT(4)
+process name: appBox3	   start time: 2023-12-11, 14:27:41
+process name: appBox9	   crash time: 2023-12-11, 14:27:41	EXIT(3)
+process name: appBox5	   crash time: 2023-12-11, 14:27:41	SIGNAL(2).Interrupt: 2
+process name: appBox7	   crash time: 2023-12-11, 14:27:41	SIGNAL(3).Quit: 3
+process name: appBox2	   crash time: 2023-12-11, 14:27:42	EXIT(5)
+process name: appBox1	   crash time: 2023-12-11, 14:27:43	SIGNAL(4).Illegal instruction: 4
+process name: appBox5	   start time: 2023-12-11, 14:27:43
+process name: appBox7	   start time: 2023-12-11, 14:27:44
+process name: appBox1	   start time: 2023-12-11, 14:27:44
+process name: appBox4	   crash time: 2023-12-11, 14:27:45	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox7	   crash time: 2023-12-11, 14:27:46	SIGNAL(1).Hangup: 1
+process name: appBox7	   start time: 2023-12-11, 14:27:47
+process name: appBox4	   start time: 2023-12-11, 14:27:47
+process name: appBox9	   start time: 2023-12-11, 14:27:47
+process name: appBox2	   start time: 2023-12-11, 14:27:47
+process name: appBox5	   crash time: 2023-12-11, 14:27:47	SIGNAL(2).Interrupt: 2
+process name: appBox5	   start time: 2023-12-11, 14:27:47
+process name: appBox3	   crash time: 2023-12-11, 14:27:48	EXIT(3)
+process name: appBox8	   crash time: 2023-12-11, 14:27:48	EXIT(4)
+process name: appBox5	   crash time: 2023-12-11, 14:27:48	EXIT(0)
+process name: appBox5	   start time: 2023-12-11, 14:27:50
+process name: appBox6	   crash time: 2023-12-11, 14:27:50	EXIT(5)
+process name: appBox2	   crash time: 2023-12-11, 14:27:50	EXIT(1)
+process name: appBox2	   start time: 2023-12-11, 14:27:51
+process name: appBox3	   start time: 2023-12-11, 14:27:51
+process name: appBox9	   crash time: 2023-12-11, 14:27:52	EXIT(2)
+process name: appBox9	   start time: 2023-12-11, 14:27:53
+process name: appBox8	   start time: 2023-12-11, 14:27:53
+process name: appBox6	   start time: 2023-12-11, 14:27:53
+process name: appBox4	   crash time: 2023-12-11, 14:27:54	EXIT(3)
+process name: appBox4	   start time: 2023-12-11, 14:27:54
+process name: appBox1	   crash time: 2023-12-11, 14:27:55	EXIT(5)
+process name: appBox1	   start time: 2023-12-11, 14:27:55
+process name: appBox9	   crash time: 2023-12-11, 14:27:55	SIGNAL(1).Hangup: 1
+process name: appBox9	   start time: 2023-12-11, 14:27:55
+process name: appBox1	   crash time: 2023-12-11, 14:27:56	EXIT(0)
+process name: appBox1	   start time: 2023-12-11, 14:27:56
+process name: appBox7	   crash time: 2023-12-11, 14:27:56	EXIT(4)
+process name: appBox3	   crash time: 2023-12-11, 14:27:57	SIGNAL(3).Quit: 3
+process name: appBox3	   start time: 2023-12-11, 14:27:57
+process name: appBox4	   crash time: 2023-12-11, 14:27:57	EXIT(1)
+process name: appBox2	   crash time: 2023-12-11, 14:27:59	SIGNAL(4).Illegal instruction: 4
+process name: appBox5	   crash time: 2023-12-11, 14:28:00	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox4	   start time: 2023-12-11, 14:28:00
+process name: appBox2	   start time: 2023-12-11, 14:28:00
+process name: appBox5	   start time: 2023-12-11, 14:28:00
+process name: appBox7	   start time: 2023-12-11, 14:28:00
+process name: appBox5	   crash time: 2023-12-11, 14:28:01	EXIT(0)
+process name: appBox5	   start time: 2023-12-11, 14:28:01
+process name: appBox1	   crash time: 2023-12-11, 14:28:02	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-11, 14:28:02
+process name: appBox6	   crash time: 2023-12-11, 14:28:02	EXIT(4)
+process name: appBox6	   start time: 2023-12-11, 14:28:02
+process name: appBox2	   crash time: 2023-12-11, 14:28:03	EXIT(1)
+process name: appBox2	   start time: 2023-12-11, 14:28:03
+process name: appBox8	   crash time: 2023-12-11, 14:28:04	EXIT(5)
+process name: appBox8	   start time: 2023-12-11, 14:28:04
+process name: appBox9	   crash time: 2023-12-11, 14:28:05	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox9	   start time: 2023-12-11, 14:28:05
+process name: appBox4	   crash time: 2023-12-11, 14:28:05	EXIT(2)
+process name: appBox2	   crash time: 2023-12-11, 14:28:05	SIGNAL(1).Hangup: 1
+process name: appBox3	   crash time: 2023-12-11, 14:28:06	EXIT(4)
+process name: appBox6	   crash time: 2023-12-11, 14:28:06	SIGNAL(2).Interrupt: 2
+process name: appBox2	   start time: 2023-12-11, 14:28:08
+process name: appBox6	   start time: 2023-12-11, 14:28:08
+process name: appBox4	   start time: 2023-12-11, 14:28:08
+process name: appBox3	   start time: 2023-12-11, 14:28:08
+process name: appBox1	   crash time: 2023-12-11, 14:28:08	SIGNAL(3).Quit: 3
+process name: appBox1	   start time: 2023-12-11, 14:28:08
+process name: appBox3	   crash time: 2023-12-11, 14:28:09	EXIT(0)
+process name: appBox3	   start time: 2023-12-11, 14:28:09
+process name: appBox5	   crash time: 2023-12-11, 14:28:09	SIGNAL(4).Illegal instruction: 4
+process name: appBox5	   start time: 2023-12-11, 14:28:09
+process name: appBox7	   crash time: 2023-12-11, 14:28:10	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox7	   start time: 2023-12-11, 14:28:10
+process name: appBox4	   crash time: 2023-12-11, 14:28:11	EXIT(1)
+process name: appBox6	   crash time: 2023-12-11, 14:28:13	EXIT(2)
+process name: appBox4	   start time: 2023-12-11, 14:28:13
+process name: appBox6	   start time: 2023-12-11, 14:28:14
+process name: appBox9	   crash time: 2023-12-11, 14:28:14	EXIT(4)
+process name: appBox9	   start time: 2023-12-11, 14:28:14
+process name: appBox7	   crash time: 2023-12-11, 14:28:14	SIGNAL(2).Interrupt: 2
+process name: appBox2	   crash time: 2023-12-11, 14:28:15	EXIT(3)
+process name: appBox4	   crash time: 2023-12-11, 14:28:15	SIGNAL(1).Hangup: 1
+process name: appBox8	   crash time: 2023-12-11, 14:28:15	EXIT(5)
+process name: appBox5	   crash time: 2023-12-11, 14:28:15	SIGNAL(3).Quit: 3
+process name: appBox4	   start time: 2023-12-11, 14:28:16
+process name: appBox7	   start time: 2023-12-11, 14:28:16
+process name: appBox5	   start time: 2023-12-11, 14:28:16
+process name: appBox2	   start time: 2023-12-11, 14:28:16
+process name: appBox8	   start time: 2023-12-11, 14:28:16
+process name: appBox3	   crash time: 2023-12-11, 14:28:17	SIGNAL(4).Illegal instruction: 4
+process name: appBox3	   start time: 2023-12-11, 14:28:17
+process name: appBox2	   crash time: 2023-12-11, 14:28:17	EXIT(0)
+process name: appBox2	   start time: 2023-12-11, 14:28:17
+process name: appBox1	   crash time: 2023-12-11, 14:28:18	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox1	   start time: 2023-12-11, 14:28:18
+process name: appBox5	   crash time: 2023-12-11, 14:28:19	EXIT(1)
+process name: appBox5	   start time: 2023-12-11, 14:28:19
+process name: appBox7	   crash time: 2023-12-11, 14:28:21	EXIT(2)
+process name: appBox7	   start time: 2023-12-11, 14:28:21
+process name: appBox5	   crash time: 2023-12-11, 14:28:21	SIGNAL(1).Hangup: 1
+process name: appBox5	   start time: 2023-12-11, 14:28:21
+process name: appBox1	   crash time: 2023-12-11, 14:28:22	SIGNAL(2).Interrupt: 2
+process name: appBox1	   start time: 2023-12-11, 14:28:22
+process name: appBox4	   crash time: 2023-12-11, 14:28:23	EXIT(3)
+process name: appBox4	   start time: 2023-12-11, 14:28:23
+process name: appBox9	   crash time: 2023-12-11, 14:28:23	EXIT(4)
+process name: appBox9	   start time: 2023-12-11, 14:28:23
+process name: appBox2	   crash time: 2023-12-11, 14:28:23	SIGNAL(3).Quit: 3
+process name: appBox2	   start time: 2023-12-11, 14:28:23
+process name: appBox2	   crash time: 2023-12-11, 14:28:24	EXIT(0)
+process name: appBox2	   start time: 2023-12-11, 14:28:24
+process name: appBox6	   crash time: 2023-12-11, 14:28:25	EXIT(5)
+process name: appBox6	   start time: 2023-12-11, 14:28:25
+process name: appBox3	   crash time: 2023-12-11, 14:28:25	SIGNAL(4).Illegal instruction: 4
+process name: appBox3	   start time: 2023-12-11, 14:28:25
+process name: appBox9	   crash time: 2023-12-11, 14:28:26	EXIT(1)
+process name: appBox9	   start time: 2023-12-11, 14:28:26
+process name: appBox8	   crash time: 2023-12-11, 14:28:26	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox8	   start time: 2023-12-11, 14:28:26
+process name: appBox4	   crash time: 2023-12-11, 14:28:28	EXIT(2)
+process name: appBox4	   start time: 2023-12-11, 14:28:28
+process name: appBox8	   crash time: 2023-12-11, 14:28:28	SIGNAL(1).Hangup: 1
+process name: appBox8	   start time: 2023-12-11, 14:28:29
+process name: appBox1	   crash time: 2023-12-11, 14:28:29	EXIT(3)
+process name: appBox1	   start time: 2023-12-11, 14:28:29
+process name: appBox5	   crash time: 2023-12-11, 14:28:30	EXIT(4)
+process name: appBox9	   crash time: 2023-12-11, 14:28:30	SIGNAL(2).Interrupt: 2
+process name: appBox9	   start time: 2023-12-11, 14:28:30
+process name: appBox3	   crash time: 2023-12-11, 14:28:31	SIGNAL(3).Quit: 3
+process name: appBox3	   start time: 2023-12-11, 14:28:31
+process name: appBox5	   start time: 2023-12-11, 14:28:31
+process name: appBox5	   crash time: 2023-12-11, 14:28:32	EXIT(0)
+process name: appBox5	   start time: 2023-12-11, 14:28:32
+process name: appBox7	   crash time: 2023-12-11, 14:28:32	EXIT(5)
+process name: appBox7	   start time: 2023-12-11, 14:28:33
+process name: appBox6	   crash time: 2023-12-11, 14:28:33	SIGNAL(4).Illegal instruction: 4
+process name: appBox6	   start time: 2023-12-11, 14:28:33
+process name: appBox3	   crash time: 2023-12-11, 14:28:34	EXIT(1)
+process name: appBox3	   start time: 2023-12-11, 14:28:34
+process name: appBox2	   crash time: 2023-12-11, 14:28:34	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   start time: 2023-12-11, 14:28:34
+process name: appBox9	   crash time: 2023-12-11, 14:28:35	EXIT(2)
+process name: appBox9	   start time: 2023-12-11, 14:28:35
+process name: appBox1	   crash time: 2023-12-11, 14:28:36	EXIT(3)
+process name: appBox2	   crash time: 2023-12-11, 14:28:36	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-11, 14:28:37
+process name: appBox1	   start time: 2023-12-11, 14:28:37
+process name: appBox8	   crash time: 2023-12-11, 14:28:38	EXIT(4)
+process name: appBox8	   start time: 2023-12-11, 14:28:38
+process name: appBox3	   crash time: 2023-12-11, 14:28:38	SIGNAL(2).Interrupt: 2
+process name: appBox3	   start time: 2023-12-11, 14:28:39
+process name: appBox6	   crash time: 2023-12-11, 14:28:39	SIGNAL(3).Quit: 3
+process name: appBox6	   start time: 2023-12-11, 14:28:39
+process name: appBox4	   crash time: 2023-12-11, 14:28:39	EXIT(5)
+process name: appBox4	   start time: 2023-12-11, 14:28:39
+process name: appBox6	   crash time: 2023-12-11, 14:28:40	EXIT(0)
+process name: appBox6	   start time: 2023-12-11, 14:28:40
+process name: appBox7	   crash time: 2023-12-11, 14:28:41	SIGNAL(4).Illegal instruction: 4
+process name: appBox7	   start time: 2023-12-11, 14:28:41
+process name: appBox3	   crash time: 2023-12-11, 14:28:42	EXIT(1)
+process name: appBox3	   start time: 2023-12-11, 14:28:42
+process name: appBox5	   crash time: 2023-12-11, 14:28:42	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox5	   start time: 2023-12-11, 14:28:42
+process name: appBox8	   crash time: 2023-12-11, 14:28:43	EXIT(2)
+process name: appBox8	   start time: 2023-12-11, 14:28:43
+process name: appBox1	   crash time: 2023-12-11, 14:28:44	EXIT(3)
+process name: appBox1	   start time: 2023-12-11, 14:28:44
+process name: appBox3	   crash time: 2023-12-11, 14:28:45	EXIT(1)
+process name: appBox3	   start time: 2023-12-11, 14:28:45
+process name: appBox7	   crash time: 2023-12-11, 14:28:46	EXIT(2)
+process name: appBox7	   start time: 2023-12-11, 14:28:46
+process name: appBox2	   crash time: 2023-12-11, 14:28:46	EXIT(4)
+process name: appBox2	   start time: 2023-12-11, 14:28:46
+process name: appBox9	   crash time: 2023-12-11, 14:28:46	EXIT(5)
+process name: appBox9	   start time: 2023-12-11, 14:28:46
+process name: appBox6	   crash time: 2023-12-11, 14:28:47	EXIT(3)
+process name: appBox6	   start time: 2023-12-11, 14:28:47
+process name: appBox4	   crash time: 2023-12-11, 14:28:48	EXIT(4)
+process name: appBox4	   start time: 2023-12-11, 14:28:48
+process name: appBox8	   crash time: 2023-12-11, 14:28:50	EXIT(3)
+process name: appBox8	   start time: 2023-12-11, 14:28:50
+process name: appBox6	   crash time: 2023-12-11, 14:28:50	EXIT(1)
+process name: appBox6	   start time: 2023-12-11, 14:28:50
+process name: appBox9	   crash time: 2023-12-11, 14:28:51	EXIT(2)
+process name: appBox9	   start time: 2023-12-11, 14:28:51
+process name: appBox1	   crash time: 2023-12-11, 14:28:52	SIGNAL(4).Illegal instruction: 4
+process name: appBox1	   start time: 2023-12-11, 14:28:52
+process name: appBox5	   crash time: 2023-12-11, 14:28:52	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox5	   start time: 2023-12-11, 14:28:52
+process name: appBox9	   crash time: 2023-12-11, 14:28:52	EXIT(0)
+process name: appBox9	   start time: 2023-12-11, 14:28:52
+process name: appBox6	   crash time: 2023-12-11, 14:28:53	EXIT(1)
+process name: appBox6	   start time: 2023-12-11, 14:28:53
+process name: appBox2	   crash time: 2023-12-11, 14:28:53	EXIT(3)
+process name: appBox2	   start time: 2023-12-11, 14:28:53
+process name: appBox7	   crash time: 2023-12-11, 14:28:55	EXIT(4)
+process name: appBox7	   start time: 2023-12-11, 14:28:55
+process name: appBox8	   crash time: 2023-12-11, 14:28:55	EXIT(2)
+process name: appBox8	   start time: 2023-12-11, 14:28:55
+process name: appBox2	   crash time: 2023-12-11, 14:28:55	SIGNAL(1).Hangup: 1
+process name: appBox2	   start time: 2023-12-11, 14:28:55
+process name: appBox4	   crash time: 2023-12-11, 14:28:55	EXIT(3)
+process name: appBox4	   start time: 2023-12-11, 14:28:55
+process name: appBox3	   crash time: 2023-12-11, 14:28:56	EXIT(5)
+process name: appBox3	   start time: 2023-12-11, 14:28:56
+process name: appBox6	   crash time: 2023-12-11, 14:28:57	SIGNAL(2).Interrupt: 2
+process name: appBox6	   start time: 2023-12-11, 14:28:57
+process name: appBox6	   crash time: 2023-12-11, 14:28:58	EXIT(0)
+process name: appBox6	   start time: 2023-12-11, 14:28:58
+process name: appBox9	   crash time: 2023-12-11, 14:28:58	SIGNAL(3).Quit: 3
+process name: appBox9	   start time: 2023-12-11, 14:28:58
+process name: appBox3	   crash time: 2023-12-11, 14:28:59	EXIT(1)
+process name: appBox3	   start time: 2023-12-11, 14:28:59
+process name: appBox5	   crash time: 2023-12-11, 14:29:00	SIGNAL(4).Illegal instruction: 4
+process name: appBox5	   start time: 2023-12-11, 14:29:00
+process name: appBox4	   crash time: 2023-12-11, 14:29:00	EXIT(2)
+process name: appBox4	   start time: 2023-12-11, 14:29:00
+process name: appBox1	   crash time: 2023-12-11, 14:29:02	SIGNAL(5).Trace/BPT trap: 5
+process name: appBox2	   crash time: 2023-12-11, 14:29:02	EXIT(3)
+process name: appBox1	   start time: 2023-12-11, 14:29:02
+process name: appBox2	   start time: 2023-12-11, 14:29:02

@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/yanghuibeom/Desktop/Process/appBlock'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _gettime, symObjAddr: 0x0, symBinAddr: 0x1000039D4, symSize: 0xC8 }
+  - { offsetInCU: 0x33, offset: 0x33, size: 0x8, addend: 0x0, symName: _gettime, symObjAddr: 0x0, symBinAddr: 0x1000039D4, symSize: 0xC8 }
+  - { offsetInCU: 0x58, offset: 0x58, size: 0x8, addend: 0x0, symName: _gettime.str, symObjAddr: 0x15C1, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0xC5, offset: 0xC5, size: 0x8, addend: 0x0, symName: _RandomByPID, symObjAddr: 0xC8, symBinAddr: 0x100003A9C, symSize: 0x2C }
+  - { offsetInCU: 0xDE, offset: 0xDE, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xF4, symBinAddr: 0x100003AC8, symSize: 0x3A8 }
+...
